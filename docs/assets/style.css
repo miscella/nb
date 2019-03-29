@@ -6,8 +6,9 @@ p code {
   white-space: inherit;
 }
 pre {
-  word-break: normal;
-  word-wrap: normal;
+  /* word-break: normal; */
+  word-wrap: break-word;
+  white-space: pre-wrap;
 }
 pre code {
   white-space: inherit;
