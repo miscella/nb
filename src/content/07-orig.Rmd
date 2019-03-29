@@ -1,0 +1,52 @@
+# origo
+
+## digital collections
+
+- [Gallica](https://gallica.bnf.fr/)
+- [Europeana](https://www.europeana.eu/)
+- [Deutsche Digitale Bibliothek](https://www.deutsche-digitale-bibliothek.de)
+
+- [Monoskop](https://monoskop.org/)
+- [AAARG](https://aaaaarg.fail/)
+- [textz](http://textz.com/)
+- [Memory of the World](http://library.memoryoftheworld.org)
+
+- [Google Books](https://books.google.com)
+- [Internet Archive](https://archive.org)
+- [Library Genesis](http://gen.lib.rus.ec/)
+
+- [Library of Congress](https://www.loc.gov/collections/)
+- [Staatsbibliothek zu Berlin](http://digital.staatsbibliothek-berlin.de)
+- [Bayrische Staatsbibliothek](http://www.digitale-sammlungen.de)
+- [Goethe Universität Frankfurt](http://sammlungen.ub.uni-frankfurt.de)
+
+- [DigiZeitschriften](http://www.digizeitschriften.de/)
+- [ZEFYS](http://zefys.staatsbibliothek-berlin.de)
+- [Austrian Newspaper Online](http://anno.onb.ac.at)
+- [Illustrierte Magazine der Klassischen Moderne](http://magazine.illustrierte-presse.de)
+
+- [JSTOR](https://www.jstor.org)
+- [HathiTrust](https://www.hathitrust.org)
+
+## catalogues
+
+- [WorldCat](http://worldcat.org)
+- [Zeitschriftendatenbank](https://zdb-katalog.de/) (ZDB)
+- [Karlsruher Virtueller Katalog](http://kvk.bibliothek.kit.edu) (KVK)
+- [Kooperativer Bibliothekenverbund Berlin Brandenburg](http://kobv.de) (KOBV)
+- [Südwestdeutscher Bibliotheksverbund](http://swb.bsz-bw.de) (SWB)
+
+## libraries
+
+- [Humboldt-Universität zu Berlin](https://www.ub.hu-berlin.de/)
+- [Technische Universität Berlin](www.ub.tu-berlin.de)
+- [Freie Universität zu  Berlin](ub.fu-berlin.de)
+- [Universität der Künste Berlin](https://www.udk-berlin.de/service/universitaetsbibliothek/)
+- [Universitätsbibliothek Leipzig](https://www.ub.uni-leipzig.de/)
+- [Bundesarchiv](http://www.bundesarchiv.de/)
+- [Deutsche Nationalbibliothek](http://www.dnb.de/)
+- [Staatsbibliothek zu Berlin](http://staatsbibliothek-berlin.de/)
+- [Kunstbibliothek Berlin](https://www.smb.museum/museen-und-einrichtungen/kunstbibliothek/home.html)
+- [Zentral- und Landesbibliothek Berlin](https://www.zlb.de)
+- [Verbund der Öffentlichen Bibliotheken Berlins](https://www.voebb.de/)
+- [Leipziger Städtische Bibliotheken](https://stadtbibliothek.leipzig.de)

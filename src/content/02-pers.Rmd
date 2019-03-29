@@ -1,0 +1,586 @@
+# persona
+
+## ramon, lull
+
+- [@wol68.kun29.ger]
+
+
+Beschreibung der von ihm entworfenen Maschine unter anderem in:
+
+```
+Werner Künzel, Lullistische Begriffsmaschinen, in Michael Cahn (ed.), Der Druck des Wissens. Geschichte und Medium der wissenschaftlichen Publikation, Wiesbaden: Reichert 1991, pp. 15–16.
+```
+
+Hegel spricht mehrfach über Lullus und seine *ars magna*.
+
+## lissitzky, el
+
+```
+"Unser Buch", in Gutenberg Jahrbuch 1927, ed. Alois Ruppel, Mainz: Gutenberg-Gesellschaft, 1926-27. (German)
+
+El Lissitzky, “Our Book,” in El Lissitzky: Life, Letters, Text, ed. Sophie Lissitzky-Küppers, trans. Helene Aldwinckle and Mary Whittall, Thames and Hudson, Ltd., London 1968.
+
+"The Future of the Book", New Left Review 41, Jan-Feb 1967, pp 39-44; repr. in Communication and Class Struggle, 2: Liberation, Socialism, eds. Armand Mattelart and Seth Siegelaub, New York: International General, and France: International Mass Media Research Center, 1983, pp 267-269. (English)
+
+"Our Book", trans. Helene Aldwinckle and Mary Whittall, in Lissitzky-Küppers, El Lissitzky, 1968, pp 360-363; repr. in Graphic Design Theory: Readings From the Field, ed. Helen Armstrong, Princeton, 2009, pp 25-31. (English)
+```
+
+
+## lem, stanislaw
+
+### books
+
+- Summa Technologiae
+
+The book has 8 chapters, each dealing with far-fetched implications of a certain concept: ... The first edition also contained: 9 Art and Technology (Polish: Sztuka i technologia.) After Leszek Kołakowski severely criticised the chapter, it was removed in later editions, both Polish and foreign. In 1988 Lem remarked that during the time past the subject had gained it its actuality. [src](https://en.wikipedia.org/wiki/Summa_Technologiae)
+
+## leary, timothy
+
+- [Chaos und Cyber-Kultur](https://archive.org/details/chaosundcyberkul00learrich) (1997)
+
+### links
+
+- [timothy leary archives](http://www.timothylearyarchives.org)
+
+
+## laßwitz, kurd
+
+- [@las48.uni04.ger]
+    - `ENG` The Universal Library, in: Clifton Fadiman (ed.), Fantasia Mathematica, New York: Simon and Schuster, pp. 237-243.
+
+
+- *Der Gehirnspiegel. Ein Triumph der Technik*, in: *Die Woche* 1 (1900), Nr. 13.
+    - Nie und Immer. Bd. 2: Traumkristalle. Neue Märchen. Stark vermehrte Aufl. Leipzig 1907, pp. 97-108.
+        - [DNB](http://d-nb.info/574562621)
+
+
+Beim Gehirnspiegel handelt es sich um ein Gerät, mit dessen Hilfe sich das Gehirn durchleuchten und photographieren lässt.
+
+
+
+## kretschmann, karl friedrich
+
+- Scarron am Fenster, in: W.G. Becker. (ed.), Almanach und Taschenbuch zum geselligen Vergnügen. Leipzig 1798, S 64-90 und 1799, S 42-80,
+- Scarron am Fenster, in: W.G. Becker (ed.), Taschenbuch zum geselligen Vergnügen. Leipzig: Gleditsch 1798, S 64-90.
+- Scarron abermals am Fenster, in: W.G. Becker (ed.), Almanach und Taschenbuch zum geselligen Vergnügen, Leipzig: Voß 1799, pp. 42-80.
+
+## korn, arthur
+
+```
+
+KORN A., "Uber ein Apparat zue Herstellung von Elektrischen Fernphotographien", Elektronische Zeitschrift, XXIII, 1902
+A. KORN, Elektrische Fernsehphotographie und Ahnliches, Verlag von S. Hirzel, Leipzig, 1904
+
+KORN, A. und GLATZEL, Br., Handbuch der Phototelegraphie und Telautographie, Verlag von Nemich, Leipzig, 1911.
+KORN, A. und NESPER, A., Bildrundfunk, Julius Pringer, Berlin, 1926.
+KORN A., Elektrisches Fernsehen, Verlag Otto Salle, Berlin, 1930.
+
+```
+
+## king, stephan
+
+- *Word Processors of the Gods*
+    - `DEU` *Taste des Todes. Der Textcomputer der Götter*, Playboy 11/1984
+    - `FRA` *L’Ordinateur des dieux*
+
+
+- *Tales from the Darkside*
+    - Season 1, Episode 8: *Word Processors of the Gods*
+
+
+## kelly, kevin
+
+- [Kevin Kelly and Jerry Kaplan - A Future with Intelligent Machines](https://youtu.be/a4LPIexd_Ak)
+- [Kevin Kelly: The next 5,000 days of the web](https://youtu.be/yDYCf4ONh5M)
+
+
+## kawano, hiroshi
+
+```
+Hiroshi Kawano. The Philosopher at the Computer
+Fri, 23.09.2011 6 pm, ZKM_Foyer
+
+The Japanese philosopher, Hiroshi Kawano (*1925), is one of the most important pioneers in
+the conquest of computer technology for the arts. With the exhibition Hiroshi Kawano. The
+Philosopher at the Computer the ZKM is dedicating a first retrospective to his work. The
+exhibition comprises numerous works and documents which have never before been
+presented outside Japan, and draws on the rich Hiroshi-Kawano archive located at the ZKM
+since 2010. The retrospective emphasizes Kawano's special role in the circle of pioneers in
+»computer art«: he was neither artist, who discovered the computer as a new production
+medium and theme, nor engineer who came to art via the new machine, but a philosopher,
+who left his desk for the computer center to experiment with theoretical models.
+
+```
+
+
+## kafka, franz
+
+*Kafka kennt sich in Amerika nicht aus*, 99 Fundstücke, [franzkafka.de](http://www.franzkafka.de/franzkafka/fundstueck_archiv/fundstueck/1121411)
+
+Es ist charakteristisch für Kafkas erzählerische Prosa, dass örtliche und zeitliche Bestimmungen zumeist unscharf bleiben und der Leser daher unter dem Eindruck steht, alles spiele sich in einem gespenstischen Zwischenreich, einem Nirgendwo ab – wie im Traum. So wird niemals der Name der Stadt genannt, in der sich Der Process vollzieht, und auch das Dorf am Fuß des Schlosses bleibt namenlos.
+
+Die einzige bedeutsame Ausnahme von dieser Regel ist der 1912/13 entstandene Roman Der Verschollene. Obwohl Kafka die USA nur aus Reisebüchern, Vorträgen und mündlichen Berichten kannte, hatte er sich dennoch vorgenommen, »das allermodernste New Jork« zu schildern, wie er gegenüber seinem Verleger Kurt Wolff bekannte. Daher sind viele Örtlichkeiten korrekt benannt, und bemerkenswerterweise ist Der Verschollene auch der einzige erzählerische Text Kafkas, in dem ausdrücklich von Prag die Rede ist.
+
+Um so auffallender, dass Kafka im Manuskript dieses Romans einige sonderbare Irrtümer unterliefen. Offenbar machte er sich bei seinen Recherchen keine systematischen Notizen, sondern verließ sich auf sein Gedächtnis: So kam es, dass er etwa eine wiederholt falsche Schreibweise aus Arthur Holitschers sozialkritischer Reportage Amerika – heute und morgen übernahm und »Oklahama« anstelle von »Oklahoma« schrieb. Auch ist von einer Brücke die Rede, »die New York mit Boston verbindet« – wobei Kafka natürlich die von zahlreichen Abbildungen bekannte Brooklyn Bridge vor Augen hatte. Schließlich verlegte er San Francisco auf die falsche Seite des Kontinents: Sein Protagonist Karl Rossmann wird zu einer Reise nach »Frisco« genötigt, da für ihn »die Erwerbsmöglichkeiten im Osten viel bessere« seien.
+
+Die erstaunlichste und offenbar gewollte Abweichung seiner Romanwelt von der Wirklichkeit findet sich indessen schon im allerersten Absatz: Die Freiheitsstatue, die alle New York-Reisenden begrüßt, reckt hier keine Fackel, sondern ein Schwert in den Himmel. Da dieses Kapitel des Verschollenen separat unter dem Titel Der Heizer (1913) veröffentlicht wurde, fiel der krasse ›Fehler‹ auch Freunden und Kritikern auf, so dass Kafka Gelegenheit gehabt hätte, den Text in den späteren, neu gesetzten Auflagen zu korrigieren. Er unterließ es.
+
+Quellen: Brief an Kurt Wolff, 25. Mai 1913, in: Franz Kafka, Briefe 1913–1914, Frankfurt am Main (S.Fischer) 1999, S. 196f. Franz Kafka, Der Verschollene, Frankfurt am Main (S.Fischer) 1983, S. 124, 144 u. 387.
+
+Fotos: George Grantham Bain Collection, Library of Congress, Washington, D.C. – Arthur Holitscher, Amerika – heute und morgen, Berlin (S.Fischer) 1912, S. 367.
+
+
+
+
+Kafka wrote in The Man who Disappeared (America) »Everyone is welcome! Anyone who wants to become an artist should apply! We are the theater that can use everyone, a place for everyone!«, New York: Oxford University Press, 2012, p. 195.
+
+M. Mcluhan in his text »The Brain and the Media: The ›Western‹ Hemisphere«, published in December 1978
+
+
+
+- [digbib.org](http://www.digbib.org/Franz_Kafka_1883/)
+
+
+```
+
+    PDF: Amerika
+    PDF: Aphorismen
+    PDF: Auf der Galerie
+    PDF: Blumfeld, ein aelterer Junggeselle
+    PDF: Brief an den Vater
+    PDF: Das Schloss
+    PDF: Das Urteil
+    PDF: Der Bau
+    PDF: Der Gruftwaechter
+    PDF: Der Prozess
+    PDF: Die Verwandlung
+    PDF: Erzaehlungen
+    PDF: In der Strafkolonie
+    PDF: Kleine Fabel
+    PDF: Verschiedenes
+
+```
+
+## hayles, n. katherine
+
+- wiki, en: [selected bibliography](https://en.wikipedia.org/wiki/N._Katherine_Hayles#Selected_bibliography)
+
+## čapek, karel
+
+- R.U.R. Rossum’s Universal Robots (1920)
+
+[wiki](https://en.wikipedia.org/wiki/R.U.R.)
+
+R.U.R. is a 1920 science fiction play by the Czech writer Karel Čapek. R.U.R. stands for Rossumovi Univerzální Roboti (Rossum's Universal Robots). However, the English phrase "Rossum's Universal Robots" had been used as the subtitle in the Czech original. It premiered on 25 January 1921 and introduced the word "robot" to the English language and to science fiction as a whole.
+
+R.U.R. quickly became influential after its publication. By 1923, it had been translated into thirty languages.
+
+
+## gunzenhäuser, rul
+
+
+- Mathematik und Dichtung. Versuche zur Frage einer exakten Literaturwissenschaft. Nymphenburger Verlagshandlung, 1967
+
+- Rul Gunzenhäuser, Ein Weihnachtsgedicht
+  - wohl in Ja und Nein. Unabhängige Jugendzeitschrift (1960), Nr. 12 und (1961), Nr. 1
+
+- Helmar Frank / Rul Gunzenhäuser, Über Mime und Pantomime, in: Grundlagenstudien. Aus Kybernetik und Geisteswissenschaft 1 (Okt. 1960), No. 4, pp. 113-121
+
+- Rul Gunzenhäuser, Abschließende Mitteilung über ein Programm zur Erzeugung stochastisch-logistischer Texte, in: Grundlagenstudien. Aus Kybernetik und Geisteswissenschaft 1 (Okt. 1960), No. 4, pp. 127-128.
+
+- Rul Gunzenhäuser, Zur mathematischen Textanalyse: Der Vergleich von Texten, in: Grundlagenstudien. Aus Kybernetik und Geisteswissenschaft 1 (Dez. 1960), No. 5, pp. 153-159.
+
+- Rul Gunzenhäuser, Bericht über ein Programm zur numerischen Textanalyse, in: Grundlagenstudien. Aus Kybernetik und Geisteswissenschaft 2 (Jul. 1961), No. 2, pp. 51-55.
+
+- Rul Gunzenhäuser, Programmierung des Schönen [Rezension], in: Grundlagenstudien. Aus Kybernetik und Geisteswissenschaft 2 (Jul. 1961), No. 2, pp. 51-55.
+
+- Rul Gunzenhäuser, Zur Synthese von Texten mit Hilfe programmgesteuerter Ziffernrechenanlagen, in: mtw. Zeitschrift für moderne Rechentechnik und Automation 10 (1963), No. 1, pp 4-9.
+
+
+## gernsback, hugo
+
+- *The Isolator*, Science and Invention. Vol. 13 No. 3. New York: Experimenter Publishing Company. July 1925. 201-296.
+- Paul O'Neil, »The Amazing Hugo Gernsback. Prophet of Science. Barnum of the Space Age«, in: Life Magazine (26 Juli 1963), pp. 62-68.
+    - [google books](https://books.google.de/books?id=JlIEAAAAMBAJ&lpg=PP1&pg=PA62#v=onepage&q&f=false)
+
+```
+Gernsback shows off a pair of ›teleyeglasses‹, an idea he first dreamed up in 1936, for which he feels the world is now ready. (LIFE (Jul 26, 1963) p. 68)
+```
+
+[src](https://books.google.de/books?id=JlIEAAAAMBAJ&lpg=PP1&pg=PA68#v=onepage&q&f=false)
+
+
+## gates, bill
+
+### text
+
+- *Der Weg nach vorn. Die Zukunft der Informationsgesellschaft* (1995)
+
+### video
+
+- [The Road Ahead - Bill Gates Comdex Keynote 1995](https://youtu.be/o0O0Xjpjvfc)
+- [Bill Gates - COMDEX 1990 (Complete Presentation)](https://youtu.be/uGA1Chm_8RE)
+
+## englisch, paul
+
+- Paul Englisch: Plagiat! Plagiat! Eine Rundschau, Berlin 1930.
+    - http://visuallibrary.net/116481
+
+- Debora Weber-Wulff, False Feathers: A Perspective on Academic Plagiarism, 2014
+    - https://books.google.de/books?isbn=3642399614
+
+
+```
+The jurist and writer Paul Englisch (1887–1935) was sued in 1929 by the publisher Georg Socher.
+```
+
+## engels, friedrich
+
+- Die Lage der arbeitenden Klasse in England. Nach eigner Anschauung und authentischen Quellen, Leipzig: Otto Wigand 1845.
+
+## doehl, reinhard
+
+- Sprache und Elektronik. Über neue technische Möglichkeiten, Literatur zu erstellen und zu rezipieren.
+    - WDR, Kulturelles Wort, 27.2.1970.
+    - Übernahme: SDR, Studio für neue Literatur, 31.7.1970
+
+## dahl, roald
+
+- *The Great Automatic Grammatizator*, in: *Someone Like You*
+    - New York: Knopf 1953
+    - London ; Secker & Warburg ; 1954 ; 256 S.
+
+
+deutsch als:
+
+- *Und noch ein Küßchen! Weitere ungewöhnliche Geschichten*. Aus d. Amerik. übertr. v. Hans-Heinrich Wellmann
+    - Hamburg ; Rowohlt ; 1963 ; 235 S.
+        - Grimm / VW
+    - Stuttgart ; Hamburg : Deutscher Bücherbund [1966]
+        - DNB
+
+## coetzee, j. m.
+
+
+- Colin Marshall, When J.M. Coetzee Secretly Programmed Computers to Write Poetry in the 1960s, url: http://www.openculture.com/2017/07/when-j-m-coetzee-secretly-programmed-computers-to-write-poetry-in-the-1960s.html
+
+```
+Before J.M. Coetzee became perhaps the most acclaimed novelist alive, he worked as a programer. That may not sound particularly notable these days, but bear in mind that the Nobel laureate and two-time Booker-winning author ... held that day job first at IBM in the early 1960s — back, in other words, when nobody had a computer on their desk. And back when IBM was IBM: that mighty American corporation had brought the kind of computing power it alone could command to branch offices in cities around the world, including London, where Coetzee landed after leaving his native South Africa after graduating from the University of Cape Town.
+```
+
+- Rebecca Roach, The computer poetry of J. M. Coetzee's early programming career (June 28, 2017), url: https://blog.hrc.utexas.edu/2017/06/28/the-computer-poetry-of-j-m-coetzees-early-programming-career/
+
+```
+Coetzee’s global reputation rests on his literary output, for which he received a Nobel Prize in 2003. Before he embarked on a career as a scholar and writer, the South African–born writer was a computer programmer in the early years of the industry’s development (1962–1965).
+
+In the mid 1960s Coetzee was working on one of the most advanced programming projects in Britain. During the day he helped to design the Atlas 2 supercomputer destined for the United Kingdom’s Atomic Energy Research Establishment at Aldermaston. At night he used this hugely powerful machine of the Cold War to write simple “computer poetry,” that is, he wrote programs for a computer that used an algorithm to select words from a set vocabulary and create repetitive lines. Coetzee never published these results, but edited and included phrases from them in poetry that he did publish.
+[In 'Youth' heißt es, die Gedichte wurden in Südafrika veröffentlicht.]
+
+Excitingly, I also was able to examine Coetzee’s born-digital materials, recovered from 5.25” and 3.5” floppy diskettes. This was invaluable, and enabled me to begin to establish a timeline of what kinds of computing hardware and software Coetzee was employing across his writing career.
+```
+
+## churchland, paul
+
+```
+Paul M. Churchland, Die Seelenmaschine. Eine philosophische Reise ins Gehirn, Heidelberg; Berlin; Oxford: Sepktrum, Akad. Verl. 1997.
+
+ders., The Engine of Reason, the Seat of the Soul. A Philosophical Journey into the Brain, Cambridge/MA: The MIT Press 1995
+```
+
+## balázs, béla
+
+- Die Kunstphilosophie des Films (1938)
+    - Das Wort
+
+## babbage, charles
+
+- On the Economy of Machinery and Manufactures (1832)
+    - [monoskop](https://monoskop.org/images/a/a1/Babbage_Charles_On_the_Economy_of_Machinery_and_Manufactures.pdf)
+    - [archive.org](https://archive.org/details/oneconomyofmachi00babbrich)
+- Traité sur économie des machines et des manufactures (1833)
+    - [bnf](https://gallica.bnf.fr/ark:/12148/bpt6k85754p)
+    - [archive.org](https://archive.org/details/traitsurlconomi00babbgoog)
+- Babbage’s Calculating Engines. Being a Collection of Papers Relating to Them (1889)
+    - [monoskop](https://monoskop.org/images/4/40/Babbage_Charles_Calculating_Engines.pdf)
+
+## apollinaire, guillaume
+
+- Les flaneurs des deux rives (1918)
+- Calligrammes (1918)
+    - Il pleut
+
+## asimov, isaac
+
+- Foundation, Astounding Science-Fiction 29 (May 1942), No. 3, pp. 38-53.
+- Visit to the World's Fair of 2014 (Aug 16, 1964), [New York Times](https://archive.nytimes.com/www.nytimes.com/books/97/03/23/lifetimes/asi-v-fair.html)
+- Futuredays: A Nineteenth Century Vision of the Year 2000. New York: Henry Holt 1986.
+
+- [A Vision for the Future](https://youtu.be/V4Ux83nJC0U) (1992)
+
+## assmann, aleida
+
+- Erinnerungsräume. Formen und Wandlungen des kulturellen Gedächtnisses (1999)
+- Cultural Memory and Western Civilization: functions, media, archives (2011)
+
+## tauschek, gustav
+
+- Reading Machine (1932) Patent
+
+
+- Martin Helfert, Christoph M. Wintersteiger: Gustav Tauschek's Punchcard Accounting Machines, Proceedings of the Workshop on Methodic and Didactic Challenges of the History of Informatics (MEDICHI 2007), OCG 220, Austrian Computer Society, 2007.
+
+
+## calvino, italo
+
+die unsichtbaren städte
+
+## arendt, hannah
+
+```
+Hannah Arendt in New York
+Dokumentation, Deutschland 2006, Erstausstrahlung
+Regie: Jean-Claude Lubtchansky
+
+
+Hannah Arendt
+
+Hinweis auf Walter Benjamin
+(Regarding Walter Benjamin)
+Goethe House, New York
+
+16 January 1968
+
+mit uni-lpz-zugang:
+http://search.alexanderstreet.com/view/work/1827079
+
+```
+
+- Helgard Mahrdt, ''Unausrottbar ist das Poetische solange es noch das Wundern gibt', Hannah Arendt über Walter Benjamin, in Dichterisch denken. Hannah Arendt und die Künste, ed. Wolfgang Heuer, Irmela von der Lühe, Göttingen 2007.
+
+## blumenberg, hans
+
+Hans Blumenberg, Eine imaginäre Universalbibliothek, in: Akzente 28 (1981), H. 1, pp. 27-40.
+
+Hans Blumenberg, Die Lesbarkeit der Welt, Frankfurt/M: Suhrkamp 1981 (Kap. X: Weltchronik oder Weltformel, pp. 121–149)
+
+## berners-lee, tim
+
+Tim Berners-Lee, et al, "World-Wide Web: Information Universe”, Electronic : Research, Applications and Policy, April 1992.
+
+Tim Berners-Lee, et al, “The World Wide Web,”Communications of the ACM, August, 1994.
+
+Tim Berners-Lee, “WWW: Past, Present, and Future”, IEEE, Computer Magazine, Vol. 29, No. 10, Oct. 1996.
+
+Tim Berners-Lee, “World-Wide Computer”, Communications of the ACM, Vol. 40, No. 2, Feb. 1997.
+
+Berners-Lee, T.J, Cailliau, R., and Groff, J-F, "The World-Wide Web", Computer Networks and ISDN Systems 25 (1992) 454-459. North-Holland
+
+Tim Berners-Lee and Cailliau, R., CERN, "The World-Wide Web", in proceedings of the conference "Computing in High Energy Physics", Annecy, France, 1992. Yellow report, CERN, Geneva, Switzerland.
+
+
+Tim Berners-Lee, “Europe And the Info Age,” Time Magazine, Winter 1996
+Tim Berners-Lee, “Spinning the Web: A place for everything, and everything on the Web?”, Data Communications, Vol. 26, No. 14, Oct. 1997.
+Tim Berners-Lee and James Hendler "Publishing on the Semantic Web", Nature, April 26 2001 p. 1023-1025.
+Tim Berners-Lee, James Hendler and Ora Lassila, "The Semantic Web", Scientific American, May 2001, p. 29-37.
+
+## bell, gordon
+
+[i am data](http://image.slidesharecdn.com/mylifebits-van-microsoft-23154/95/mylifebits-van-microsoft-7-728.jpg)
+
+[ppt](http://research.microsoft.com/en-us/um/people/gbell/Bell_MyLifeBits_Alpbach_0408.ppt)
+
+- Digital memories in an era of ubiquitous computing and abundant storage. Von Mary Czerwinski et al. in: Communications of the ACM, Bd. 49, Nr. 1, S. 44, Januar 2006
+
+- MyLifeBits: a personal database for every­thing. Von Jim Gemmell, Gordon Bell und Roger Lueder in: Communications of the ACM, Bd. 49, Nr. 1, S. 88, Januar 2006
+
+- A personal digital store. Von Gordon Bell in: Communications of the ACM, Bd. 44, Nr. 1, S. 86, Januar 2001
+
+
+
+## flusser, vilém
+
+- *Gedächtnisse*, in: Ars Electronica (ed.), *Philosophien der neuen Technologie*, Berlin: Merve 1989, pp. 41-56.
+- *Die Schrift. Hat Schreiben Zukunft?*, Göttingen: Immatrix, 1987.
+    - [pub](http://equivalence.com/labor/lab_vf_edi.shtml)
+    - [extract](http://equivalence.com/labor/lab_vf_exz_schrift.shtml)
+
+
+## nora, pierre
+
+
+- Pierre Nora, «Entre mémoire et histoire», in Les Lieux de mémoire, tome 1, La République, Gallimard, Paris, 1984, p. XIX.
+
+- Pierre Nora, Zwischen Geschichte und Gedächtnis: Die Gedächtnisorte, in: ders., Zwischen Gedächtnis und Geschichte, Berlin: Wagenbach 1990, p. 19.
+
+- *Zwischen Geschichte und Gedächtnis* Nora, Pierre. - Frankfurt am Main : Fischer-Taschenbuch-Verl., 1998, Ungekürzte Ausg.
+
+## jean paul
+
+
+`Die Taschenbibliothek`
+
+Es kann sein, daß meine jungen Leser zufrieden sind, wenn sie meine Erzählung gelesen; aber dankbar werden sie sein nach zwanzig Jahren, wenn sie sie benutzet haben.
+
+
+*Taschenkalender zur belehrenden Unterhaltung für die Jugend und ihre Freunde a. d. J. 1797*
+
+
+
+## leibniz, g. w.
+
+### Apokatastasis panton
+
+
+
+Gottfried Wilhelm Leibniz, De l'horizon de la doctrine humaine (1693). Apokatastasis pantōn (1715). Textes inédits, trad. et annotés par Michel Fichant. Paris : Libr. Philosophique Vrin, 1991
+
+Fichant, Michel (Herausgeber)
+
+http://d-nb.info/944868193
+
+G.W. Leibniz, Mysterion apokatastaseos panton. Petersen, J.W., Frankfurt am Main, 1700
+Monatlicher Auszug aus allerhand neu herausgegebenen, nützlichen und artigen Büchern Aprilis MDCCI (= April 1701), pp. 1-37.
+(Zu finden bey Nicol. Förstern/Buchhändl. in Hanover.)
+
+https://books.google.de/books?id=xwlUAAAAcAAJ&pg=RA3-PA13#v=onepage&q&f=false
+http://resolver.sub.uni-goettingen.de/purl?PPN55651341X_1701
+
+wiederabgedruckt:
+Gottschalk Eduard Guhrauer (ed.), Leibnitz's Deutsche Schriften, Vol. II, Berlin: Veit und Comp 1840, pp. 342--347.
+
+https://archive.org/details/bub_gb_c4ARAAAAYAAJ/
+https://archive.org/details/bub_gb_c4ARAAAAYAAJ/page/n357
+
+
+Der Verfasser dieses Werks will sich in der Vorrede auf diejenige Apokatastasis pantone gründen, deren der Apostel Petrus Act. 3. erwähnet. (342)
+
+
+http://www.gelehrte-journale.de/startseite/id/00028338X/#tx_find
+
+
+zu Förster: https://data.cerl.org/thesaurus/cnp01876233
+
+
+### links
+
+- [History of Computers and Computing, Dreamers, Gottfried Leibniz](http://history-computer.com/Dreamers/Leibniz.html)
+
+
+
+### resources
+
+- [Aufzeichnungen von Leibniz zur Rechenmaschine](http://digitale-sammlungen.gwlb.de/index.php?id=6&no_cache=1&tx_dlf%5Bid%5D=449&tx_dlf%5Bpage%5D=1&tx_dlf%5Bpointer%5D=0)
+- [G. W. Leibniz resources - Helsinki.FI](https://www.mv.helsinki.fi/home/mroinila/texts.htm)
+
+
+
+## otlet, paul
+
+### misc
+
+- Paul Otlet, *Traité de Documentation. Le livre sur le livre. Théorie et pratique*, Brüssel 1934.
+- Paul Otlet, *Monde. Essai d'Universalisme*, Brüssel: Van Keerberghen 1935 ( = Editiones Mundaneum 1 ).
+
+
+- *International Organisation and Dissemination of Knowledge. Selected Essays of Paul Otlet*, Warden Boyd Rayward (ed.), Amsterdam/ New York: Elsevier 1990.
+
+
+- Bernd Stickfort, *Das Internet als enzyklopädische Utopie*, In: Ingrid Tomkowiak (Hrsg.): Populäre Enzyklopädien. Von der Auswahl, Ordnung und Vermittlung des Wissens. Chronos, Zürich 2002, S. 271-290. (Darin über Otlet und das papierne Internet)
+- Hilmar Schmundt, *Vater der Zettelsuchmaschine*, in: Der Spiegel (2008), Nr. 26, p. 140.
+- Meike Laaf, *Googles genialer Urahn*, in: Spiegel Online (2011), url: 'http://www.spiegel.de/netzwelt/web/netzvisionaer-paul-otlet-googles-genialer-urahn-a-768312.html', 12/2015.
+- Lena Christolova, *Das Mundaneum oder das papierne Internet von Paul Otlet und Henri La Fontaine*, in: Stefan Böhme, Rolf F. Nohr, Serjoscha Wiemer (eds), Sortieren, Sammeln, Suchen, Spielen. Die Datenbank als mediale Praxis, Münster: Lit 2012, pp. 31-54.
+- Frank Hartmann, *Einleitung. Die Logik der Datenbank. Zwischen Leibniz und Google – Otlet der 'Weltbibliothekar'*, in: ders. (ed.), Vom Buch zur Datenbank. Paul Otlets Utopie der Wissensvisualisierung, Berlin: Avinus 2012 (= Forschung Visuelle Kultur 2), pp. 11-61.
+- Frank Hartmann, *Paul Otlets Hypermedium. Dokumentation als Gegenidee zur Bibliothek*, in: LIBREAS. Library Ideas, 28 (2015). http://libreas.eu/ausgabe28/04hartmann/
+
+
+### desc
+
+- [library photo](#)
+
+
+
+## binkley, robert
+
+### read
+
+- Vernon D. Tate, *From Binkley to Bush*, The American Archivist, Vol. 10, No. 3 (Jul., 1947), pp. 249-257
+- Rick Prelinger, *Points of Origin: Discovering Ourselves through Access*, in: The Moving Image: The Journal of the Association of Moving Image Archivists, Vol. 9, No. 2 (FALL 2009), pp. 164-175
+- George Veletsianos; Royce Kimmons, *Networked Participatory Scholarship: Emergent techno-cultural pressures toward open and digital scholarship in online networks*, in: Computers & Education 58 (2012), pp. 766–774. [doi](http://dx.doi.org/10.1016/j.compedu.2011.10.001)
+
+
+## bush, vannevar
+
+
+```
+(1945a) »As we may think.« In: Atlantic Monthly 176, S. 101-108.
+(1945b) As we may think. A top U.S. scientist forsees a possible future world in which man-made machines will start to think. In: Life. 10.Sept., 19 (11), 1945, S.112-124.
+(1945c) Science, the Endless Frontier. A Report to the President on a Program for Postwar Scientific Research, July 1945. Washington, National Science Foundation 1960. (1946) As we may think. In: V.B.: Endless Horizons. Washington, D.C. 1946, S.16-38. (1967) Memex Revisited. In: VB. Science Is Not Enough. New York 1967, S.75-101. (1970) Pieces of the Action. London 1972.
+
+The Paradoxical Memex The original text of “As we may think”
+is in Bush (1945a; 1945b; and various reprints). Associate Press
+issued a news release and Time printed a news item (Machine
+1945). Nyce and Kahn (1991) is a useful, though rather uncritical,
+resource for “As We May Think;” also Nyce and Kahn
+(1989).
+
+From Memex to Hypertext: Vannevar Bush and the Mind's Machine (James M. Nyce and Paul Kahn, Academic Press, 1991
+
+Vannevar Bush, Mechanization and the Record, Fortune, 1939 (??)
+```
+
+
+## fidler, roger
+
+### read
+
+- *»Videotex services will become mature businesses...«*, in: *The Changing Newspaper. Year 2000* / *Newspapers in the Year 2000*, New York: Associated Press, Fall 1981 (= Associated Press Managing Editors Special Report) [wc](http://www.worldcat.org/oclc/10589458) [wc_alt_1](http://www.worldcat.org/oclc/27399461) [wc_alt_2](http://www.worldcat.org/oclc/29716719) [wc_alt_3](http://www.worldcat.org/oclc/20767076)
+- *Plugging into the News*, in: *Newspapers Design 2000 and Beyond*, Reson, VA: American Press Institute 1988, pp. 36--41. [wc](http://www.worldcat.org/oclc/21124343) --> nur in Dänemark und Spanien verfügbar
+- bf., *Die Zeitung der Zukunft kommt ohne Papier aus*, in: FAZ (Mittwoch, Jul. 20, 1994), Nr. 166, p. 18.
+- *Declaration of Roger Fidler in Support of Samsung’s Opposition to Apple’s Motion for Preliminary Injunction* (2011)
+
+
+### open
+
+- *Mediamorphosis, or the Transformation of Newspapers into a New Medium*, in: *Media Studies Journal* (Fall 1991) --> SBB
+
+
+### div
+
+- Garrison, *Selected bibliography: computerization and the newsroom* (1983) [src](https://doi.org/10.1080/02560054.1983.9652916)
+- William D. Rineheart, *Will there be newspapers in the year 2000?*, Vidura, 23(2) Apr. 1986, p, 72-5.
+
+
+
+## lutz, theo
+
+### open
+
+- Theo Lutz, *Die Grundlagen der Datenverarbeitung. Der Computer und seine Möglichkeiten. Lerntext*, Berlin: IBM 1981.
+    - 1981, 1st ed., [albertina](https://katalog.ub.uni-leipzig.de/Record/0001761689)
+    - 1987, 2nd ed., [dnb](http://d-nb.info/945776179)
+
+
+- Theo Lutz, *Computer ohne Geheimnis : e. Einf. in d. Informationsverarbeitung* (1983)
+    - [dnb](http://d-nb.info/871515172)
+
+
+- *Ein Blick in die Zukunft : das IBM Personal System/2, Stuttgart: IBM Deutschland 1987*
+    - [wc](http://www.worldcat.org/oclc/255425979)
+
+- Detlef Borchers, *Computerjahr 2010: Die Zukunft, die nicht geschehen ist*, FAZ ([Jan 2, 2010](https://www.faz.net/-gqz-14xmp))
+
+```
+Prognosen gibt es viele, wenn es um die Zukunft des Computers und des Internets geht. Aus der Vielzahl der Vorhersagen ragt eine Arbeit des Computerherstellers IBM aus dem Jahr 1987 heraus. Zehn Thesen für 2010 wagte man dort, die sich als erstaunlich hellsichtig erweisen.
+
+Technischer Chefredakteur der Studie war Theo Lutz, ein Schüler des Kybernetikers Max Bense (dessen hundertster Geburtstag im Februar 2010 mit einem großen Kongress über „Weltprogrammierung“ gefeiert wird). Lutz hatte schon in den fünfziger Jahren Computerpoesie auf einem Zuse-Rechner programmiert. Aus seinem Namen entstand das schöne Verb „lutzen“ als Ausdruck für die Tätigkeit von Computern „stochastische poetische Texte“ aus Prosa zu generieren. So wurde Kafkas Schloss mit einem Computer zu einem Gedicht gelutzt, die entsprechenden Programme findet man heute noch im Netz.
+```
+
+## fried, alfred hermann
+
+[en, wiki](https://en.wikipedia.org/wiki/Alfred_Hermann_Fried)
+
+Born	11 November 1864
+Vienna, Austria-Hungary
+
+Died	5 May 1921 (aged 56)
+Vienna

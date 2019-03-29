@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never">
+
+  <info>
+    <title>miscella-title-date</title>
+    <title-short>miscella-title-date</title-short>
+    <author>
+      <uri>https://miscella.de/</uri>
+    </author> -->
+    <category citation-format="title-date"/>
+    <category field="literature"/>
+    <summary>Citate für das Notizbuch</summary>
+    <updated>2019-03-27T21:47:23+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 License</rights>
+  </info>
+
+  <macro name="year-date">
+    <choose>
+      <if variable="issued">
+        <date variable="issued">
+          <date-part name="year" prefix="(" suffix=")"/>
+        </date>
+      </if>
+      <else>
+        <text term="no date" form="short"/>
+      </else>
+    </choose>
+  </macro>
+
+  <macro name="title-short">
+    <choose>
+      <if match="any" variable="title-short">
+        <text variable="title-short" form="short" font-style="italic"/>
+      </if>
+      <else>
+        <text variable="title" form="short" font-style="italic"/>
+      </else>
+    </choose>
+  </macro>
+
+  <citation>
+    <layout>
+        <group delimiter=" ">
+          <text macro="title-short"/>
+          <text macro="year-date"/>
+        </group>
+    </layout>
+  </citation>
+
+</style>

@@ -1,0 +1,226 @@
+# media
+
+## audio
+
+### div
+
+- [Data Stories 030 — The Information Flaneur w/ Marian Dörk (Dec. 10, 2013)](http://datastori.es/data-stories-30-the-information-flaneur-w-marian-dork/)
+
+- [Rare Book School Lectures: Matthew G. Kirschenbaum, "INVALID.KEYSTROKE: John Updike and the Bibliography of Word Processing"](https://soundcloud.com/rarebookschool/kirschenbaum-matthew-g-invalidkeystroke-john-updike-and-the-bibliography-of-word-processing)
+
+- *54321... Radical Philosophy Conference*, HKW, Berlin (Jan 16—17 2015)
+    - [*Artistic Strike* with Claire Fontaine, Stewart Martin, Hito Steyerl; Moderation: Esther Leslie](https://soundcloud.com/hkw/54321-radical-philosophy-conference-artistic-strike)
+
+## event
+
+- [*p0es1e. Eine Ausstellung computergenerierter Gedichte*, Annaberg-Buchholz (Sep 12, 1992—Oct 3, 1992)](http://www.p0es1s.net/)
+- [*DESKTOP IS. The First International Online Desktop Exhibition* (Oct 20, 1997—Apr 20, 1998)](http://www.easylife.org/desktop/)
+- [*Coded Cultures*, 5uper.net, Wien (2004—2016)](https://codedcultures.com/)
+- [*Unlike Us*, Institute of Network Cultures, Amsterdam (2011-2013)](http://networkcultures.org/unlikeus/)
+- [*Collage, Adaption, Remix, Plagiat. Schreiben unter Einfluss*, Zentrum für Literaturforschung, Berlin (Jul 6—7, 2012)](http://www.zfl-berlin.org/veranstaltungen-detail/items/collage-adaption-remix-plagiat-schreiben-unter-einfluss.html)
+- [*Netzkultur*, Berliner Festspiele, Berlin (2013—2014)](http://www.netzkultur.berlinerfestspiele.de/)
+- [*Fiktion*, HKW, Berlin (2013—2016)](https://www.hkw.de/de/programm/projekte/2014/fiktion/start_fiktion.php)
+    - [*Literatur Digital*, HWK, Berlin (Mar 21—22, 2014)](http://fiktion.cc/kongress-literatur-digital/), [rec](https://www.hkw.de/de/app/mediathek/project/98100-fiktion)
+- [*Off the Press: Electronic Publishing in the Arts*, Institute of Network Cultures, Rotterdam (May 22—23, 2014)](http://networkcultures.org/digitalpublishing/2014/03/05/off-the-press-electronic-publishing-in-the-arts/) [Report](http://silviolorusso.com/off-the-press/)
+- [*Quotes & Appropriation*, Akademie Schloss Solitude, Stuttgart (Feb 19—20, 2015)](http://www.quotes-and-appropriation.de/)
+- [*(Re-)Constructing Authorship*, Akademie Schloss Solitude, Stuttgart (Oct 22—24, 2015)](http://www.akademie-solitude.de/de/veranstaltungen/autorschaft~no3764/)
+- [Das Netz, historisch betrachtet, Merkur Gespräche, Berlin (Oct 23, 2015)](https://www.merkur-zeitschrift.de/2015/09/29/merkur-gespraeche-2-das-netz-historisch-betrachtet/) [Teil1](https://lisa.gerda-henkel-stiftung.de/das_netz_historisch_betrachtet_teil_1?nav_id=5949) [Teil2](https://lisa.gerda-henkel-stiftung.de/das_netz_historisch_betrachtet_teil_2?nav_id=5950)
+- [*originalcopy*, die Angewandte, Wien (2016—2018)](http://www.ocopy.net/)
+- [*E-Book Festival* (Jun 25—26, 2016)](http://2016.electricbookfair.de/)
+- [*Global & Beta. Code als internationale* Sprache (Nov 2, 2016)](https://stadtsprachen.de/event/global-beta/)
+- [*reproduce future* (Nov 24—26, 2016)](https://techno.umsganze.org/)
+- [*The Readymade Century*, HKW, Berlin (Oct 12—13, 2017)](https://www.hkw.de/en/programm/projekte/2017/the_ready_made_century/the_ready_made_century_start.php) [Tag 1](https://www.hkw.de/en/programm/projekte/veranstaltung/p_135797.php) [Tag 2](https://www.hkw.de/en/programm/projekte/veranstaltung/p_135799.php)
+- [*Digital Social Memory*, New Museum, New York (Feb 4, 2017)](http://rhizome.org/events/digital-social-memory-privacy-ethics-and-representation-in-digital-preservation/)
+    - [Emmanuel Olunkwa, *Watch Digital Social Memory: Ethics, Privacy, and Representation in Digital Preservation*](http://rhizome.org/editorial/2017/mar/13/watch-digital-social-memory/)
+    - [Arshy Azizi, Digital Social Memory, Revisited (Nov 1, 2017)](http://rhizome.org/editorial/2017/nov/01/webrecorder-narratives-digital-social-memory/)
+- [Emanuel Goldberg — Architekt des Wissens. Technische Sammlungen, Dresden (Mar 11 – Sep 24, 2017](http://weltformat.org/index.php/project2/03--2017-exhibition/)
+- [*xCoAx*, Madrid (Jul 12–13, 2018)](http://2018.xcoax.org/)
+- [*Berlin. Zentrum der Netzkunst. Damals und heute*, Gerichtshöfe, Berlin (Oct 10—Nov 23, 2018)](https://netzkunst.berlin/)
+
+## image
+
+### add
+
+- [Rousselots Apparat zur Aufzeichnung der Sprache (1890)](https://upload.wikimedia.org/wikipedia/commons/7/79/Rousselots_Apparat_zur_Aufzeichnung_der_Sprache.jpg)
+      - Aus: Das Neue Universum, Die interessantesten Erfindungen und Entdeckungen auf allen Gebieten, 12. Jahrgang, Stuttgart, Berlin, Leipzig (Union Deutsche Verlagsgesellschaft) 1893, S. 114.
+
+
+- Asimov, *Future Days a Nineteenth Century Vision*
+      - Postkarte, Videotelefonie nach China (ca. 1900)
+      - In der Schule...
+
+
+- Arthur Brehmer, *Die Welt in 100 Jahren* (1910)
+      - Fernsehen und Fernsprechen im ewigen Eis
+
+
+- Watson Davis, *How Documentation Promotes Intellectual World Progress* (Oct 1937)
+      - New Tool for Reading
+
+
+- *Twelve Years of the New York Times in Original and on Film* (1942)
+      - Fussler, *Photographic Reproduction for Libraries*
+
+
+- *Reading Machine Spells Out Loud*, Popular Science (1949)
+      - RCA Engineer
+
+
+### done
+
+
+- Gustave Caillebotte, L'Homme au balcon, Boulevard Haussmann (1880)
+- We'll All Be Happy Than (1911)
+- Das 100pferdige Büro (1926)
+- Drahtloses Privattelefon und Fernseher (1930)
+- Der Objektive (1932)
+- Your Newspaper "On the Air": Can it be done? (1934)
+- Reading Machine (1935)
+- Fernseh-Sprechstelle (1936)
+- *Living Room of Tomorrow* (1939)
+      - Popular Mechanics
+- Memex (1945)
+- Scientist of the Future (1945)
+- Electronic Home Library (1959)
+- Mark Tansey, The Triumph of the New York School (1984)
+- Jeffrey Shaw, The Legible City (1989)
+- AES Group, Islamic Project: New Liberty (1996)
+- Empfangshalle, The Benjamin Project (2009-2010)
+- Kim Dong-kyu, Art x Smart: Balcony (2013)
+
+
+[SRC](https://drahtwort.github.io/site/media/image.html)
+
+
+
+
+## video
+
+
+### add
+
+
+- Paris Weltausstellung 1937 (youtube)
+    - [M198](https://youtu.be/72A-MKN_OXc)
+    - [M888](https://youtu.be/DBJT3-qqBIA)
+- [1937 International Exhibition... (youtube)](https://www.youtube.com/watch?v=Egr3HOYN2Hg)
+
+
+- [The Child of the Future: How Might He Learn (1964)](https://www.youtube.com/watch?v=zEuZxegiXv4)
+
+
+- [Peter Russell, The Global Brain (1983)](https://youtu.be/B1sr9x263LM) [ger](https://youtu.be/dnIWefvk3F0)
+- [Hackers: Wizards of the Electronic Age (1984)](https://www.imdb.com/title/tt1191116/) [extract](https://www.youtube.com/watch?v=oIrXuv-JjeE)
+- [Computerfieber. Die neue Lust im Familienalltag, NDR (1984)](https://youtu.be/TaStmh1hEnc)
+
+
+- [Hannu Rajaniemi, *The Future of Books*, Google Author Talk (Aug 2, 2013)](https://youtu.be/GMi57DtQoMM)
+- [Megan Prelinger, *Inside the Machine: Art and Invention in the Electronic Age*, Google Tech Talk (Sep 22, 2015)](https://youtu.be/Y77tGjF-8fs)
+
+
+- [*Exile and Return of the Avantgarde 1937—1955*, Symposium, Haus der Kunst, München (Jun 10, 2012)](https://youtu.be/JCnEEc94LuM)
+- [Benjamin H. D. Buchloh, *Designs and Dialectics of Annihilation. The Degenerate Art Exhibition and the International Surrealist Art Exhibition in 1937 and 1938*, Symposium, Haus der Kunst (Jun 10, 2012)](https://youtu.be/g_4wRiZRi3k)
+
+
+- [Marcell Mars, *Free Access to Resources for Every Member of Society*, WORM, Rotterdam (May 23, 2014)](https://vimeo.com/97508731)
+- [Marcell Mars, *Public Library/Memory of the World*, 32C3, Hamburg (Dec 27, 2015)](https://media.ccc.de/v/32c3-7279-public_library_memory_of_the_world)
+- [Nenad Romic aka Marcell Mars, Public Library Memory of the World, Academy of Fine Arts, Vienna (Nov 12, 2016)](https://youtu.be/GVMRTLqRh60)
+
+
+### done
+
+- [*The Triumph of the Nerds* (1996)](http://www.pbs.org/nerds/)
+    - ... loosely on the book by Robert Cringely "The Rise of Accidental Empires" includes interview and comments from Bill Gates, Steve Wozniak, Steve Jobs, and many others.
+
+
+- Alain Resnais, Toute la mémoire du monde (1956)
+- Ivan Sutherland, Sketchpad (1964)
+- Jasia Reichardt, Cybernetic Serendipity (1968)
+- Douglas Engelbart, The Mother of All Demos (1968)
+- Computer Networks: The Heralds Of Resource Sharing (1972)
+- Interview with Arthur C. Clarke (1976)
+- Xerox Star: User Interface. An Overview (1982) [1/2]
+- Andy Warhol paints Debbie Harry at Amiga Presentation (1985)
+- Commodore Amiga Präsentation mit Frank Elstner (1986)
+- Walter Benjamin, Mondrian ‘63–‘96 (1986)
+- The Open Door: Macintosh, Midi, and Music (1988)
+- Newspaper Design: Yesterday, Today and Tomorrow (1989)
+- Douglas Adams, Hyperland (1990)
+- The Machine that Changed the World (1992)
+- Im Visier des FBI. Deutsche Autoren in den USA (1995)
+- The Tablet Newspaper: A vision for the Future (1995)
+- Memex Animation (1995)
+- Triumph of the Nerds (1996)
+- Net Café (1996-2002)
+- Lutz Dammbeck, Das Netz (2004)
+- Mateusz Pozar, Write like Walter Benjamin (2009-2010)
+- The Warhol Amiga recovery project (2014)
+- Kenneth Goldsmith, Reading for Leading (2014)
+- Nikolay Punin, Malevich in the West (2014)
+- Walter Benjamin, The Unmaking of Art (2014)
+- Gertrude Stein, The Making of Americans (2015)
+- Alfred Barr, Abstract Cabinet and the Modern Narrative (2015)
+- John Perry Barlow, A Declaration of the Independence of Cyberspace (2015)
+
+[SRC](https://drahtwort.github.io/site/media/video.html)
+
+
+
+
+## text
+
+### book
+
+- Friedrich Wilhelm Kaeding, [Häufigkeitswörterbuch der deutschen Sprache](https://archive.org/details/hufigkeitswrter00kaedgoog) (1898)
+- [@xxx19.art40.eng]
+
+## www
+
+### collections
+
+- [Imagining the Internet. A History and Forecast (2000)](http://www.elon.edu/e-web/imagining/default.xhtml)
+    - [Early ’90s Predictions](http://www.elon.edu/e-web/predictions/early90s/)
+- [Early beginnings of (digital) computer art](http://www.computerkunst.org/)
+- [Timeline of Computer History](http://www.computerhistory.org/timeline/)
+- [The Recode Project. An active archive of computer art.](http://recodeproject.com/)
+- [runme.org - say it with software art!](http://runme.org/)
+- [Net Art Anthology](https://anthology.rhizome.org/)
+- [Modern Mechanics. Yesterday’s Tomorrow Today](http://modernmechanix.com/)
+- [The Internet Speculative Fiction Database](http://www.isfdb.org/)
+
+- [The International Dada Archive](http://sdrc.lib.uiowa.edu/dada/)
+
+
+### projects
+
+- [Benjamin Shaykin, *Google Hands* (2009)](https://cargocollective.com/bshaykin/Google-Hands)
+- [Biblion: The Boundless Library (2011)](http://exhibitions.nypl.org/biblion/)
+- [*The Deleted City* (2011)](http://deletedcity.net/)
+    - [1.0](http://deletedcity.net/version1.html), [2.0](http://deletedcity.net/version2.html), [3.0](http://deletedcity.net)
+    - [hp](https://www.richardvijgen.nl/), [coll.](http://countermapcollection.org/collection/deleted-city/), [txt](http://piim.newschool.edu/journal/issues/2013/02/pdfs/ParsonsJournalForInformationMapping_Vijgen_Richard.pdf)
+    - [rhizome](http://rhizome.org/art/artbase/artwork/deleted-cities/)
+- [bot or not](http://botpoet.com/)
+
+### misc
+
+- [rhizome, *Digital Social Memory*](https://rhizome.org/editorial/tags/digital-social-memory/)
+- [rhizome, art](http://rhizome.org/art/)
+- [rhizome/artbase](http://rhizome.org/art/artbase/)
+    - [I'm Google (2011)](http://rhizome.org/art/artbase/artwork/im-google/)
+- [manovich translations](https://docs.google.com/spreadsheets/d/1zO14ZaW76GL7MIqbpRTo9zbUsRkDh3_u8qfHnSsUOxw/)
+
+- [Deutsches Exilarchiv, 1933-1945, DNB](exilarchiv.dnb.de/)
+    - [Dauerausstellung](http://exilarchiv.dnb.de/DEA/Web/DE/Home/home.html)
+      - [Epilog, mit Video](http://exilarchiv.dnb.de/DEA/Web/DE/Navigation/FluchtExilRueckkehr/EpilogExilUndArchiv/epilog-exil-und-archiv.html)
+
+
+### done
+
+- Principia Cybernetica Web (1993—2002)
+- Technovelgy (~2002)
+- Data Dandy (~2004)
+- Flâneur’s Arcade (2007)
+- Archive Team (2009)
+- Deleted City (2011)
+- Künste im Exil (2013)
+- The Library of Babel (2015)

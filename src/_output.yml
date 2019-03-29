@@ -1,0 +1,12 @@
+bookdown::gitbook:
+  css: "assets/style.css"
+  split_by: section
+  toc_depth: 2
+  number_sections: false
+  config:
+    edit: null
+    sharing: null
+    download: null
+    search: yes
+    toc:
+      collapse: section

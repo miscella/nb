@@ -1,0 +1,20 @@
+---
+title: "nb :: Miscella"
+author: "lullus"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+github-repo: miscella/nb
+url: "https://miscella.github.io/nb/"
+description: "miscella - notebook for production"
+favicon: "../assets/favicon/favicon.ico"
+apple-touch-icon: "../assets/favicon/apple-touch-icon.png"
+apple-touch-icon-size: 180
+bibliography: ["../../refs/data/misc.bib"]
+# suppress-bibliography: true
+csl: "assets/miscella-title-date.csl"
+---
+
+# domo
+
+- [transcripts](https://miscella.github.io/txt)
+- [references](https://miscella.github.io/refs)

@@ -1,0 +1,3 @@
+book_filename: "miscella"
+output_dir: "../docs"
+rmd_subdir: ["./content/"]

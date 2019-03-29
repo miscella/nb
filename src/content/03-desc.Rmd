@@ -1,0 +1,1861 @@
+# descriptor
+
+## computer
+
+### read
+
+- Edmund C. Berkeley, *Giant Brains or Machines that think* (1949)
+- Alan Turing, *Computing Machinery and Intelligence*, in: *Mind* 59 (1950), No. 236, pp. 433-460.
+    - `DE` *Kann eine Maschine denken?*, in *Kursbuch* 8 (1967)
+- Edmund C. Berkeley, *Machine ›Intelligence‹*, in: *Astounding Science Fiction* (Jan. 1952), pp. 82-85.
+- Louis Couffignal, *Denkmaschinen*, Stuttgart: Klipper 1955.
+- Gotthard Günter, *Das Bewusstsein der Maschinen. Eine Metaphysik der Kybernetik*. 3., erw. Auflage. Agis, Krefeld, Baden-Baden 2002 [1957].
+- J. C. R. Licklider, *Man-Computer Symbiosis* (1960)
+- Edmund C. Berkeley, *The Computer Revolution* (1962)
+- Douglas Engelbart, *Augmenting Human Intellect: A Conceptual Framework* (1962), [pdf](http://www.dougengelbart.org/pubs/papers/scanned/Doug_Engelbart-AugmentingHumanIntellect.pdf)
+- Ivan Sutherland, *The ultimate display* (1965)
+    - *Die Computer-Revolution. Elektronengehirne, Automation und Gesellschaft* (1966)
+- Ivan Sutherland, *A head-mounted three dimensional display* (1968)
+- Gerald Weinberg, *Psychology of Computer Programming* (1971)
+- Alan Kay, *A Personal Computer for Children of All Ages* (1972) [pdf](https://www.mprove.de/diplom/gui/Kay72a.pdf)
+- Arno Baruzzi, *Mensch und Maschine. Das Denken sub specie machinae*, München 1973.
+- Theodor H. Nelson: *Computer Lib / Dream Machines* (1974)
+- Donald E. Knuth, *Computer Programming as an Art*, in: *Communications of the ACM* (1974) 17/12, pp. 667-673.
+- Alan Kay; Adele Goldberg, *Personal Dynamic Media*, in: Computer 10 (Mar 1977), No. 3, pp. 31–41. [src](http://www.newmediareader.com/book_samples/nmr-26-kay.pdf)
+- John Lees, *The World in Your Own Notebook*, in: Creative Computing 3 (May-Jun 1977), No. 3, pp. 54—46. [src](https://archive.org/details/CreativeComputingbetterScan197705/page/n55)
+- Andrew Kupfer, *The Race to Rewire America* (1993)
+- Bill Gates, *The road ahead* (1995)
+    - *Der Weg nach vorn: Die Zukunft der Informationsgesellschaft*
+- Brian R. Gaines, *Convergence to the Information Highway*, in: Proceedings WebNet '96, San Francisco, CA, USA, November 1996. [src](http://algo.informatik.uni-freiburg.de/bibliothek/proceedings/webnet96/Html/KGaines/Gaines.htm)
+- Gerhard Schmitt (ed.), *Architektur mit dem Computer*, Wiesbaden: Springer 1996 [Braunschweig/Wiesbaden: vieweg 1996]
+- Steve Tomasula, *Bytes and Zeitgeist: Digitizing the Cultural Landscape*, Leonardo, Vol. 31, No. 5, Sixth Annual New York Digital Salon (1998), pp. 337-344
+- Tim Berners-Lee, *Weaving the Web* (1999) en/de
+- Donald E. Knuth, *Computer God Speaks About God, Computers [Interview]* (1999)
+- Franz Böhmisch, *Die Gottesbilder der digitalen Noosphäre. Die religiöse Sprache des Internet*, in: Bibel und Liturgie 73 (2000) 203-214.
+- Michael Friedewald, *Konzepte der Mensch-Computer-Kommunikation in den 1960er Jahren: J. C. R. Licklider, Douglas Engelbart und der Computer als Intelligenzverstärker*, in: Technikgeschichte 67 (2000), Nr. 1, pp. 1-24. `pers/licklider/`
+- Michael Weber, *World Wide Web – die Basis der Informationsgesellschaft?*, in: Rüdel; Stadelhofer (eds.), Wohin geht die Wissensgesellschaft? (2002), pp. 162—174.
+- William R. Sherman/ Alan B. Craig, *Understanding Virtual Reality. Interface, Application, and Design*, San Francisco/CA: Morgan Kaufmann Publishers 2003.
+- Rudolf Drux, *Der literarische Maschinenmensch und seine technologische Antiquiertheit. Wechselbeziehungen zwischen Literatur- und Technikgeschichte*, in: Dresdener Beiträge zur Geschichte der Technikwissenschaften Nr. 29 (2004).
+- Karin Bruns, Ramón Reichert (eds.), *Reader Neue Medien. Texte zur digitalen Kultur und Kommunikation*, Bielefeld: transcript 2007.
+- Gordon Bell, *Total Recall* (2009)
+- Mercedes Bunz, *Das Denken und die Digitalisierung*, in: FAZ (2011), xx.
+- Mercedes Bunz, *Die stille Revolution. Wie Algorithmen Wissen, Arbeit, Öffentlichkeit und Politik verändern ohne dabei viel Lärm zu machen*, Berlin: Suhrkamp 2012 (= edition unseld 43).
+
+
+### div
+
+- Tim Berners-Lee, Information Management: A Proposal, CERN (March 1989)
+
+- Constance Ledoux Book; Michael Fonatani, *Forecasting the Internet: A Retrospective Technology Assessment* (2002), [src](http://www.elon.edu/docs/e-web/imagining/about/Forecasting_the_Internet_A_Retrospective_Technology_Assessment_%202002%20.pdf)
+
+- [*Proceedings WebNet '96*, San Francisco, CA, USA, November 1996](http://algo.informatik.uni-freiburg.de/bibliothek/proceedings/webnet96)
+
+
+### open
+
+- *A Machine that thinks*. 1945. Time 46, no. 4 (July 23):93–94.
+- Abbe Mowshowitz, *The Conquest of Will: Information Processing in Human Affairs* (Reading: Addison-Wesley, 1976)
+- Abbe Mowshowitz, *Inside Information: Computers in Fiction* (Reading: Addison-Wesley, 1977)
+- Frank Wittg, *Maschinenmenschen. Zur Geschichte eines literarischen Motivs im Kontext der Philosophie, Naturwissenschaft und Technik*, Würzburg: Königshausen & Neumann 1977.
+- Pamela McCorduck, *Machines Who Think* (San Francisco: W. H. Freeman, 1979).
+- Konrad Zuse, *Der Computer. Mein Lebenswerk*, Berlin 1984.
+- Georg Seeßlen/ Christian Rost, *PacMan & Co. Die Welt der Computerspiele*, Reinbek 1984.
+- Matthias Horx, *Chip Generation. Ein Trip durch die Computerszene*, Reinbek: Rowohlt 1984.
+- Peter Glaser, *Das BASIC Gefühl*, in: CCC (ed.), *Die Hacker-Bibel*... 1985
+- Sherry Turkle, *Die Wunschmaschine. Vom Entstehen der Computerkultur*, Reinbek: Rowohlt 1986.
+- Ralf Bülow (ed.), *Denk, Maschine! Geschichten über Robert, Computer und künstliche Intelligenz*, München: Heyne 1988.
+- Lucie Schauer (ed), *Maschinenmenschen*, Aus.Kat., Berlin: NBK 1989.
+- *Sind Computer die besseren Menschen? : Ein Streitgespräch*, Joseph Weizenbaum ; Klaus Haefner. Hrsg. von Michael Haller, München ; Zürich : Piper, 1992.
+- Bernhard Dotzler; Peter Gendolla; Jörgen Schäfer, *MaschinenMenschen. Eine Bibliographie*, Frankfurt/M: Lang 1992.
+- Eduardo Kac, *Aspekte einer Ästhetik der Kommunikation*, in: Jeannot Simmen (ed), Telematik. NetzModerneNavigatoren. Köln: Walther König 2002 (in Gänze in: Zero - The Art of Being Everywhere, hrsg. Robert Adrian / Gottfried Stocker Graz 1993).
+- George Gilder, *Life after Television. The Coming Transformation of Media and American Life* (rev. ed), New York: Norton 1994, pp. 52-70. [über den ›Teleputer‹]
+- Lorenz Gräf, Markus Krajewski (eds.), *Soziologie des Internet. Handeln im elektronischen Web-Werk*, New York/ Frankfurt/M: Campus 1997 (= Beiträge zur empirischen Sozialforschung).
+- Michael Friedewald, *Der Computer als Werkzeug und Medium. Die geistigen und technischen Wurzeln des Personal Computers* (1999), (= Aachener Beiträge zur Wissenschafts- und Technikgeschichte des 20. Jahrhunderts 3)
+- Chris Hables Gray, *Cyborg Citizen: Politics in the Posthuman Age*, New York : Routledge, 2000.
+- W. H. Ritter, *Annäherungen an das Absolute. Gottesvorstellungen im Medienzeitalter - die sinnliche Kraft der Bilder*, in: Zeitzeichen 3 (2002) 47-49;
+- Georg Ruppelt (ed.), *›Der große summende Gott‹. Geschichten von Denkmaschinen, Computern und Künstlicher Intelligenz*, Hameln: Niemeyer 2003 (= Lesesaal 7).
+- Dieter Sturma, *Ersetzbarkeit des Menschen? Robotik und menschliche Lebensform*, in: Jahrbuch für Wissenschaft Und Ethik 9 (2004), pp. 141-162.
+- David Alan Grier, *When Computers Were Human* (Princeton/NJ: Princeton University Press 2005).
+- Claus Pias (ed.), *Zukünfte des Computers*, Berlin: Diaphanes 2005.
+- Fred Turner, *From Counterculture to Cyberculture. Stewart Brand, the Whole Earth Network and the Rise of Digital Utopianism*, University of Chicago Press 2006.
+- J. C. Jekat, *Gottesvorstellungen auf dem Weg ins Computerzeitalter : eine Analyse über die Entwicklung von Gottesbildern in Buchdruck- und Computergesellschaft*, in: Praktische Theologie (Gütersloh) 46 (2011) 225-235;
+- Manfred Spitzer, *Digitale Demenz. Wie wir uns und unsere Kinder um den Verstand bringen*, Droemer 2012.
+
+
+
+## computer art
+
+### read
+
+- John R. Pierce, *Portrait of the Machine as a Young Artist*, in: *Playboy* 12, no. 6, June 1965.
+- Noll, A. Michael (1967): *The digital computer as a creative medium*, in: *IEEE Spectrum* 10, S. 89–95.
+- Max Bense, Elisabeth Walther (eds.): *Computer-Grafik* (= rot 19, 1968)
+    - [monoskop](https://monoskop.org/images/b/b1/Rot_19_Computer-Grafik_1968.pdf)
+    - [bremen](http://relaunch.compart-bremen.de/public/docUploads/rot19k.pdf)
+- *Cybernetic Serendipidity: The Computer and the Arts* (= Studio International, ed. by Jasia Reichardt, 1968)
+    - [monoskop](https://monoskop.org/images/2/25/Reichardt_Jasia_ed_Cybernetic_Serendipidity_The_Computer_and_the_Arts.pdf)
+      - "Cybernetic Serendipity was an exhibition of computer art curated by Jasia Reichardt and shown at the Institute of Contemporary Arts, London, from 2 August to 20 October 1968. Later it toured the United States."
+- *Cybernetic Serendipity [Review]*, in: *Time* (10/4/1968), Vol. 92, No. 14, p. 94.
+- Jonathan Benthall, *What the computer saw*, 1968. Catalogue review.
+- Abraham A. Moles, *Kunst & Computer*, hg. v. Hans Ronge, Köln 1973.
+- Carole Spearin McCauley, *Computers and Creativity*, New York 1974.
+- Richard Wright, *Some Issues in the Development of Computer Art as a Mathematical Art Form*, in: Leonardo, Electronic Art Supplemental Issue, 1988
+- Oliver Grau, *Virtuelle Kunst in Geschichte und Gegenwart: Visuelle Strategien* (Berlin: Reimer, 2001).
+    - *Virtual Art: From Illusion to Immersion*, Gloria Custance (tr.), 2003
+- Fernández, M. (2008). *Detached from HiStory: Jasia Reichardt and Cybernetic Serendipity*. Art Journal, 67(3), 6–23. [doi](https://dx.doi.org/10.1080/00043249.2008.10791311)
+- Grant D. Taylor, *When the machine made art : the troubled history of computer art*, New York; London: Bloomsbury 2014.
+
+
+
+### open
+
+- Grace Glueck, *Portrait of the Artist as a Young Computer*, in: *New York Times*, February 20, 1983, 31.
+    - “Given what we’ve seen of it to date, it’s small wonder that when we hear the term “computer art” our attention begins to wander. By now we’ve developed an understandable resistance to the boring optical shenanigans that result when computers  are programmed to make drawings by technicians who lack the imagination of artists.”
+    - “Doesn’t the idea of a technical apparatus doing the work vitiate the whole concept of art as a unique product of the creative imagination?”
+- Donald Michie and Rory Johnston, *The Creative Computer: Machine Intelligence and Human Knowledge* (Harmondsworth: Viking, 1984).
+- Piehler, Heike M. *Die Anfänge der Computerkunst*, Frankfurt/Main:dot-Verlag 2002. [src](http://dada.compart-bremen.de/item/publication/7)
+- Thomas Dreher, *History of Computer Art*, [src](http://iasl.uni-muenchen.de/links/GCA-III.1e.html)
+
+
+### www
+
+- [monoskop](https://monoskop.org/Computer_art)
+- [monoskop log](https://monoskop.org/log/?tag=computer-art)
+
+
+### exh
+
+- *Cybernetic Serendipity* (ICA, 1968)
+    - [archive](http://cyberneticserendipity.net/)
+    - [monoskop](https://monoskop.org/Cybernetic_Serendipity)
+    - [wiki](https://en.wikipedia.org/wiki/Cybernetic_Serendipity)
+    - [medienkunstnetz](http://www.medienkunstnetz.de/exhibitions/serendipity/)
+    - [youtube](https://youtu.be/oSwovB28B34)
+
+### pers
+
+- [kawano, hiroshi]()
+
+
+## computer literature
+
+### read
+
+- Theo Lutz, *Stochastische Texte* (1959)
+- Max Bense, *Text und Kontext* (1959)
+- Theo Lutz, *Über ein Programm zur Erzeugung stochastisch-logischer Texte* (1960)
+- Max Bense, *Textästhetik* (1960a)
+- Max Bense, *Textästhetik* (1960b)
+- Max Bense, *Klassische und nichtklassische Texte (Zur Textästhetik)* (1960)
+- Max Bense, *Über Metatheorie. Die Erweiterung des Metaphysikbegriffs* (1960)
+- Max Bense, *Movens. Experimentelle Literatur [Rezension]* (1960)
+- Rul Gunzenhäuser, *Abschließende Mitteilung über ein Programm zur Erzeugung stochastisch-logistischer Texte* (1960)
+- Rul Gunzenhäuser, *Zur mathematischen Textanalyse: Der Vergleich von Texten* (1960)
+- Helmar Frank / Rul Gunzenhäuser, *Über Mime und Pantomime*, in: *Grundlagenstudien. Aus Kybernetik und Geisteswissenschaft* 1 (Okt. 1960), No. 4, pp. 113-121
+- Rul Gunzenhäuser, *Bericht über ein Programm zur numerischen Textanalyse* (1961)
+- Max Bense, *Theorie der Texte. Eine Einführung in neuere Auffassungen und Methoden*, Köln: Kiepenheuer & Witsch, 1962.
+    - Informationstheoretische Grundbegriffe, pp. 11-24.
+    - Über natürliche und künstliche Poesie, pp. 143-147.
+    - Über experimentelle Schreibweisen, pp. 148-149.
+- Samuel R. Levin, *On Automatic Production of Poetic Sequences* (1963)
+- Rul Gunzenhäuser, *Zur Synthese von Texten mit Hilfe programmgesteuerter Ziffernrechenanlagen* (1963)
+- Rolf Lohberg/Theo Lutz, *Was denkt sich ein Elektronengehirn?* (1963)
+    - Kein Graf ist grün. Vollektronische Dichter und Denker, pp. 142-156.
+    - Wer hat Angst vorm Roboter?, pp. 186-191.
+    - `eng`: *Electronic brains; how computers work* (1965)
+      - New York: Sterling Pub. Co.
+      - London: Oak Tree Press
+- Gerhard Stickel, *Automatische Textzerlegung und Registerherstellung* (1964)
+- Gerhard Stickel, *Monte-Carlo-Texte* (1966)
+- Gerhard Stickel, *›Computer-Dichtung‹. Zur Erzeugung von Texten mit Hilfe von datenverarbeitenden Anlagen* (1966)
+- Gerhard Stickel / Manfred Gräfe, *Automatische Textzerlegung und Herstellung von Zettelregistern für das Goethe-Wörterbuch* (1966)
+- Rolf Grundlach, *Automatische Registerherstellung in den philologisch-historischen Wissenschaften*, Darmstadt: Deutsches Rechenzentrum 1966 (= Programm-Information 25).
+- Wolf Thümmel, *Digitalrechner und Sprache. Über eine neue Zeitschrift*, in: *Sprache im technischen Zeitalter* (1966) 19, pp. 258-261.
+- Max Bense, *Ästhetik und Programmierung* (1967)
+- Gerhard Stickel, *Monte-Carlo-Texte. Automatische Manipulation von sprachlichen Einheiten* (1967)
+- Manfred Krause / Götz Friedemann Schaudt, *Computer-Lyrik. Poesie aus dem Elektronenrechner* (1967)
+    - Wie klug ist ein Computer?, pp. 7-11.
+    - Wie dichtet ein Computer?, pp. 12-18.
+- Siegfried J. Schmidt, *Computerpoeme. Einige kritische Aspekte* (1969)
+- Max Bense, *Die Realität der Literatur. Autoren und ihre Texte*, Köln: Kiepenheuer & Witsch 1971.
+    - *Die Gedichte der Maschine der Maschine der Gedichte. Über Computer-Texte*, pp. 74-96.
+- *Computerdichtung*, in: Lexikon Informatik und Datenverarbeitung (1983)
+    - 1 ed.: München [u.a.] : Oldenbourg, 1983
+    - 4., akt. und erw. Aufl., München; Wien: Oldenbourg 1998, p. 162. (Reprint 2015)
+- Hans Magnus Enzensberger, *Einladung zu einem Poesie-Automaten* (2000)
+- Saskia Reiter, *Computerpoesie. Studien zur Modifikation poetischer Texte durch den Computer*, Bielefeld: transcript 2003.
+
+
+### div
+
+- *Bibliografie über Informationsästhetik und Computer-Kunst*, in: *Exakte Ästhetik. Methoden und Ergebnisse empirischer und experimenteller Ästhetik*. Bd. 5: *Kunst aus dem Computer*, Stuttgart: Nadolski, 1967, pp. 58-66.
+
+
+### serial
+
+- *Dichtung Digital* ([1999—2011](http://www.dichtung-digital.de/en))
+
+### www
+
+- Döhl / Auer / et al. (eds.), *Als Stuttgart Schule machte. Ein Internet-Reader* ([1998](http://www.stuttgarter-schule.de/))
+- Auer / Heibach / Suter (eds.), *Netzliteratur // Internetliteratur // Netzkunst* ([2002](https://www.netzliteratur.net/))
+- Lutz, *Stochastische Texte in PHP* ([Johannes Auer, 2005](https://auer.netzliteratur.net/0_lutz/lutz_original.html))
+
+### exhb
+
+- Georg Nees: *Computergrafik* (1965), [src](http://dada.compart-bremen.de/item/Exhibition/164)
+- *Computer Grafik — Programme von Frieder Nake*, Recheninstitut der TH Stuttgart. Ausstellung vom 15.1.1966 bis 25.2.1966 im Deutschen Rechenzentrum, Darmstadt.
+    - darüber: *Kunst von künstlichen Künstlern*, in: *Darmstädter Echo* (Feb. 10, 1966)
+- *Reinhard Döhl: Alles ist möglich. Alles ist erlaubt*, 27.07.2017 – 22.10.2017, ZKM Karlsruhe
+
+
+### pers
+
+- Beta Suter
+    - [hyperfiction.ch](http://hyperfiction.ch/)
+    - [cyberfiction.ch](http://www.cyberfiction.ch/)
+- Johannes Auer
+    - [netzliteratur.net](https://auer.netzliteratur.net/)
+    - [marbach](https://wwik.dla-marbach.de/line/index.php/Johannes_Auer)
+- Reinhard Döhl
+    - [home](https://www.reinhard-doehl.de/)
+
+### open
+
+- Rul Gunzenhäuser, *Programmierung des Schönen* [Rezension], in: *Grundlagenstudien. Aus Kybernetik und Geisteswissenschaft* 2 (Jul. 1961), No. 2, pp. 51-55.
+
+
+
+## computer nineties
+
+### read
+
+- *SPIEGEL Special*
+    - (1995), No. 3: [*Abenteuer Computer. Elektronik verändert das Leben*](http://www.spiegel.de/spiegel/spiegelspecial/index-1995-3.html).
+    - (1996), No. 3: [*Die Multimedia-Zukunft*](http://www.spiegel.de/spiegel/spiegelspecial/index-1996-3.html).
+    - (1996), No 10: [*Die Kunst des Schreibens*](http://www.spiegel.de/spiegel/spiegelspecial/index-1996-10.html).
+    - (1997), No. 3: [*Der digitale Mensch*](http://www.spiegel.de/spiegel/spiegelspecial/index-1997-3.html).
+    - (1998), No. 3: [*Freizeit digital*](http://www.spiegel.de/spiegel/spiegelspecial/index-1998-3.html).
+    - (1999), No. 3: [*Info-Sucht. Der Mensch im Netz der Medien*](http://www.spiegel.de/spiegel/spiegelspecial/index-1999-3.html).
+    - (1999), No 10: [*Die Zukunft des Lesens*](http://www.spiegel.de/spiegel/spiegelspecial/index-1999-10.html).
+- *DER SPIEGEL* (1996), Nr. 11: *Die Welt online. D@s Netz*
+    - [N.N., *Klick in die Zukunft*, pp. 66—99.](http://magazin.spiegel.de/EpubDelivery/spiegel/pdf/8891999)
+    - [*»Der Nationalstaat ist überholt«. Gespräch mit Justizminister Edzard Schmidt-Jortzig (FDP) über die Kontrolle des Internets*, pp. 102—104.](http://magazin.spiegel.de/EpubDelivery/spiegel/pdf/8892011)
+    - [Stanislaw Lem, *Zu Tode informiert*, pp. 108—109.](http://magazin.spiegel.de/EpubDelivery/spiegel/pdf/8892024)
+
+
+### div
+
+- Olia Lialina, *A Vernacular Web* (Feb 2005) [src](http://art.teleportacia.org/observation/vernacular/)
+    - `DE` [teil1](https://heise.de/-3439021) [teil2](https://heise.de/-3439257) [teil3](https://heise.de/-3439447) [teil4](https://heise.de/-3400921)
+    - `ES` [A Minima magazine](http://art.teleportacia.org/observation/vernacular/laweb.pdf)
+- Olia Lialina, *Vernacular Web 2* (Aug 2007) [src](http://contemporary-home-computing.org/vernacular-web-2/)
+    - `DE` [teil1](https://heise.de/-3415376) [teil2](https://heise.de/-3415392)
+- Olia Lialina, *Vernacular Web 3: Prof. Dr. Style* (Jul 2010) [src](http://contemporary-home-computing.org/prof-dr-style/)
+
+
+- *One Terabyte of Kilobyte Age. Digging through the Geocities Torrent*, [hp](http://blog.geocities.institute/), [tumblr](http://oneterabyteofkilobyteage.tumblr.com/)
+
+- *The VHS-Era Internet*, [youtube](https://www.youtube.com/playlist?list=PLI6R9qwXheraD43gyVcPCwRI8F4NyKZ7F)
+
+- *Explaining The Internet on MTV* (1995) [youtube](https://www.youtube.com/watch?v=0NIPGmziNG0)
+
+- Mathias Bröckners, *20 Jahre* `taz.de`*. Zeitung im Computerverbund*, taz.de (2015)  [taz](http://taz.de/!159862/)
+
+### open
+
+- Olia Lialina; Dragan Espenschied (eds.), *Digital Folklore Reader*, Stuttgart: Merz & solitude, 2009
+    - [hp](http://digital-folklore.org/)
+
+
+
+## computer text
+
+### read
+
+- Edward Barrett (ed.), *Text, ConText, and HyperText. Writing with and for the Computer*, Cambridge/MA/ London: The MIT Press 1988.
+- Nielsen, *Hypertext ’87. Trip Report* (1988)
+- Coover, *The End of Books* (1992)
+- Coover, *Hyperfiction. Novels for the Computer* (1992)
+- Kendall, *The Hypertexts of Yesteryear* (1998)
+- Stephan Porombka, *Hypertext. Zur Kritik eines digitalen Mythos*, München: Fink 2001.
+- Heiko Idensen, *Zur Kritik eines digitalen Mythos* [Rezension] (2002)
+- Belinda Barnet, *Memory Machines. The Evolution of Hypertext*, London/ New York/ Delhi: Anthem Press 2013.
+
+
+
+
+## exile literati
+
+### add
+
+- T.W. Adorno, *Zu Benjamins Gedächtnis* (1940)
+- Schmid, Avantgarde im Biedermeierstil (1965)
+    - `~/mann-th/src/`
+- Heinrich Goertz, *Erwin Piscator in Selbstzeugnissen und Bilddokumenten* (1974)
+- James K. Lyon, *Bertolt Brecht in America* (1980)
+    - *Bertolt Brecht in Amerika* (1984)
+- Michael Winkler, *Die Großstadt New York als Thema der deutschsprachigen Exilliteratur* (1989)
+- James K. Lyon (ed.), *Brecht in den USA* (1994)
+- Gerhard Reich, *Deutschsprachige Exilliteratur in New York City nach 1933* (1999)
+- David Jenemann, *Adorno in America* (2008)
+- Thomas Wheatland, *The Frankfurt School in Exile* (2009)
+- Birgit R. Erdle, *»Sticking to our language« / »an unserer Sprache festhalten«: Adorno in NYC* (2012)
+- Heinrich Detering, *Unter Palmen* (2017)
+    - `~/mann-th/src/`
+
+### read
+
+- Klaus Mann, *Der Vulkan* (1939)
+- Erika Mann, Klaus Mann: *Escape to Life* (1939)
+    - Escape to Life. Deutsche Kultur im Exil (1991)
+- Erika Mann, Klaus Mann: *The other Germany* (1940)
+- Klaus Mann, *The turning point* (1942)
+    - dt.: *Der Wendepunkt. Ein Lebensbericht* (1952, ed. Rowohlt 1999)
+- Hannah Arendt, *We Refugees* (1943)
+- Bertolt Brecht, *Flüchtlingsgespräche* (Suhrkamp 1961, Aufbau 1962)
+- Theodor W. Adorno, *Scientific Experiences of a European Scholar in America* (1968)
+    - *Wissenschaftliche Erfahrungen in Amerika* (1969)
+- Paul F. Lazarsfeld, *An episode in the history of social research* (1969)
+- Kambas, *Walter Benjamin im Exil* (1983)
+    - *Exkurs: Zu Benjamin’s Mitarbeit im »Institut für Sozialforschung«*
+- Martin Jay, *Permanent Exiles: Essays on the Intellectual Migration from Germany to America* (1985)
+    - *Adorno in America*, pp. 120-137
+- John M. Spalek/ Joseph Strelka (eds.), *Deutschsprachige Exilliteratur seit 1933*, Bd. 2: *New York* (1989)
+    - Maria Tatar, *Hannah Arendt*, pp. 1623-1643.
+- *Deutsche Intellektuelle im Exil. Ihre Akademie und die ›American Guild for German Cultural Freedom‹. Eine Ausstellung des Deutschen Exilarchivs 1933-1945 der Deutschen Bibliothek, Frankfurt am Main* (1993)
+- Klaus Mann, *Das Wunder von Madrid. Aufsätze, Reden, Kritiken, 1936-1938* (1993)
+- Klaus Mann, *Zweimal Deutschland. Aufsätze, Reden, Kritiken 1938-1942* (1994)
+- Bertolt Brecht, *Unterm dänischen Strohdach. Sein Exil in Skandinavien 1933-1941* (ed. 1994)
+- Bertolt Brecht, *Broadway — the hard way. Sein Exil in den USA, 1941-1947* (ed. 1994)
+- Gerhard Reich, *The German Exile Writer in New York City 1933-1945. A Case Study* (1995)
+- Ehrhard Bahr, *Weimar on the Pacific. German Exile Culture in Los Angeles and the Crisis of Modernism* (2007)
+- Malina, *The Piscator Notebook* (2012)
+- Eckart Goebel/ Sigrid Weigel (eds.), *Escape to Life. German Intellectuals in New York. A Compendium on Exile after 1933* (2012)
+    - Goebel, *Eclipse of Reason. Max Horkheimers New York Lectures 1944*
+    - Lezra, *Adorno's Monsters*
+    - Schmieder, *No Place Yet. Ernst Bloch’s Utopia in Exile*
+- Jeffries, *Grand Hotel Abyss. The Lives of the Frankfurt School* (2016)
+
+### div
+
+- *Institute of Social Research* (1936)
+- *Ein Wiedersehen*, in: *Aufbau* (1940)
+
+### open
+
+- *Direction* 2 (Dec, 1939), No. 8: Special issue on "Exiled German Writers. Art, Fiction, Documentary Material"
+- Janet Flanner, *Goethe in Hollywood*, in: *New Yorker* (Dec. 13, 1941), pp. 31ff./(Dec. 20, 1941), pp. 22ff.
+- Hermann Kesten (ed.), *Deutsche Literatur im Exil. Briefe europäischer Autoren 1933-1949*, Frankfurt/M: Fischer 1973.
+- Jürgen Alberts, *Brecht in Hollywood. Roman*, Bremen: Ed. Falkenberg 2015.
+    - überarbeite Neufassung des Romans *Hitler in Hollywood - oder: Die Suche nach dem Idealscript*, Steindl-Verlag 1997.
+
+### misc
+
+- Helmut F. Pfanner, Exile in New York, German and Austrian Writers after 1933, Detroit: Wayne State Univ. Press 1983.
+- Helmut F. Pfanner, „Eine spröde Geliebte. New York aus der Sicht deutscher und österreichischer Exilanten“, in: Thomas Koebner (ed.), Fluchtpunkte des Exils und andere Themen, München: Ed. Text u. Kritik 1987, pp. 40–55.
+- Valerie Popp, »Vielleicht sind die Häuser zu hoch und die Straßen zu lang...« Amerika und die Stadt New York in der späten deutschsprachigen Exilliteratur, Magisterarbeit Humboldt-Universität Berlin 1999.
+- Valerie Popp, »›Vielleicht sind die Häuser zu hoch und die Straßen zu lang...‹ Amerika und die Stadt New York in der späten deutschsprachigen Exilliteratur, in: Helga Schreckenberger (ed.), Die Alchemie des Exils. Exil als schöpferischer Impuls, Wien 2005, pp. 109-127.
+- Valerie Popp, »Amerika in der Literatur deutschsprachiger Exilierter in den USA im Spannungsfeld von nationaler Identität und Alterität, in: Markus Krienke/ Matthias Belafi (eds.), Europäische Identitäten – Identitäten in Europa, Wiesbaden 2007, 303-323.
+- Michael Winkler, »Metropole New York«, in: Claus-Dieter Krohn/ Erwin Rotermund et. al. (eds.), Metropolen des Exils, München: edition text + kritik 2002 (= Exilforschung. Ein internationales Jahrbuch Bd. 20), pp. 178-198.
+- Ilona Stöken, Das deutsche New York. Eine Spurensuche, Leipzig: Lehmstedt 2013.
+
+
+
+
+## exile surveillance
+
+### add
+
+- Reinhold Grimm, *FBI-›Subjekt‹ Bertolt Brecht* (1980)
+    - *Als Helene Weigel dem FBI Kochrezepte vorlas* Frankfurter Allgemeinen Zeitung (8. Mai 1979)
+- Alexander Stephan, *Überwacht. Ausgebürgert. Exiliert. Schriftsteller und der Staat* (2007)
+- Andrew Rubin, *Archives of Critical Theory* (2012)
+
+### read
+
+- Anon, Einzigartige Quelle, SPIEGEL (1979)
+- F.B.I. Spied on Brecht For 13 Years, File Shows, in: *New York Times* (1979)
+- Lyon, *The FBI as literary historian: the file of Bertolt Brecht* ([1979](https://www.pacificaradioarchives.org/recording/kz0951a), ed. 1983)
+    - Der FBI als Literaturhistoriker. Die Akte Bertolt Brechts (1980)
+- Stephan, *Im Visier des FBI. Deutsche Exilschriftsteller in den Akten amerikanischer Geheimdienste* (1995)
+- Gennaro/ Kellner, *Under Surveillance: Herbert Marcuse and the FBI* (2009)
+
+### open
+
+- Katz, B. (1989). *Foreign intelligence research and analysis in the office of strategic services 1942–1945*. Cambridge, MA: Harvard University Press).
+- Alexander Stephan, *Bertolt Brecht und die Bewegung 'Freies Deutschland' in den Akten des FBI*, in: *Literatur und politische Aktualität*, Amsterdam ; Atlanta GA : Rodopi, 1993, pp. 299-323.
+- Marcuse, H. (1998). *Technology, war, and fascism*. In: D. Kellner (Ed.), *Collected papers of Herbert Marcuse*, Vol. 1, London and New York: Routledge.
+- Petra Marquardt-Bigman, *Amerikanische Geheimdienstanalysen über Deutschland 1942-1949*, München: Oldenbourg 1995 (= Studien zur Zeitgeschichte, Bd. 45). [Darin Kapitel IV: *Die Stärken und Schwächen des »Behemoth«: Das nationalsozialistische Deutschland 1943-1945*. Unterkapitel: *Deutsche Emigranten als Geheimdienstexperten* (67ff.)]
+- Rubin, *The Adorno files* (2002)
+- Manfred Wekwerth, *Die Akte Brecht*, Berlin : Spotless-Verlag, 2006.
+
+### div
+
+- Federal Bureau of Investigation, *File #100-190707. Bertolt Brecht*, Washington/DC: U.S. Dept. of Justice [fbi](https://vault.fbi.gov/Bertolt%20Brecht%20), [ia](https://archive.org/details/BertoltBrechtFBIFiles)
+- Alexander Stephan, *Alexander Stephan collection of FBI files on German intellectuals in US exile*. 1940-2007.
+
+
+
+
+## flâneur digital
+
+### add
+
+#### 1993
+
+- Geert Lovink, *The Media Gesture Of Data Dandyism*, in: CTHEORY (01/01/1993), [src](http://ctheory.net/the-media-gesture-of-data-dandyism/).
+- Peter Sloterdijk, *Essayismus in unserer Zeit. Preisrede aus Anlaß der Verleihung des Ernst-Robert-Curtius-Preises für Essayistik*, in: Medien-Zeit. Drei gegenwartsdiagnostische Versuche, Stuttgart: Cantz-Verlag 1993 (= Schriftenreihe der Staatlichen Hochschule für Gestaltung Karlsruhe, Bd. 1), pp. 43-64.
+
+
+#### 1994
+
+- Heiko Idensen/ Matthias Krohn, *Bild-Schirm-Denken. Manual für hypermediale Diskurstechniken*, in: Norbert Bolz/ Friedrich Kittler/ Christoph Tholen (eds.), Computer als Medium. München: Fink 1994, pp. 245-266.
+- Mike Mosher, *Hucklefine Defined and Literary Cyberspace*, in: Leonardo Electronic Almanac 2 (June 1994), Nr. 6.
+- Geert Lovink, *Sovereign Media and the Data Dandy. Two Fragments of Adilkno’s Media Theory*, in: Minna Tarkka (ed.), ISEA '94. The 5th International Symposium on Electronic Art. Catalogue, Helsinki: University of Art and Design 1994, pp. 140-143.
+- Adilkno / Bilwet, *Der Datendandy. Über Medien, New Age und Technokultur*, Mannheim: Bollmann 1994.
+    - `EN` *The Data Dandy*, in: The Media Archive. World Edition, New York: Autonomedia 1998; [src](http://www.thing.desk.nl/bilwet/adilkno/TheMediaArchive/26.txt)
+- Adilkno / Bilwet, *The Art of Being Informed over de Datadandy*, in: Mediamatic Magazine 7 (1994), Nr. 3/4; [src](http://www.mediamatic.net/5721/nl/the-art-of-being-informed).
+    - `EN` *The Art of Being Informed about the Data Dandy*, in: Mediamatic Magazine 7 (1994), Nr. 3/4; [src](http://www.mediamatic.net/5721/en/the-art-of-being-informed).
+
+
+#### 1995
+
+- Peter Weibel, *Die virtuelle Stadt im telematischen Raum. Leben im Netz und in Online-Welten*, in: Gotthard Fuchs/ Bernhard Moltmann/ Walter Prigge (eds.), Mythos Metropole, Frankfurt/M: Suhrkamp 1995, pp. 209-227.
+- Florian Rötzer, *Urbanität in den Netzen. Vom Take-Over der Städte*, in: Gotthard Fuchs/ Bernhard Moltmann/ Walter Prigge (eds.), Mythos Metropole, Frankfurt/M: Suhrkamp 1995, pp. 195-208.
+- Florian Rötzer, *Telepolis. Urbanität im digitalen Zeitalter*, Mannheim: Bollmann 1995.
+
+
+#### 1996
+
+- William J. Mitchell, *City of Bits. Space, Place, and the Infobahn*, Cambridge/MA: The MIT Press 1995.
+    - `DE`: *City of Bits. Leben in der Stadt des 21. Jahrhunderts*, Basel: Birkhäuser 1996.
+- Christiane Schneider, *Von der Schildkröte zur Datenautobahn. Verlaufsformen und Funktionen des Flaneurs*, in: Jörg Döring/ Christian Jäger/ Thomas Wegmann (eds.), Verkehrsformen und Schreibverhältnisse. Medialer Wandel als Gegenstand und Bedingung von Literatur im 20. Jahrhundert, Opladen: Westdeutscher Verlag 1996, pp. 152-164.
+- Florian Rötzer, *Flanieren in den Datennetzen*, in: Telepolis (Mar. 1, 1996) [heise](https://heise.de/-3412539)
+- Stephan Porombka, *Der elektronische Flaneur als Kultfigur des Netzdiskurses*, in: Be Magazin 4 (1996), pp. 16-19.
+
+
+#### 1997
+
+- Geert Lovink, The Data Dandy and Sovereign Media. An Introduction to the Media Theory of Adilkno, in: Leonardo 30 (1997), Nr. 1, pp. 57-65; [src](http://www.leonardo.info/isast/articles/datadandy.html)
+- Udo Greinacher, *Fear and Dreaming in the American City. From Open Space to Cyberspace*, in: Nan Ellin (ed.), Architecture of Fear, New York: Princeton Architectural Press 1997, pp. 281-293.
+
+#### 1998
+- Mike Featherstone, *The Flaneur, the City and the Virtual Public Life*, in: Urban Studies 35 (1998), No 5-6, pp. 909-925.
+
+#### 2001
+- Lev Manovich, *The Languages of New Media*, Cambridge/MA: MIT Press 2001.
+
+#### 2002
+- Dieter Daniels, *Kunst als Sendung. Von der Telegrafie zum Internet*. München: C.H. Beck 2002.
+
+#### 2004
+
+- Maren Hartmann, *Technologies and Utopia. The cyberflâneur and the experience of ›being online‹*, München: Reinhard Fischer 2004 (= Internet Research 18). [PhD](http://users.skynet.be/register/cyberflaneuse/PhD1.htm)
+
+#### 2012
+
+- Evgeny Morozov, *The Death of the Cyberflâneur*, in: New York Times (Feb. 04, 2012), SR (=Sunday Review), p. 6. [src](http://www.nytimes.com/2012/02/05/opinion/sunday/the-death-of-the-cyberflaneur.html)
+    - `DE`: *Der Tod des Cyberflaneurs*, in: SPIEGEL ONLINE, [src](http://www.spiegel.de/netzwelt/web/netzkultur-der-tod-des-cyberflaneurs-a-814236.html)
+- John Hendel, »The Life of the Cyberflâneur«, in: The Atlantic (Feb. 8, 2012), [src](http://www.theatlantic.com/technology/print/2012/02/the-life-of-the-cyberfl-neur/252687/)
+
+#### 2013
+
+- Conor McGarrigle, *Forget the Flâneur*, in: Kathy Cleland/ Laura Fisher/ Ross Harley (eds.), Proceedings of the 19th International Symposium of Electronic Art, ISEA2013, Sydney. [hdl](http://hdl.handle.net/2123/9647)
+- Bijan Stephen, *In Praise of the Flâneur*, in: The Paris Review Blog (Oct. 17, 2013), [src](http://www.theparisreview.org/blog/2013/10/17/in-praise-of-the-flaneur/)
+- Sarah Nicole Prickett, *Where the Grass Looks Greener*, in: T. The New York Times Style Magazine (Nov. 6, 2013),
+    - online als *Look Out, It’s Instagram Envy*, [src](http://www.nytimes.com/2013/11/06/t-magazine/sign-of-the-times-look-out-its-instagram-envy.html)
+- Evgeny Morozov, *In der Tiefe*, in: Frankfurter Allgemeine Zeitung (Sept. 17, 2013), Nr. 216, pp. 31; [faz](http://www.faz.net/-hp7-7hkjp).
+    - `EN` *The Deepest of Webs*, [src](http://www.faz.net/-hp7-7hgq1)
+- Thomas Pynchon, *Bleeding Edge*, New York: Penguin Press 2013.
+
+### read
+
+- Welsh, Jeremy (1996): *On and Off the Maps: Lost in Cyberspace and wasting time on the World Wide Web*, in: Convergence. The Journal of Research in New Media Technologies 2 (1996), No. 1, pp. 36–41.
+- Gaylene Barnes, *Passages of the Cyber-Flanuer*, [src](http://www.raynbird.com/essays/Passage_Flaneur.html)
+-  Steven Best and Douglas Kellner, *Debord, Cybersituations, and the Interactive Spectacle*, in: SubStance, Vol. 28, No. 3, Issue 90: Special Issue: Guy Debord (1999), pp. 129-156.
+- Christoph Rodatz, Navigieren, Surfen, Flanieren und das Netz, in: Mikael Hård, Andreas Lösch, Dirk Verdicchio (ed.), Transforming Spaces. The Topological Turn in Technology Studies (2003); [src](http://www.ifs.tu-darmstadt.de/gradkoll/Publikationen/transformingspaces.html)
+- Mark Andrejevic, *Nothing Comes Between Me and My CPU Smart Clothes and ‘Ubiquitous’ Computing*, in: Theory, Culture & Society 2005 Vol. 22 (2005), No. 3, pp. 101–119; [doi](https://doi.org/10.1177%2F0263276405053723).
+- Robert Luke, *The Phoneur. Mobile Commerce and the Digital Pedagogies of the Wireless Web*, in: Peter Trifonas (ed.), Communities of Difference, New York: Palgrave Macmillian 2005, pp. 185-201.
+- Sherman Young, *Morphings and ur-forms: From flâneur to driveur*, in: Scandinavian Journal of Media Arts Culture 2 (2005), No. 1
+- Mercedes Paulini/ Marc Aurel Schnabel, *Surfing the City. An Architecture for Context-Aware Urban Exploration*, in: Proceedings of the 5th International Conference on Advances in Mobile Computing and Multimedia, Jakarta, Indonesia, 3-5 December 2007, pp. 31-40, Zugriff: 04/2016. [dblp](https://dblp.org/rec/bib/conf/momm/PauliniS07)
+- Mercedes Paulini/ Marc Aurel Schnabel, *Surfing the City. Towards context-aware mobile exploration*, in: Beyond Computer-Aided Design. Proceedings of the 13th International Conference on Computer-Aided Architectural Design Research in Asia, Chiang Mai (Thailand): The Association for Computer-Aided Architectural Design Research in Asia 2008, pp. 383-390.
+- Paul Jahshan, *From Man of the Crowd to Cybernaut: Edgar Allan Poe’s Transatlantic Journey — and Back.* European Journal of
+American Studies 3 (Autumn 2008) No. 3; [src](http://ejas.revues.org/2293).
+Paul Kingsbury; John Paul Jones III, *Walter Benjamin’s Dionysian Adventures on Google Earth*, in: Geoforum 40 (Jul. 2009), No. 4, 502–513; [doi](https://doi.org/10.1016/j.geoforum.2008.10.002).
+- Todd Presner, *Digital Geographies: Berlin in the Ages of New Media*, in: Jaimey Fisher/ Barbara Mennel (eds.), Spatial Turns. Space, Place, and Mobility in German Literary and Visual Culture, Amsterdam/New York: Rodopi 2010 (= Amsterdamer Beiträge zur neueren Germanistik 75), pp. 447-469.
+- Todd Presner, *HyperCities: Building a Web 2.0 Learning Platform*, in: Takis Kayalis/ Anastasia Natsina (eds.), Teaching Literature at a Distance. Open, Online and Blended Learning, London/ New York: continuum 2010.
+- Sebastian Doedens, *Flanieren Im Internet: Surfstile Und Surfstrategien Junger Internetnutzer*, Baden-Baden: Nomos, 2010.
+- Marian Dörk/ Scheelagh Capendale/ Carey Williamson, *The Information Flaneur: A Fresh Look at Information Seeking*, in: CHI 2011: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, ACM, pages 1215-1224, May 2011.
+- Matthew Shannon, *Clothes of the World*, in: un Magazine 7 (2013), No. 1; [src](http://unprojects.org.au/magazine/issues/issue-7-1/cloth-of-the-world/)
+- Ileana Apostol, Panayotis Antoniadis and Tridib Banerjee, *Flânerie between Net and Place: Promises and Possibilities for Participation in Planning*, in: Journal of Planning Education and Research 33 (2013), No. 1, pp. 20-33; [doi](https://dx.doi.org/10.1177/0739456X12468772).
+- Émile Cardoso Andrade; Michelle dos Santos, *A Internet das Coisas Vistas: medianeras, flâneur, zappeur*, in: Revista GEMInIS 4 (2013) No. 2, pp. 217—228; [src](http://www.revistageminis.ufscar.br/index.php/geminis/article/view/156/125).
+- Charles Soukup, *The Postmodern Ethnographic Flaneur and the Study of Hyper-Mediated Everyday Life*, in: Journal of Contemporary Ethnography 42 (2013) No. 2, pp. 226-254; [doi](https://doi.org/10.1177%2F0891241612461278).
+- Ekaterina Netchitailova, *The Flâneur, the Badaud and Empathetic Worker*, in: tripleC. Journal for a Global Sustainable Information Society 12 (2014), No. 1, pp. 1-13; [doi](https://doi.org/10.31269/triplec.v12i1.500 ).
+- Payal Arora, *The Leisure Commons: A Spatial History of Web 2.0*, New York: Routledge, 2014
+- Danah Boyd, *It’s Complicated: The Social Lives of Networked Teens*, New Haven: Yale University Press 2014.
+- Jeroen van Honk, *The Web and its Wanderers*, in: INC Longform (Feb. 19, 2016) [src](http://networkcultures.org/longform/2016/02/19/the-web-and-its-wanderers/)
+- Alain Claude Sulzer, *Der Flaneur vergnügt sich im Elektrobecken* (2017)
+
+
+### div
+
+- Alan Miller, *A Grand Tour, Part 1: The Digital Flaneur*, in: New York Arts. An International Journal for the Arts (Oct. 22, 2010), [src](http://newyorkarts.net/2010/10/a-grand-tour-part-1-the-digital-flaneur/), [part2](http://newyorkarts.net/2010/10/a-grand-tour-part-2-venice-the-menaced/), [part3](http://newyorkarts.net/2010/11/a-grand-tour-part-3-cool-buildings/), [part4](http://newyorkarts.net/2010/11/a-grand-tour-part-4-urban-limericks/).
+- Michael S. Gallagher, *The Flaneur Was Here: Mobile Augmented Reality and Urban Cultural Heritage Learning in Lower Manhattan* (Dec. 15, 2010), [src](http://michaelseangallagher.org/mlearning/flaneur-analysis/), [vid](https://vimeo.com/17969730), [pdf](https://michaelgallagher.files.wordpress.com/2010/12/ededcfinalassignment1.pdf)
+- Matthew T. Grant, *@WalterBenjamin: Twitter, Cyberflânerie, and the Aestheticization of Politics*, Critical Speculations — Future Worlds, Perilous Histories, and Walter Benjamin Unbound, Conference, University at Albany (SUNY), Sept. 28-29, 2012.
+    - [event-hp](https://www.albany.edu/mals/53373.php), [src](http://www.matthewtgrant.com/2012/09/23/walterbenjamin-twitter-cyberflanerie-and-the-aestheticization-of-politics/), [part1](http://www.matthewtgrant.com/2012/10/03/reconstruction-of-a-talk-given-on-walter-benjamin-and-twitter-part-1/), [part2](http://www.matthewtgrant.com/2013/01/02/reconstruction-of-a-talk-given-on-walter-benjamin-and-twitter-part-2/)
+
+
+
+### links
+
+- *The Digital Flaneur : A New York Blog* [src](http://thedigitalflaneur.blogspot.com/)
+- *Urban Data Flaneur* [src](http://www.heikeotten.de/portfolio/urban-data-flaneur/)
+
+
+### misc
+
+- Lorenzo Tripodi, Digital City (digital Flaneur), in: Digimag. Arte digitale e cultura elettronica (Mar., 2005), pp. 76-78. [issuu](https://issuu.com/digicultlibrary/docs/digimag02ita)
+- Simon Lindgren, *From Flâneur to Web Surfer: Videoblogging, Photo Sharing and Walter Benjamin @ the Web 2.0*, in: Transformation (November 2007), Nr. 15: Walter Benjamin and the Virtual. Politics, Art, and Mediation in the Age of Global Culture, url: 'http://www.transformationsjournal.org/issues/15/article_10.shtml', Zugriff 05/2016.
+- Rainer Stadler, Weniger Futter für digitale Flaneure, in: NZZ (Sept. 14, 2017), [src](https://www.nzz.ch/feuilleton/medien/weniger-futter-fuer-digitale-flaneure-ld.1316125).
+- Ben Fino-Radin, *INSERT DISC: a digital flaneur’s guide*, RHIZOME blog (Oct 02, 2012), [src](http://rhizome.org/editorial/2012/oct/2/insert-disc-digital-flaneurs-guide/).
+
+
+
+
+## flâneur flâneuse
+
+### read
+
+- Lauren Elkin, *A tribute to female flâneurs: the women who reclaimed our city streets*, The Guardian (Jul. 29, 2016), [src](https://www.theguardian.com/cities/2016/jul/29/female-flaneur-women-reclaim-streets)
+- Lauren Elkin, *Radical Flâneuserie*, in: The Paris Review Blog (Aug. 25, 2016), [src](http://www.theparisreview.org/blog/2016/08/25/radical-flaneuserie/)
+- Silke Wichert, *Ausschweifend weiblich*, NZZ (Jun. 25, 2017), [src](https://www.nzz.ch/gesellschaft/ausschweifend-weiblich-lob-flanierens-ld.1302376)
+
+
+### open
+
+- Flaneuse, *The shadow*, London: Gardner 1913
+- Flaneuse, *The Chain*, London: Gardner 1913
+- Flaneuse, *The Yellow Fairy*, London 1913
+- Flaneuse, *The Fame of Goodness*, London 1913
+- Flaneuse, *The Grip*, London 1913
+- Flaneuse, *Doubly tired*, London: Greening 1917
+- Flaneuse, *The trumphant woman*, London 1918
+- Lauren Elkin, *Flâneuse : women walk the city in Paris, New York, Tokyo, Venice and London*, New York: Farrar, Straus and Giroux 2016.
+    - `DE` *Flâneuse. Frauen erobern die Stadt — in Paris, New York, Tokyo, Venedig und London*, aus dem Engl. von Cornelia Röser, München: btb 2018.
+
+
+
+
+## flâneur hashish
+
+### add
+
+- Walter Benjamin, *Berliner Chronik* [1932], in: Gesammelte Schriften, 7 Bde., Rolf Tiedemann/ Hermann Schweppenhäuser (eds.), Bd. VI: Fragmente. Autobiographische Schriften, Rolf Tiedemann (ed.), Frankfurt/M: Suhrkamp 1991, pp. 465-519.
+- Walter Benjamin, *Passagen* (1934-1940)
+
+
+### read
+
+- Charles Baudelaire, *Les paradis artificiels. Opium et haschisch*, Paris: Poulet-Melassis et de Broise 1860.
+- Walter Benjamin, *Myslowitz - Braunschweig - Marseille. Die Geschichte eines Haschisch-Rausches*, in: *UHU* 7 (1930), Nr. 2, pp. 90-101.
+
+
+
+
+## flâneur return
+
+### div
+
+- [Flaneur Magazine (2013)](http://flaneur-magazine.com/)
+- [Kultur flaniert (2013)](http://kulturtausch.de/kultur-flaniert/) [fb](https://de-de.facebook.com/kulturflaniert/)
+- [ÉCOLEFLÂNEURS (2014)](https://ecoleflaneurs.wordpress.com/)
+- Mariska Gewald, 25 Ways of Walking (2014) [tumblr](http://vinexpers.tumblr.com/post/91439576041/mariska-gewald-25-ways-of-walking-2014) [vid](https://www.youtube.com/watch?v=lOf5Zed1qkg)
+- [Walking Culture: Rethinking Flanerie (2015)](http://unmakingthenetherlands.nl/walking-culture/rethinking-flanerie/)
+- [Flâneurs. Street Rambles (2016)](http://www.flaneurs-film.com/)
+
+### lit
+
+- Eberhard Diepgen, *Wiederkehr der Flaneure. Berlin, Metropole mit menschlichem Antlitz*, in: Frankfurter Allgemeine Zeitung, 18.04.1995, Nr. 90, S. 29.
+- Klaus Hartung, *Rhetorischer Nieselregen. Eberhard Diepgen als Flaneur*, in: Die Zeit, 21. April 1995.
+- Frank Schäfer, *Ich bleib dann mal hier. Die Wiederkehr des Flaneurs*, in: Rolling Stone (Mar 2012), pp. 56-57.
+
+
+
+
+## flâneur
+
+### add
+
+- Victor Fournel, *Ce qu'on voit dans les rues de Paris* (1858)
+    - Heinz Brüggemann (ed.), ›Aber schickt keine Poeten nach London!‹ Großstadt und literarische Wahrnehmung im 18./19. Jahrhundert. Texte und Interpretationen, Reinbek: Rowohlt 1985.
+      - *Die Odyssee eines Flaneurs in den Straßen von Paris*, pp. 308–319. [Auszug]
+    - Angelika Wellmann (ed.), *Der Spaziergang. Ein literarisches Lesebuch*, Hildesheim: Olms 1992.
+      - *Die Kunst des Flanierens – Definition des Müßiggängers*, pp. 231– 244. [Auszug]
+- Hofmannsthal, *Der Tor und der Tod* (1898)
+- Aragon, *Le Paysan de Paris* (1926)
+- Benjamin, *Passagen* (1927-40)
+    - *Die Wiederkehr des Flaneurs* (1929)
+    - *Das Paris des Second Empire bei Baudelaire* (1938)
+    - *Über einige Motive bei Baudelaire* (1939)
+- Brecht, *Aus dem Lesebuch für Städtebewohner* (1930)
+- Friedell, *Kulturgeschichte der Neuzeit* (1931)
+- Michel de Certeau, *L'Invention du Quotidien*, Vol. 1: *Arts de Faire*, Paris 1980
+    - dt.: *Kunst des Handelns*, Berlin: Merve 1988.
+- Angelika Wellmann, *Der Spaziergang. Stationen eines poetischen Codes*, Würzburg: Königshausen & Neumann 1991.
+- Carlo Ginzburg, *»Spurensicherung. Der Jäger entziffert die Fährte, Sherlock Holmes nimmt die Lupe, Freud liest Morelli. Die Wissenschaft auf der Suche nach sich selbst«*, in: ders., *Spurensicherung. Die Wissenschaft auf der Suche nach sich selbst*. Aus dem Italienischen von Gisela Bonz und Karl F. Huber, Berlin: Wagenbach 1995, pp. 7-44.
+
+
+
+### read
+
+- Karl Friedrich Kretschmann, *Scarron am Fenster*, in: W.G. Becker (ed.), Taschenbuch zum geselligen Vergnügen. Leipzig: Gleditsch 1798, pp. 64-90.
+    - *Scarron abermals am Fenster*, in: W.G. Becker (ed.), Almanach und Taschenbuch zum geselligen Vergnügen, Leipzig: Voß 1799, pp. 42-80.
+- *Un Flaneur, Le Flaneur a Paris*, in: Paris, ou Le livre des cent-et-un, Paris: Ladvocat 1832, pp. 95-110.
+- Edgar Allen Poe, *The Man of the Crowd*, in: Graham's Magazine 7 (1840), Nr. 6, pp. 267-270.
+    - *The Man of the Crowd*, in: The Casket 17 (1840), Nr. 6, pp. 253-256.
+- Friedrich Engels, *Die Lage der arbeitenden Klasse in England. Nach eigner Anschauung und authentischen Quellen*, Leipzig: Wigand 1845.
+- Georg Simmel, *Die Großstädte und das Geistesleben*, in: Theodor Petermann (ed.), *Die Großstadt. Vorträge und Aufsätze zur Städteausstellung*, Dresden: Zahn & Jaensch 1903 (= Jahrbuch der Gehe-Stiftung Dresden 9), pp. 185-206.
+- Apollinaire, *Le Flaneur des deux rives* (1918)
+- Louis Aragon, *Don Juan und der Schuhputzer. Briefmarken. Damentoilette. Cafe Certa*, Walter Benjamin (tr.), in: Die literarische Welt 4 (8. Jun. 1928), Nr. 23, pp. 3-4; (15. Jun. 1928), Nr. 24, pp. 7-8.
+- Franz Hessel, *Spazieren in Berlin*, Leipzig/ Wien: Epstein 1929.
+- Keith Tester (ed.), *The Flâneur*, London; New York: Routledge 1994.
+
+
+
+### open
+
+- Mercier, Louis-Sébastien: *Tableau de Paris; Les Français peints par eux-mêmes*, Paris 1840-1842
+- Louis Huart, *Physiologie du flâneur* (vignettes de MM. Alophe, Daumier et Maurisset), Aubert-Lavigne, 1841
+- Willem van Reijen, *Der Flaneur und Odysseus*, in: Harry Kunneman/ Hent de Vries (ed.), Die Aktualität der ›Dialektik der Aufklärung‹. Zwischen Moderne und Postmoderne, Frankfurt/M/ New York 1989, pp. 100-113.
+- Bernd Stiegler, *Reisender Stillstand. Eine kleine Kulturgeschichte der Reisen im und um das Zimmer herum*, Frankfurt/M: Fischer 2010 (Darin 9. Flaneur, p. 141).
+- Bernd Stiegler, *Traveling in place. A history of armchair travel*, London/ Chicago, Ill.: University of Chicago Press 2013.
+
+### link
+
+- *Paris: Capital of the 19th Century* [hp](http://library.brown.edu/cds/paris/) [catalogue](https://repository.library.brown.edu/studio/collections/id_577/)
+    - [Brown University Library Center for Digital Scholarship](http://library.brown.edu/cds/)
+- [*Walking Off the Big Apple. A Strolling Guide to New York City*](http://www.walkingoffthebigapple.com/)
+- [The Flâneur](http://www.theflaneur.co.uk) (2005)
+    - official website of *La Société des Flâneurs Sans Frontières*
+
+### done
+
+- Börne, *Der Greve-Platz* (1822)
+- Baudelaire, *Peintre de la vie moderne* (1863)
+    - *Figaro* 10 (26.11.1863), Nr. 916, pp. 1-5; (29.11.1863), Nr. 917, pp. 1-5; (03.12.1863), Nr. 918, pp. 1-5.
+- Müller, *Die Hamletmaschine* (1977)
+
+
+
+
+## future
+
+### add
+
+- E.M.Forster, *The Machine Stops* (1911)
+- El Lissitzky, *Topographie als Typographie* (1923)
+      - Merz: Nasci (1924)
+- Paul Valéry, *La conquête de l’ubiquité* (1928)
+- Paul Valery, *Mes théâtres* (1942)
+- Vannevar Bush, *As we may think* (1945)
+- Vannevar Bush, *Today’s Research and Tomorrow’s World. An Address* (1954)
+- Robert A. Heinlein, *Stranger in a strange land* (1961)
+    - New York: Putnam 1961
+    - New York: Ace Books XXXX
+    - dt.: *Ein Mann in einer fremden Welt*, München: Heyne 1970
+- Paul O'Neil, *The Amazing Hugo Gernsback. Prophet of Science. Barnum of the Space Age*, in: Life Magazine (26 Juli 1963), pp. 62-68.
+- Jules Verne, *Paris im 20. Jahrhundert*. Roman, Wien: Zsolnay 1996.
+- Stanisław Lem, Powrót z gwiazd. Warszawa: Czytelnik 1961.
+    - dt.: Transfer, Düsseldorf: Marion-von-Schröder-Verlag 1974
+      - Rückkehr von den Sternen. Insel-Verlag, Frankfurt am Main 1984 (1974er Übersetzung).
+
+
+### read
+
+- Stanisław Lem, *Summa Technologiae*, Kraków: Wydawnictwo Literackie 1964.
+- Klaus Burmeister/ Karlheinz Steinmüller (eds.), Streifzüge ins Übermorgen. Science Fiction und Zukunftsforschung, Weinheim/ Basel: Beltz 1992 (Darin Abschnitt über Robida).
+- Roland Innerhofer, *Deutsche Science Fiction 1870-1914. Rekonstruktion und Analyse der Anfänge einer Gattung*, Wien: Böhlau 1996 (= Literatur in der Geschichte, Geschichte in der Literatur; Bd. 38).
+
+
+
+### open
+
+- Bellamy, *Ein Rückblick aus dem Jahr 2000 auf 1887* (1888)
+- Theodor Hertzka, *Entrückt in die Zukunft. Sozialpolitischer Roman*, Berlin 1895.
+- Max Haushofer, *Planetenfeuer*, Ein Zukunftsroman. Stuttgart 1899.
+- August Friedrich Fetz, *Ein Blick in die Zukunft 2407. Dr. Wunderlichs seltsame Erlebnisse in Berlin vom 1. bis 7. Oktober 2407*. Mit vielen Illustrationen. Leipzig 1907.
+- John Brunner, *Der Schockwellenreiter*, München: Heyne 1979.
+
+
+- populärwissenschaftliche Beiträge im *Neuen Universum*
+    - *Photographophon*, 26. Jg. 1905, pp. 330f.
+    - *Elektrische Fernphotographie*, 27. Jg. 1906, pp. 317-320.
+    - XXX, 28. Jg. 1907, pp. 329-334.
+    - *Elektrisches Fernsehen und Fernschreiben*, 31. Jg. 1910, pp. 301-311.
+    - Hans Dominik, *Ein neues Paradies*, 31. Jg. 1910, pp. 284-300.
+
+
+### notes
+
+- Verne's In the Year 2889 (published of course in 1889) had some aspects of the Internet as well, http://www.gutenberg.org/files/19362...-h/19362-h.htm
+    - "Here 1500 reporters, in their respective places, facing an equal number of telephones, are communicating to the subscribers the news of the world as gathered during the night. The organization of this matchless service has often been described. Besides his telephone, each reporter, as the reader is aware, has in front of him a set of commutators, which enable him to communicate with any desired telephotic line. Thus the subscribers not only hear the news but see the occurrences. When an incident is described that is already past, photographs of its main features are transmitted with the narrative. And there is no confusion withal. The reporters' items, just like the different stories and all the other component parts of the journal, are classified automatically according to an ingenious system, and reach the hearer in due succession. Furthermore, the hearers are free to listen only to what specially concerns them." [src](http://boards.straightdope.com/sdmb/showthread.php?t=748868)
+
+
+### bib
+
+```
+@book{lemXX.sumYY.eng13,
+title={Summa technologiae},
+author={Lem, Stanisław and Zylinska, Joanna},
+publisher={Univ Of Minnesota Press},
+address={Minneapolis; London},
+year=2013,
+series={Electronic mediations},
+number=40
+```
+
+### links
+
+- British Library, Discovering Literature: Romantics & Victorians. [Inventing the Future](https://www.bl.uk/romantics-and-victorians/articles/inventing-the-future)
+- Straight Dope Message Board: [The Internet in Old Sci Fi](https://boards.straightdope.com/sdmb/showthread.php?t=748868)
+
+### done
+
+- Mark Twain, *From the London Times 1904* (1898)
+- Brehmer (ed.), *Die Welt in hundert Jahren* (1910)
+    - Hudson Maxim, *Das 1000jährigen Reich der Maschinen*
+- Walter Benjamin, *Einbahnstraße* (1928)
+- Erich Kästner, *Der 35. Mai oder Konrad reitet in die Südsee* (1933)
+- Paul Otlet, *Traité de documentation. Le livre sur le livre* (1934)
+- Paul Otlet, *Monde. Essai d’Universalisme* (1935)
+- H.G. Wells, *World Brain* (1938)
+- Murray Leinster, *A Logic Named Joe* (1946)
+
+
+## library
+
+### read
+
+- Fremont Rider, *The Scholar and the Future of the Research Library. A Problem and Its Solution*, New York City: Hadham Press 1944.
+- Licklider, *Libraries of the Future* (1965)
+- Jens Ilg, *Die Bibliothek der Zukunft : eine Typologie von Zukunftsbeschreibungen*, Berlin : Inst. für Bibliotheks- und Informationswiss. 2008 (= Berliner Handreichungen zur Bibliotheks- und Informationswissenschaft ; H. 235) [src](http://www.ib.hu-berlin.de/%7Ekumlau/handreichungen/h235/h235.pdf)
+
+
+
+## library digital
+
+### add
+
+- Dieter E. Zimmer, *Die Bibliothek der Zukunft. Text und Schrift in den Zeiten des Internet*, Hamburg: Hoffmann & Campe 2000
+- Jean-Noël Jeanneney, *Googles Herausforderung. Für eine europäische Bibliothek*, Berlin 2006 [Paris 2005] [Chicago/London 2006]
+
+
+### read
+
+- Mark Tran, *Google opens new chapter for literati*, The Guardian (Aug 30, 2006)
+- Jeffrey Toobin, *Googles’s Moon Shot. The Quest for the Universal Library*, in: The New Yorker (Feb 5, 2007), pp. 30–35.
+- Sergey Brin, *A Library to Last Forever*, in: The New York Times (Oct 8, 2009), [src](http://www.nytimes.com/2009/10/09/opinion/09brin.html)
+- Roland Reuß, *Enteignet die Enteigner*, in: Frankfurter Rundschau (12. März 2009), Nr. 60, pp. 34ff.
+    - auch als: *Zu Google Books* [src](http://www.textkritik.de/digitalia/ZuGoogleBooks.pdf)
+- Nicholas Carr, *The Library of Utopia*, in: MIT Rechnology Review (Apr 25, 2012), [src](https://www.technologyreview.com/s/427628/the-library-of-utopia/)
+
+
+### open
+
+- *TEXT* 12 (2008): [*Edition & Digitalisierung*](http://www.textkritik.de/text/text12.htm)
+
+
+### div
+
+- [Open Media Library](https://openmedialibrary.com/)
+
+
+#### textz.com (2000)
+
+- *Napster was only the beginning* (2001), [src](http://rolux.org/texts/napster_was_only_the_beginning/)
+- *Suhrkamp recalls walser.pdf, textz.com releases walser.php* (2002), [src](http://rolux.org/texts/suhrkamp_recalls_walser.pdf_textz.com_releases_walser.php/)
+- Florian Cramer, *walser.php*, in: Olga Goriunova, Alexei Shulgin (ed.),«Read_Me 2.3. Reader», Helsinki 2003, pp. 76–78
+- *Free Adorno, Free Benjamin* (2004), [src](http://rolux.org/texts/free_adorno_free_benjamin/)
+- Niklas Hablützel, *In den Knast für Adorno?*, [taz (Feb 24, 2004), p. 14](http://www.taz.de/!784793/)
+- Inke Arns, *Read_me, run_me, execute_me. Code as Executable Text: Software Art and Its Focus on Program Code as Performative Text* (2004), [src](http://www.medienkunstnetz.de/themes/generative-tools/read_me/)
+    - aus: Olga Goriunova and Alexei Shulgin (eds.), *Read_me: software art & cultures*, Århus: Digital Aesthetics Research Centre, University of Aarhus, 2004. [pdf](http://art.runme.org/1107863582-4268-0/arns.pdf)
+- *10 Theses on the Archive* (2010), [src](http://pad.ma/texts/padma:10_Theses_on_the_Archive/)
+
+
+- [hp](http://web.archive.org/web/20050322021038/http://www.textz.com:80/)
+- [adorno](http://web.archive.org/web/20050330055009/http://www.textz.com:80/adorno/)
+- [cache](http://web.archive.org/web/20050330060758/http://www.textz.com:80/cache/)
+- [concept](http://web.archive.org/web/20050316234953/http://www.textz.com:80/concept/)
+- [trash](http://web.archive.org/web/20050316234950/http://www.textz.com:80/trash/)
+- [zeitgeist](http://web.archive.org/web/20050213022550/http://textz.com:80/zeitgeist/)
+
+
+- [walser.php (2002)](http://www.medienkunstnetz.de/works/walser-php/)
+- [The Conceptual Crisis of Private Property as a Crisis in Practice. A Screenshot by Robert Luxemburg (2004)](http://web.archive.org/web/20050405032820/http://www.rolux.net:80/crisis/index.php)
+
+
+
+
+## library documentation
+
+### read
+
+- Watson Davis, *How Documentation Promotes Intellectual World Progress*, in: The Science News-Letter, Vol. 32, No. 861 (Oct. 9, 1937), pp. 229-231
+- Ellis F. King, *Electronic Transmissions for Interlibrary Loans*, in: *American Documentation* 11 (1960), pp. 32—39.
+- Gordon Alexander Speedie, *Speed Words*, in: *American Documentation*, in: *American Documentation* 11 (1960), pp. 23—31.
+- Sonya G. Machelson, *Machine Translation in the U.S.S.R. — A Brief Survey*, in: *American Documentation* 11 (1960), pp. 151—154.
+- Eberhardt Gering, *Die Gründer und Mitbegründer der Deutschen Gesellschaft für Dokumentation im NS-Staat — Biographische Skizzen — Geheimrat Prof. Dr. Hugo Andres Krüß (1879-1945)* (Feb 14, 2007) [src](https://homepages.uni-tuebingen.de//gerd.simon/GeringKruess.pdf)
+- Gerd Zörner, *Krüss, Hugo Andres*, in: Neue Deutsche Biographie (NDB). Band 13, Duncker & Humblot, Berlin 1982, pp. 111—112. [src](http://daten.digitale-sammlungen.de/0001/bsb00016330/images/index.html?seite=127).
+- Eberhardt Gering, *Die Gründer der Deutschen Gesellschaft für Dokumentation. Ein Beitrag zur Gründungsgeschichte der DGD* (Jun 9, 2004), [src](https://homepages.uni-tuebingen.de//gerd.simon/gering.pdf)
+- Sem C. Sutter, *H. A. Krüss and Gustav Abb as Library Administrators in Occupied Territories*, in: Bibliotheken in der NS-Zeit: Provenienzforschung und Bibliotheksgeschichte, edited by Stefan Alker, Christina Köstner, Markus Stumpf, (Wien: V&R unipress, 2008), 315-27.
+- Rieck, *Die Geschichte der wissenschaftlichen Information und Dokumentation in Deutschland unter Berücksichtigung politischer Einflüsse* (Magister, HU Berlin, 2004).
+- Gerd Simon unter Mitwirkung von Eberhardt Gering, Dagny Guhr, Ksenia Shturkhetska, Hannah Soppa und Ulrich Schermaul, *Chronologie ›Gesellschaft für Dokumentation‹ mit knappen Ausflügen in ihre Vorgeschichte und in die Entwicklung des Bibliothekswesens vorwiegend im 3. Reich.*
+    - [Teil I: Archivalien (Erstfassung Jan 2004, vorliegende Fassung 03.10.2006)](http://homepages.uni-tuebingen.de//gerd.simon/ChrDokII.pdf)
+    - [Teil II: Bibliographie (Erstfassung Jan 2004, vorliegende Fassung 14.01.2007)](https://homepages.uni-tuebingen.de//gerd.simon/ChrDokI.pdf)
+
+
+### open
+
+- *L'organisation de la documentation*, in: Bulletin de L'Institut International de Bibliographie, 13, (1908), pp. 184-191.
+- W. Boyd Rayward (ed.), *European Modernism and the Information Society*, Adershot, Hampshire; Burlington, Vermont: Ashgate 2008.
+
+### misc
+
+- *Catalog of Auxiliary Publications in Microfilms and Photoprints*, American Documentation Institute, Washington 1946.
+- Peter R. Frank (ed.), *Von der systematischen Bibliographie zur Dokumentation*, Darmstadt: Wissenschaftliche Buchgesellschaft 1978. [dnb](http://d-nb.info/790224143) [toc](http://d-nb.info/790224143/04)
+    - Textsammlung mit Texten der letzten hundert Jahre (Otlet, et. al, 1821-1969)
+
+
+### source
+
+- [Gerd Simon, Zur Buch-, Dokumentations- und Informationswissenschaft](https://homepages.uni-tuebingen.de//gerd.simon/buchwiss1.htm)
+
+
+### related
+
+- [library](library.md)
+- [library photo](library-photo.md)
+- [world congress](world-congress.md)
+
+
+
+
+## library photo
+
+### add
+
+- Monika Dommann, *Papierstau und Informationsfluss. Die Normierung der Bibliothekskopie*, in: Historische Anthropologie 16 (2008), Nr. 1, pp. 31-54.
+- Monika Dommann, *Dokumentieren: Die Arbeit am institutionellen Gedächtnis in Wissenschaft, Wirtschaft und Verwaltung 1895-1945*, in: Christian Kleinschmidt/ Raymond Stokes (eds.), Technikentwicklung zwischen Wirtschaft und Verwaltung in Grossbritannien und Deutschland (19./20. Jh.), Baden-Baden: Nomos 2008 (= Jahrbuch für europäische Verwaltungsgeschichte 20), pp. 277-299.
+- Monika Dommann, *Recording Prints, Reading Films. Mikrofilme, amerikanische Kosmopoliten und die Entdeckung des Copyrightproblems in den 1930er Jahren*, in: Zeitschrift für Medienwissenschaft (2010), Nr. 3. pp. 73-83.
+- Monika Dommann, *Autoren und Apparate. Die Geschichte des Copyrights im Medienwandel*, Fischer 2014.
+
+
+
+### misc
+
+- *Bericht über den VIII. Internationalen Kongress für Wissenschaftliche und Angewandte Photographie. Dresden 1931.* Hrsg. im Auftrage des Deutschen Kongress-Ausschusses von J. Eggert und A. v. Biehler, Leipzig: Barth 1932.
+    - Emanuel Goldberg, *Das Registrierproblem in der Photographie*, pp. 317-320
+    - Erich Stenger, *Aus der Frühgeschichte der Photographie: Das Lichtbild im Dienste der Bibliotheken*, pp. 415–419.
+- Donker Duyvis, La photocopie
+    - »Das Lesen der Dokumente auf Papier oder mittels Projektion gestaltet sich mangels geeigneter Lesegeräte sehr schwierig. Die eingeübten Kulturtechniken des Lesen von Druckschriften sind nur beschränkt übertragbar; die Augen ermüden schnell und können sich nicht wie gewohnt bewegen.« (cit. Dommann, Dokumentieren, p. 297)
+
+
+
+### read
+
+- Emile Chatelain, *La photographie dans les bibliothèques*, in: Revue des bibliothèques, 1, (1891), pp. 225-241.
+
+
+- Molsdorf, *Einige Ratschläge bei der Beschaffung photographischer Einrichtungen für Bibliothekszwecke*, in Zentralblatt für Bibliothekswesen 18, 1, 2 (1901), pp. 23-31.
+- Charles Mills Gayley, *The Reproduction of Manuscripts from the American Point of View*, in: Actes du Congrès International pour la Reproduction des Manuscrits, des Monnais et des Sceaux tenu à Liège, les 21, 22 et 23 août 1905, Bruxelles 1905, pp, 203-215.
+- Karl Krumbacher, *Die Photographie im Dienste der Geisteswissenschaften*, in: Sonderabdruck: Neue Jahrbücher für das klassische Altertum 17 (1906), pp. 601-660.
+- Charles Mills Gayley, *An Account of the Proceedings of the International Congress for the Reproduction of Manuscripts, Liege, August 21—23, 1905*, Report for the Comissioner of Education for the Year Ending June 30, 1905, Vol. 1, Washington: Government Printing Office 1907, pp. 131—142.
+- Robert Goldschmidt/Paul Otlet, *Sur une forme nouvelle du livre*, in: Bulletin de L’Institut International de Bibliographie 12 (1907), 61–69.
+- G. Vander Haeghen, *Le Livre de Demain*, in: Bulletin de L’Institut International de Bibliographie 12 (1907), 105–127.
+- Otto Fiebiger, *Internationale Photographische Ausstellung, Dresden 1909. Die Photographie im Dienste des Bibliothekswesens*, in: Centralblatt für Bibliothekswesen 26 (1909), pp. 451-456.
+
+
+- Paul Marc, *Bibliothekswesen*, in: K. W. Wolf-Czapek (ed.), Angewandte Photographie in Wissenschaft und Technik, Berlin 1911, pp. 57-76.
+- MH, *Die mikroskopische Bibliothek*, in: Berliner Volks-Zeitung 59 (Sun, Feb 5, 1911), no. 61, Drittes Beiblatt.
+- P. R. Kögel, *Die Photographie historischer Dokumente nebst den Grundzügen der Reproduktionsverfahren wissenschaftlich und praktisch dargestellt*, Leipzig 1914.
+- Walter Swingle/ Maude Swingle, *The Utilization of Photographic Methods in Library Research Work*, in: The Library Journal 41, 11 (1916), pp. 801-804.
+
+
+- *Der Photostat*, in: Photographische Korrespondenz, 63, 1927, pp. 187-188.
+
+
+- Rudolf Hoecker/ Joris Vorstius, *Kurze neue Nachrichten*, in: Zentralblatt für Bibliothekswesen 48 (Januar/ Februar 1931), pp. 94-96.
+- W. Sch., *Umschau aus Bibliotheken: Berlin, Staatsbibliothek*, in: Zentralblatt für Bibliothekswesen 49 (1932), pp. 311-312.
+- Schürmeyer, *Die Photographie im Dienste der bibliothekarischen Arbeit*, in Zentralblatt für Bibliothekswesen, 50, 1933, pp. 580-583.
+- Robert C. Binkley, *New Tools, New Recruits, for the Republic of Letters*, Memorandum, Joint Committee on Materials for Research of the American Council of Learned Societies and the Social Science Research Council, Typoskript, 1934.
+- Luise von Schwartzkoppen, *Die rechtliche Zulässigkeit der Photokopie im Rechte des Auslands und nach dem Entwurf zu einem neuen Urheberrechtsgesetz*, in: Zentralblatt für Bibliothekswesen 51, 6, 1934, pp. 297-311.
+
+- Atherton Seidell, *Microfilm Copying of Scientific Literature*, in: Science, 89, 2306 (1939), pp. 219-220.
+- Atherton Seidell, *The Utilization of Microfilms in Scientific Research*, in Science, 89, 2298 (1939), pp. 32-34.
+
+
+- Hermann H. Fussler, *Photographic Reproduction for Libraries*, Chicago 1942.
+- Wilhelm Hinsch, *Grundlagen und Möglichkeiten des Mikrobuches*, in: Centralblatt für Bibliothekswesen 62 (1948), 282.
+- *Photoelectric librarian*, in: Electronics 22 (Sep 1949), no. 9, pp. 122, 158, 160, 162, 164, and 166.
+- Heinz Lübeck, *Grundsätzliche Fragen des Mikrobuches*, in: Centralblatt für Bibliothekswesen 63 (1949), pp. 17–29.
+
+
+- Irene S. Farkas-Conn, *From documentation to information science : the beginnings and early development of the American Documentation Institute-American Society for Information Science*, New York: Greenwood 1990. [src](http://adi-asist.accessinn.com/2012/03/title-pages-table-of-contents/)
+- Dag Ernst Peterson, *Die Mikroform: Chance und Gefahr für das Buch* (1999)
+- Nicholson Baker, *Double Fold. Libraries and the Assault on Paper*, New York: Random House 2001.
+    - `DE` *Der Eckenknick, oder, Wie die Bibliotheken sich an den Bücher versündigen*, Reinbek bei Hamburg : Rowohlt 2005.
+- Wolfgang Ernst, *Im Namen von Geschichte. Sammeln, Speichern, Er/Zählen. Infrastrukturelle Konfigurationen des deutschen Gedächtnisses*, München: Fink 2003.
+- Alistair Black, Dave Muddiman and Helen Plant, *The Early Information Society. Information Management in Britain before the Computer*, Aldershot, Hampshire; Burlington, Vermont: Ashgate 2007.
+
+
+### open
+
+- *Micro-Photographs as Documentary Records*, in: The British Journal of Photography, January 18 (1907), p. 39.
+- John Fretwell, *Photographic Copying in Libraries*, in: The Library Journal 33, 6 (1908), pp. 223-224.
+
+
+- *Photostat*, in: The Library Journal, 43, 8, (1918), p. 697.
+- *Photostat and War Collections Exhibited at Princeton*, in: The Library Journal 43, 4 (1918), pp. 271-273.
+
+
+- Fritz Wentzel, *Amerikanische Vervielfältigungsgeräte auf photographischer Grundlage*, in: Photographische Korrespondenz 65, 5, 1929, pp. 143-148.
+
+
+- Robert C. Binkley, *Methods of Reproducing Research Materials. A survey made for the Joint Committee* ..., Ann Arbor 1931
+- Marwitz, *Das Photokopierverfahren*, in: Börsenblatt für den Deutschen Buchhandel, 98, 252 (1931), pp. 949-950.
+- Paul Otlet, *Le livre photomicrographique*, in: I.I.D. Communicationes 1, 2 (1934), pp. 19-20.
+- J. P. C. van Asperen, *Neuzeitliche photographische Reproduktionsverfahren*, in: I.I.D. Communicationes I, 3, 1934, pp. 1-12 und I, 4 (1934), pp. 2-24.
+- Donker Duyvis, *La photocopie micrographique sur papier*, in: I.I.D. Communicationes 2, 2 1935, pp. 16-23.
+- Atherton Seidell, *Film-strip Copies of Scientific Publications*, in: I.I.D. Communicationes 2 (1935) H. 2, 24–27
+- Walter Schürmeyer, *Mitteilungen über einige technische Neuerungen und Anwendungsmethoden fotografischer Hilfsgeräte für das dokumentarische Arbeiten*, in: Internationales Institut für Dokumentation (I. I.D.) (ed.), Rapports Conference de documentation Copenhague 1935, Bruxelles 1935, Schü.1–Schü. 8.
+- Robert C. Binkley, *Manual on Methods of Reproducing Research Materials. A Survey Made for the Joint Committee on Materials for Research...*, Ann Arbour 1936.
+- K. Hijmans, *Fotokopie oder Mikrokopie für die Dokumentation*, in: I.I.D. Communicationes 4 (1937) H. 1, 7–9.
+- L. De Saint Rat, *Microphotocopies et Microtheques*, in: I. I.D. Communicationes 4 (1937) H. 1, 21–24.
+- Atherton Seidell, *A Plan for the Dissemination of Scientific Literature by means of Microfilm*, in IID Communicationes 4, 1 (1937), pp. 24-25.
+- Hermann H. Fussler, *New Microphotographic Laboratory Is Established at Chicago*. ALA Bulletin 31 (May 1937): 295-97.
+- Hermann H. Fussler, *American Microphotography at the Paris Exposition*. ALA Bulletin 32 (February 1938): 104-6.
+- *Watson Davis, Microfilm - new tool for intelligence : address before the Special Libraries Association*, Pittsburgh, June 8, 1938.
+- *The Present Status of Equipment and Supplies*, in: Journal of Documentary Reproduction 1 (1938) H. 3, 4–56.
+- George A. Schwegmann, *The Photoduplications Service of the Library of Congress*, in: Journal of Documentary Reproduction 2, (1939) H. 3, 176–179.
+- Eugene B. Power, *University Microfilms*, in: Journal of Documentary Reproduction 2 (1939) H. 1, 21–28.
+- Eugene B. Power, *Microfilm in Europe*, in: Journal of Documentary Reproduction 2 (1939) H. 4, 258.
+- Robert C. Binkley, *Techniques and Policies of Documentary Reproduction*, in: F.I.D. Communicationes, 6, 1939, pp. 12-15.
+- Emile Leroy, *Le development du microfilm en france*, in: F. I.D. Communicationes 6 (1939), 48–50.
+- M. Llewellyn Raney, *American Trends in Textual Reproduction*, in: F.I.D. Communicationes, 6 (1939), pp. 75-79.
+
+
+- Felix Palic, *Über die technischen Grundlagen des Bibliofilms*, in: F. I.D. Communicationes 9 (1942), 33–38.
+- L. De Saint Rat, *Le microfilm dans la vie pratique*, in: F. I.D. Communicationes 13 (1946), C55–C60.
+- P. Poindron, *Le microfilm en France*, in: F. I.D. Communicationes 6 (1939), 83–85.
+- John K. Boeing, *Recordak*, in: Journal of Documentary Reproduction, 3/3,1940, 153–168.
+- Vannevar Bush, *Science, the Endless Frontier. A Report to the President on a Program for Postwar Scientific Research*, Washington D. C. 1960 [1946].
+- Arpad von Biehler, *Handbuch der Photokopie*, Halle 1948.
+
+
+- Rolland E. Stevens, *Library Experiment with the Xerox 914 Copier*, in: Library Resources & Technical Servises (LRTS) 6 (1962) H. 1, 25–29.
+- Helen Crawford, *Notes of a Librarian on Contemplating Her Xerox Machine*, in: Bulletin of the Medical Library Association 51 (1963) H. 3, 397–399.
+- William R. Hawken, *Reprographic Technology: Present and Future*, in: Lowell H. Hattery/ George P. Bush (ed.), Reprography and Copyright Law, Washington D. C. 1964, 48.
+- Institut für Verwaltungsorganisation und Bürotechnik Leipzig (Hg.), *Vervielfältigen – aber wie?*, Berlin 1965.
+
+
+- Ben Belitt, *Xerox*, The New Yorker (3 Mar 1973) 42 (“double our witness”). (77)
+
+
+### Photo Copie G.m.b.H.
+
+- Zentralblatt für Bibliothekswesen, 48 (1931), p. 95. (Über Photo Copie GmbH)
+- Zentralblatt für Bibliothekswesen 49 (1932), p. 312 (Über Photo Copie GmbH)
+- Der Mikrofilm 2 (1952) H. 2, 1. (Über Photo Cope GmbH)
+- 25 Jahre Photo Copie G.m.b.H., in: Der Mikrofilm. Mitteilungen der Photo Copie G.m.b.H. und der Mikrofilm G.m.b.H., 2, 2, (1952), pp. 1-7.
+
+
+### Copyright
+
+- Le droit d'Auteur, 24 (1911), p. 148.
+- Max Stois, *Urheberrechtliche Fragen aus der Bibliothekspraxis*, in: Centralblatt für Bibliothekswesen 47 (1930), 629–642.
+- Alexander Elster, *Zur Photokopie-Frage, in Gewerblicher Rechtsschutz und Urheberrecht*, 36, 9 1931, pp. 952-955.
+- Kurt Alexander, *Das Photokopierverfahren im Licht von Wissenschaft und Praxis: zugleich eine Erwiderung auf Elsters: „Zur Photokopierfrage“*, in: Gewerblicher Rechtsschutz und Urheberrecht 36, 33 (1931), 1117–1124
+- Friedrich Labes, *Die Rechtsgrundlage der im Auftrage von Bibliotheksbenutzern hergestellten Kopien*, in: Centralblatt für Bibliothekswesen 49 (1932), 240–249.
+- Willy Hoffmann, *Das Photokopierverfahren*, in: UFITA 5 (1932), 62–65
+- Alexander Elster, *Zur Rechtsfrage der Photokopie*, in Minerva-Zeitschrift, 9, 1932, pp. 86-88.
+- Carl Diesch, *Eine Entgegnung zur Frage der Photokopie*, in Minerva-Zeitschrift 9 1932, pp. 138-140.
+- P. Bourgeois, *La reproduction des documents en relation avec les droits d'auteur & d'editeur*, in: I.I.D. (ed.), Vorträge der 11. Konferenz. I.I.D. Bruxelles 1932, Vol. 1, pp. 37-47.
+- Hillig, *Zur Frage der Photokopie*, in: Börsenblatt für den Deutschen Buchhandel 100, 80, (1933), pp. 244-245.
+- Heinrich Treplin, *Das Bibliotheksrecht*, in Fritz Milkau (ed.), Handbuch der Bibliothekswissenschaft. Zweiter Band. Bibliotheksverwaltung, Leipzig 1933, pp. 599-634, bes. pp. 627-634.
+- Heinrich Schreiber, *Pflicht und Recht der Bibliotheksphotokopie*, in: Archiv für Urheber-, Film und Theaterrecht 7 1934, pp. 441-463.
+- C. J. De Haan, *Photocopie et droit d’auteur*, in: I. I.D. Communicationes 1 (1934) H. 4, 25–40.
+- F. Ostertag, *Die Photokopie im Lichte des Urheberrechts*, in: I.I.D. (ed.), Rapports Conference de documentation Copenhague 1935, Bruxelles 1935, pp. Os.1-Os.8
+- Heinrich Schreiber, *Photokopie und Bibliotheken. Betrachtungen zum gegenwärtigen Stand der Frage*, in: Archiv für Urheber-, Film und Theaterrecht 9 (1936), pp. 41-59.
+- *The Gentlemen’s Agreement and the Problem of Copyright*, in: The Journal of Documentary Reproduction 2 (1939) H. 1, 29–36.
+- Leslie Wilson, *Copyright and the Scientist*, in: Nature 170, 4339 (1952), 1108–1109.
+- *Joint Libraries Committee on Fair Use in Photocopying*, in: Bulletin of the Copyright Society of the U. S. A. 9 (1961) H. 1, 79–84.
+- *Survey of Copyrighted Material Reproduction Practices in Scientific and Technical Fields*, in: Bulletin of the Copyright Society of the U. S. A. 11 (1963) H. 2, 69–124.
+- *Bibliothèque Nationale (Paris), Photographic Reproduction and Copyright*, in: Copyright Bulletin XVI, 1 (1963), 25–68.
+
+
+### done
+
+- [o.A.], *Le livre microphotographique. Le Bibliophote ou livre à projection*, in: Bulletin de l'Institut International de Bibliographie, 16, (1911), pp. 215-222.
+- [o.A.], *Der Lesesaal von morgen wird sich von dem heutigen wesentlich unterscheiden. Dies Büchlein soll Ihnen davon berichten und Ihnen von modernen Bibliotheksmitteln erzählen* [Werbeschrift der Photo Copie G.m.b.H.], Berlin: Arndt o.J. [1931].
+- Robert C. Binkley, *New Tools for Men of Letters*, in The Yale Review 24 (1935), pp. 519-537.
+
+
+### related
+
+- [future](future.md)
+- [binkley](../pers/binkley.md)
+- [otlet](../pers/otlet.md)
+
+
+
+
+## library universal
+
+- [@car32.syl93.eng]
+- [@las48.uni04.ger]
+
+### add
+
+- Kurd Laßwitz, *Die Universalbibliothek*, In: Ostdeutsche Allgemeine Zeitung, Breslau, 18. 12. 1904.
+    - auch in: *Nie und Immer*. Bd. 2: *Traumkristalle. Neue Märchen. Stark vermehrte Auflage*, Leipzig: Elischer 1907, pp. 136-151.
+    - `EN` *The Universal Library*, in: Clifton Fadiman (ed.), Fantasia Mathematica. New York: Simon and Schuster 1958, pp. 237-243.
+
+
+- Ulrike Steierwald, *Wissen und System. Zu Gottfried Wilhelm Leibniz' Theorie einer Universalbibliothek*, Köln: Greven 1995 (= Kölner Arbeiten zum Bibliotheks- und Dokumentationswesen, Heft 22).
+- Jan-Dirk Müller, *Das Gedächtnis der Universalbibliothek: die neuen Medien und der Buchdruck*. In: Hart- mut Böhme, Klaus R. Scherpe (Hgg.): Literatur und Kulturwissenschaften. Positionen, Theorien, Modelle. Reinbek 1996. 78–95.
+
+
+### read
+
+- Jorge Luis Borges, *La biblioteca total*, in: Sur 9 (1939), Nr. 59, pp. 13-16.
+    - `DE` *Die totale Bibliothek*, in: ders., Eine neue Widerlegung der Zeit und 66 andere Essays, Gisbert Haefs/ Karl August Horst, Frankfurt/M: Eichborn 2003, pp. 166-170.
+- Jorge Luis Borges, *La biblioteca de Babel*, in: El jardín de senderos que se bifurcan, Buenos Aires: Sur 1941.
+- Jorge Luis Borges, *El jardín de senderos que se bifurcan* [Der Garten der Pfade die sich verzweigen], in: El jardín de senderos que se bifurcan, Buenos Aires: Sur 1941.
+
+
+- Jan-Dirk Müller, *Universalbibliothek und Gedächtnis. Aporien frühneuzeitlicher Wissenskodikation bei Conrad Gesner (Mit einem Ausblick auf Antonio Possevino, Theodor Zwinger und Johann Fischart)*. In: Dietmar Peil u.a. (Hg.): Erkennen und Erinnern in Kunst und Literatur. Tübingen 1998. 285–309.
+- Dirk Werle, *Copia librorum. Problemgeschichte imaginierter Bibliotheken 1580–1630*, Tübingen: Niemeyer 2007.
+
+
+
+
+
+
+
+## new york
+
+### read
+
+- Gerard H. Wilk, *Brief aus New York: Greenwich Village*, in: Der Monat (1952), no. 41, pp. 467-473.
+
+
+- Rem Koolhaas, *Delirious New York. A Retroactive Manifesto for Manhattan*, New York: Thames and Hudson 1978.
+    - `New Ed.` *Delirious New York. A Retroactive Manifesto for Manhattan*, New York : Monacelli Press 1994.
+    - `GER` *Delirious New York: Ein retroaktives Manifest für Manhattan*, deutsch von Fritz Schneider, Aachen: Arch+ Verlag 1999.
+
+
+- Marshall Bermann, *All That Is Solid Melts Into Air. The Experience of Modernity*, Penguin Books: New York 1988.
+    - 1st Ed.: Simon & Schuster 1982.
+
+
+- Joel Schwartz, *The New York Approach. Robert Moses, Urban Liberals, and Redevelopment of the Inner City*, Columbus: Ohio State University Press 1993.
+- Joe Austin, *Taking the Train. How Graffiti Art Became an Urban Crisis in New York City*, New York: Columbia University Press 2002.
+- William Chapman Sharpe, *New York Nocturne. The City After Dark in Literature, Painting, and Photography, 1850–1950*, Princeton; Oxford: Princeton University Press 2008.
+- Randall Mason, *The Once and Future New York*, Minneapolis; London: University of Minnesota Press 2009
+
+
+- *Wolkenkratzer*, in: Rainer Maria Kiesow (ed./tr.), Kritisches Wörterbuch, Berlin: Merve 2005. (= Bataille (ed.), Documents...)
+
+
+### open
+
+
+- David Riesman/ Nathan Glazer/ Reuel Denney, *The Lonely Crowd. A Study of the Changing American Character*, New Haven: Yale University Press, 1950 (= Studies in national policy 3 )
+    - `GER `David Riesman, *Die einsame Masse. Eine Untersuchung der Wandlungen des amerikanischen Charakters*, Darmstadt: Luchterhand, 1955.
+- David Riesman/ Nathan Glazer, *Faces in the Crowd: Individual Studies in Character and Politics*, New Haven: Yale University Press, 1952. (= Studies in national policy 4 )
+
+
+- Jane Jacobs, *The Death and Life of Great American Cities*, New York: Random House 1961.
+    - `GER` *Tod und Leben großer amerikanischer Städte*, Berlin: Ullstein 1963 (= Bauwelt Fundamente 4).
+
+
+- Hilary Ballon/ Kenneth T. Jackson (eds.), *Robert Moses and the Modern City: The Transformation of New York*
+- Thomas Bender, *The Unfinished City. New York and the Metropolitan Idea*, New York 2007 (2002).
+- Kenneth T. Jackson / David S. Dunbar (ed.), *Empire City. New York through the Centuries*, New York: Columbia University Press 2002.
+- David M. Scobey, *Empire City. The Making and Meaning of the New York City Landscape*, Philadelphia: Temple University Press 2002.
+
+
+
+
+## new york art
+
+### misc
+
+- Richard Oelze, Fantastic Art Moma
+    - [wiki](https://en.wikipedia.org/wiki/Richard_Oelze)
+
+- Arthur Cravan
+    - [wiki](https://en.wikipedia.org/wiki/Arthur_Cravan)
+
+- Mina Loy
+    - [wiki](https://en.wikipedia.org/wiki/Mina_Loy)
+
+### read
+
+- *The International Exhibition of Modern Art. Feb 17—Mar 15. Catalogue*, Association of American Painters and Sculptors, Inc., New York 1913. [src](http://www.archive.org/details/catalogueofinter00asso)
+- *The International Exhibition of Modern Art. Feb 17—Mar 15. Supplement to Catalogue. Containing Additions, Errata and Exhibit catalogued but not received*, Association of American Painters and Sculptors, Inc., New York 1913. [src](http://archive.org/details/suppcata00unse)
+- *The International Exhibition of Modern Art*, in: Bulletin of the Art Institute of Chicago (1907-1951), Vol. 7, No. 1 (Jul 1913), p. 4
+- *Marcel Duchamp: Armory Show Lecture, 1963*, in: tout-fait. The Marcel Duchamp Studies Online Journal (Apr 2003), vol. 2 no. 5. [src](http://www.toutfait.com/recording-of-marcel-duchamps-armory-show-lecture-1963/)
+
+
+- *The Blind Man*
+    - No. 1, Apr. 1917
+    - No. 2, May 1917
+- *New York Dada*, Apr. 1921
+
+
+- Alfred H. Barr (ed.), *Fantastic Art, Dada, Surrealism*, Aus.Kat., Museum of Modern Art. New York, 3rd Edition, New York: Simon & Schuster 1947 [1936].
+- Alfred H. Barr (ed.), *Cubism and Abstract Art*, Aus.Kat. Museum of Modern Art. New York, Reprint, New York: Arno Press 1966 [1936].
+- Alfred Barr, *What is modern Painting?*, Museum of Modern Art, New York. New York: Simon & Schuster 1946 [1943] (= Introductory Series to the Modern Arts 2)
+
+
+- *The Bulletin of the Museum of Modern Art*
+    - Vol. 3, No. 5, *The Government Defines Art* (Apr 1936)
+    - Vol. 4, No. 2/3, *Dada and Surrealism: Essays by Georges Hugnet* (Nov—Dec 1936)
+    - Vol. 4, No. 4, *Work and Progress of the Film Library* (Jan 1937)
+    - Vol. 6, No. 5, *Bauhaus Exhibition* (Dec 1938)
+
+
+- Herbert Bayer; Walter Gropius; Ise Gropius (eds.), *Bauhaus 1919—1928*, Aus.Kat, The Museum of Modern Art: New York 1938.
+
+
+- Harold Rosenberg, *On the Fall of Paris* (1940)
+
+
+- Clement Greenberg, *Avantgarde and Kitsch*, in: Partisan Review (Fall 1939), vol. 6, no. 5, pp. 34—49.
+    - auch in: Horizon (Apr 1940), vol. 1, no. 4, pp. 255—273.
+- Clement Greenberg, *Art and Culture*, Boston: Beacon Press 1965.
+- Clement Greenberg, *Die Essenz der Moderne. Ausgewählte Essays und Kritiken*, Karlheinz Lüdeking (ed.), Christoph Hollender (tr.), Amsterdam; Dresden: Verlag der Kunst 1997
+    - *Avantgarde und Kitsch*, pp. 29—55.
+    - Saul Ostrow, *Avantgarde und Kitsch: Fünfzig Jahre danach. Ein Gespräch mit Clement Greenberg*, pp. 456—462.
+      - *Avant-Garde and Kitsch. Fifty Years Later. A Conversation with Clement Greenberg*, in: Arts Magazine (Dec 1989), vol. 64, no. 4, pp. 56—57.
+
+
+- Meyer Schapiro, *Nature of Abstract Art*, in: Marxist Quarterly (Jan—Mar 1937), vol. 1, no. 1, , pp. 77-98.
+- Meyer Schapiro, *Modern Art. 19th & 20th Century. Selected Papers*, New York: George Baziller 1978.
+
+
+- Guy Wright, Glenn Suokko, *Andy Warhol: An Artist and His Amiga. A conversation about art and the Amiga with Artist Andy Warhol* in: AmigaWorld (Jan./Feb. 1986) Issue 3 (Vol 2 No 1, January 1986 ?
+
+
+- Serge Guilbaut, *How New York Stole the Idea of Modern Art. Abstract Expressionism, Freedom, and the Cold War*, Chicago/London: The University of Chicago Press 1983.
+- Brian Walli (ed.), *Art After Modernism: Rethinking Representation*, New York: New Museum/ Cambridge/MA: The MIT Press 1983.
+- Peter Wollen, *Raiding the Icebox. Reflections on Twentieth-Century Culture*, London/New York: Verso 1993. (»Triumph of American Painting«, »Notes from the Underground: Andy Warhol«, etc.)
+- William B. Scott/ Peter M. Rutkoff (eds.), *New York Modern. The Arts and the City*, Baltimore / London: The John Hopkins University Press 1999.
+- Wolfgang Asholt/ Walter Fähnders (eds.), *Der Blick vom Wolkenkratzer. Avantgarde – Avantgardekritik – Avantgardeforschung*, Amsterdam/ Atlanta/GA: Rodopoi 2000.
+- Per Bäckström/ Benedikt Hjartarson (eds.), *Decentring the Avant-Garde*, Amsterdam/ New York 2014 (= Avant-Garde Critical Studies 30).
+- Catherine Dossin, *The Rise and Fall of American Art, 1940s—1980s. A Geopolitics of Western Art Worlds*, Farnham, Surrey; Burlington, Vermont: Ashgate 2015.
+
+
+- Gregor Langfeld, *Bedeutungsveränderung und Kanonisierung des deutschen Expressionismus in den USA*, in: Sarah Posman; David Ayers (eds.), The Aesthetics of Matter: Modernism, the Avant-Garde and Material Exchange, (= European Avant-Garde and Modernism Studies 3), Berlin; Boston: de Gruyter 2013, pp. 194—206.
+    - `EN` *How the Museum of Modern Art in New York canonised German Expressionism*, in: Journal of Art Historiography (Dec 2014), no. 11.
+- Michael Makropoulos, *Abstrakter Expressionismus und performative Mittelschichtgesellschaft*, in: Birgit Riegraf/Dierk Spreen/Sabine Mehlmann (eds.), Medien - Körper - Geschlecht. Diskursivierungen von Materialität, Bielefeld: transcript 2012, pp. 51-72. [doi](https://doi.org/10.14361/transcript.9783839420843.51)
+
+
+- Karin Wimmer, *Surrealismus und Exil: Max Ernst in New York*, in: Dogramaci, Burcu und Karin Wimmer: Netzwerke des Exils: künstlerische Verflechtungen, Austausch und Patronage nach 1933, Berlin: Mann 2011, pp. 375ff.
+- Megan M. Fontanella, *Unity in Diversity: Karl Nierendorf as an Émirgré Art Dealer in America, 1937-1947*, in: Dogramaci, Burcu und Karin Wimmer: Netzwerke des Exils: künstlerische Verflechtungen, Austausch und Patronage nach 1933, Berlin: Mann 2011, pp. 415ff.
+- Sabine Eckmann, *Concerning Exile Art in the US: Networks, Art Worlds, and the Fate of Modernism*, in: Dogramaci, Burcu und Karin Wimmer: Netzwerke des Exils: künstlerische Verflechtungen, Austausch und Patronage nach 1933, Berlin: Mann 2011, pp. 433ff.
+
+
+- Astrit Schmidt-Burkhardt, *Shaping Modernism: Alfred Barr's Genealogy of Art*, in: Word & Image 16 (2000), Nr. 4, pp. 387-400.
+- Andreas Strobl, *Die Macht der Präsentation*, in: Frankfurter Allgemeine Zeitung (Dez. 11, 2002), p. N3.
+
+
+- Stephen C. Foster, *The Critics of Abstract Expressionism*, Ann Arbor/Mich.: UMI Research Press 1980.
+- Florence Rubenfeld, *Clement Greenberg. A Life*, New York: Scribner 1997.
+    - Minneapolis, MN: University of Minnesota Press 2004.
+- Joachim Schummer, *Color Field Painting als 'reine Malerei'. Die Selbstetablierung der Kunstkritik im Modernismusentwurf*, in: Gert Reising (ed.), Farbe, Felder, Philosophie. Ein ästhetischer Dialog, München: Chorus 2000, pp. 23-40.
+- Caroline A. Jones, *Eyesight Alone. Clement Greenberg's Modernism and the Bureaucratization of the Senses*, Chicago/London: The University of Chicago Press 2005.
+
+
+
+
+## new york capital
+
+### misc
+
+- Leonard Wallock (ed.), *New York. Culture Capital of the World 1940-1965*, New York: Rizzoli 1988.
+- Martin Shefter (ed.), *Capital of the American Century. The National and International Influence of New York City*, New York: Russell Sage Foundation 1993.
+- Mark Kingwell, *Concrete Reveries. Consciousness and the City*, New York: Viking 2008.
+
+
+
+
+## new york catastrophe
+
+### misc
+
+- Elwyn B. White, *Here Is New York*, in: Holiday (April 1949)
+    - New York: Harper 1949.
+    - in: Kenneth T. Jackson (ed.), Empire City. New York through the Centuries. New York 2005, pp. 695-711.
+
+- Mike Davis, *The Flames of New York*, in: New Left Review (2001), Nr. 12, pp. 34-50.
+- Adam Goodheart, *The Skyscraper and the Airplane*, in: The American Scholar 71 (2002), No. 1, pp. 13-19.
+
+- *Rückkehr zur Urkatastrophe*, Süddeutsche Zeitung (Apr 13—14, 2002), p. 17
+
+
+
+
+## new york century
+
+### misc
+
+- Luce, *The American Century* (1941)
+
+
+- Peter Bender, *Weltmacht Amerika. Das neue Rom*, Stuttgart: Klett-Cotta 2003.
+- Dietmar Herz, *Das kurze amerikanische Jahrhundert, Auf der Suche nach innerer und äußerer Ordnung*, Münster: Lit 1991.
+- Paul Kennedy, *Supermacht USA*, in: DER SPIEGEL (1998), Nr. 46, p. 169-182.
+- Stephen J. Whitfield (ed.), *A Companion to 20th Century America*, Malden (MA): Blackwell 2004.
+
+
+
+
+## new york literature
+
+### read
+
+- Brandon Stosuy (ed.), *Up is up, but so is down : New York’s downtown literary scene, 1974-1992*, New York; London: New York University Press 2006.
+
+
+- Christof Hamann, *Grenzen der Metropole. New York in der deutschsprachigen Gegenwartsliteratur*, Wiesbaden: Dt. Univ. Verlag 2001.
+- Carina Krieberning, *Die Funktion und Darstellung der Stadt im postmodernen Roman am Beispiel von New York*, Wien 2013.
+
+
+### misc
+
+- Cyrille Martinez, *The Sleepworker*, Toronto: Coach House Books 2014.
+
+
+- David Leavitt, *The New Lost Generation. It’s post-Sixties, pre-Eighties, and forever in between*, Esquire May 1985, pp. 85-95.
+- Fiorenzo Iuliano, *Falling from the Past. Geographies of exceptionalism in two novels by Jay McInery*, in 2011.
+
+
+- Eberhard Kreutzer, *New York in der zeitgenössischen amerikanischen Erzählliteratur*, Heidelberg: Carl Winter Universitätsverlag 1985.
+- Peter Ensberg, *Das Bild New Yorks in der deutschsprachigen Gegenwartsliteratur*, Heidelberg: Winter 1988.
+- Rita Fust, *Sehnsuchtsort New York. Die Megapolis in der Literatur*, Marburg: Tectum 2010.
+- Nathalie Mispagel, *New York in der europäischen Dichtung des 20. Jahrhunderts*, Würzburg: Königshausen & Neumann 2011.
+
+
+
+
+## new york world fair
+
+### read
+
+- *Your World of Tomorrow* [Booklet], New York 1939
+- *New York’s World Fair 1939*, L’Illustration (Jul 1939), [src](https://archive.org/details/newyorkworldsfaiOOIill)
+- *NBC Annouces First Television Schedule* (Apr 17, 1939)
+- Dr. John S. Young, *Radio — Television and the World’s Fair*. Radio Annual 1939, No. 2, pp. 61-64. [repro](https://archive.org/details/radioannual193900radi/page/60)
+- Orrin E. Dunlap Jr., *Act I, Scene I: Telecasts to Homes Begin on April 30 -- World’s Fair Will Be the Stage*, The New York Times, March 19, 1939.
+
+
+### links
+
+- [Biblion: World’s Fair](http://exhibitions.nypl.org/biblion/node/1617)
+
+- [Karl Hoeffkes - Weltausstellung New York 1939](https://www.youtube.com/watch?v=KDsloyM0GQU)
+
+- [ROMANO-ARCHIVES: 1939 NY World Fair's](https://digilander.libero.it/romanoarchives/styled-15/index.html)
+    - [Part 2](https://digilander.libero.it/romanoarchives/styled-16/index.html)
+    - [Part 3](https://digilander.libero.it/romanoarchives/styled-17/index.html)
+    - [Part 4](https://digilander.libero.it/romanoarchives/styled-18/index.html)
+    - [Part 5](https://digilander.libero.it/romanoarchives/styled-19/index.html)
+
+- [BOOKS about the WORLD OF TOMORROW 1939 - 40 WORLD'S FAIR](http://cec.chebucto.org/Books/WFB/WFB-1939.html)
+
+- [Brochures and Flyers](http://www.1939nyworldsfair.com/brochure-list.htm)
+
+
+
+### notes
+
+- *Elektro the Moto-Man and his Little Dog Sparko*
+    - Elektro is the nickname of a robot built by the Westinghouse Electric Corporation in its Mansfield, Ohio facility between 1937 and 1938. Seven feet tall (2.1 m), weighing 265 pounds (120.2 kg), humanoid in appearance, he could walk by voice command, speak about 700 words (using a 78-rpm record player), smoke cigarettes, blow up balloons, and move his head and arms. Elektro's body consisted of a steel gear, cam and motor skeleton covered by an aluminum skin. His photoelectric "eyes" could distinguish red and green light. He was on exhibit at the 1939 New York World's Fair and reappeared at that fair in 1940, with "Sparko", a robot dog that could bark, sit, and beg to humans.
+
+
+
+
+## photo
+
+### div
+
+- Tristan Tzara, *Die Photographie von der Kehrseite*, in G. Zeitschrift für elementare Gestaltung (1924) Nr. 3, pp. 39-40.
+
+- Paul Valéry: *›... das zu beschreiben, was sich von selbst einschreiben kann‹. Vortrag, gehalten zur Hundertjahrfeier der Fotografie am 7. Januar 1939*, in Fotogeschichte 6 (1986), H. 20, pp. 5-8.
+
+- Vilém Flusser, *Für eine Philosophie der Photographie* (1983)
+
+
+### text
+
+- Peter Bürger, *Theorie der Avantgarde* (1974)
+- Kenneth Goldsmith, *Uncreative Writing* (2011)
+
+### zitat
+
+- Karl Kraus, *Notizen* (1914)
+
+
+
+
+## telefacsimile
+
+### read
+
+- Hugo Gernsback, *Radio Set Prints Newspaper*, Radio Craft, Vol. 5, No. 10, Apr. 1934, p. 590; 618.
+- Larry Wolters, *Facsimile Opens up Visual Age in Broadcasting. It Sends Pictures, Print to Home by Radio*, in: Chicago Sunday Tribune (Mar. 6, 1938), Part 3, p. 6
+- F. C. Ehlert, *Home Newspapers by Radio*, Communications 18 (May 1938), No. 5, pp. 7-9, 35. [repro](http://exhibitions.nypl.org/biblion/worldsfair/image/2f5b), [pdf](https://www.americanradiohistory.com/Archive-Communications-Magazine/1930s/Communications-1938-05.pdf)
+- *First Daily Newspaper by Radio Facsimile*, Radio Craft, Vol. 10, No. 9, Mar. 1939, p. 526.
+- Watson Davis (ed.), *New Horizons of Industry through Research. A Tour trough the Present into the Future*, New York: Department of Public Relations General Motors Corporation 1939.
+
+
+- Noah Arceneaux, *Radio Facsimile Newspapers of the 1930s and 40s: Electronic Publishing in the Pre-Digital Era*, in: Journal of Broadcasting & Electronic Media 55 (Sept. 2011), Nr. 3, pp. 344-359.
+
+
+- Martin Bruchanov, *Image Communication on Short Waves* (2013) [src](http://www.sstv-handbook.com/download/sstv-handbook.pdf)
+    - Chap. 11: *Facsimile — Radiofax*, [src](http://www.sstv-handbook.com/download/sstv_11.pdf)
+
+
+- Thomas Nachreiner, *›... da siehst nur Punkterl und Stricherl.‹ Telegrafie und Telefaksimile im Film*, in: Kay Kirchmann; Jens Ruchatz (eds.), Medienreflexion im Film. Ein Handbuch, Bielefeld: transcript 2014, pp. 385—397.
+
+### misc
+
+- Arthur Korn
+    - [wiki](https://de.wikipedia.org/wiki/Arthur_Korn)
+
+
+
+## telegraphy
+
+### add
+
+- Tom Standage, *The Victorian Internet. The Remarkable Story of the Telegraph and the Nineteenth Century's On-line Pioneers*, New York: Walker and Company 1998.
+    - `DE` *Das viktorianische Internet. Die erstaunliche Geschichte des Telegraphen und der Online-Pioniere des 19. Jahrhunderts*, St. Gallen/ Zürich: Midas 1999.
+
+
+### read
+
+- *Memorial Samuel Finley Breese Morse. Including Appropriate Ceremonies of Respect at the National Capital, and Elsewhere*, Washington: Government Printing Office 1875.
+
+- Regine Buschauer, *Mobile Räume. Medien- und diskursgeschichtliche Studien zur Tele-Kommunikation*, Bielefeld: transcript 2010.
+
+
+### open
+
+- David E. Nye, *Electrifying America. Social Meanings of a New Technology. 1880-1940*, Cambridge/MA: The MIT Press 1990.
+- John Steele Gordon, *A Thread Across the Ocean. The Heroic Story of the Transatlantic Cable*, New York: Walter & Co. 2002.
+- René Salvador/ Gérard Fouchard/ Yves Rolland/ Alain Paul Leclerc, *Du Morse à l'Internet. 150 ans de télécommunications par câbles sous-marins*, La Seyne-sur-Mer: Association des Amis des Câbles Sous-Marins 2006.
+- W. Boyd Rayward (ed), *Information Beyond Borders. International Cultural and Intellectual Exchange in the Belle Époque*, Farnham / Burlington/VT: Ashgate 2014
+
+
+### div
+
+- [elektrische Fernübertragung von Zeichnungen](https://archive.org/details/dasneueuniversum04stut/page/394)
+
+
+```
+“ELECTRICITY IS THE POETRY OF SCIENCE”: Alexander Jones, Historical Sketch of the Electric Telegraph: Including Its Rise and
+Progress in the United States (New York: Putnam, 1852), v.
+```
+
+### done
+
+- Rossiter Johnson, *The Victory*
+    - dt. Übersetzung von ›The Victory‹:
+      - Carl Löper (ed.), *Stammbuch der neuen Verkehrsmittel*, Dresden 1881, p. 399.
+- *European Sub-Marine Telegraph*, in: Scientific American 10 (19.05.1855), Nr. 36, p. 285.
+    - »They have made the ocean a highway of thought...«
+
+
+
+
+## television
+
+### open
+
+- *Trucks House Mobile Television Studio*, in: Popular Science, December 1937.
+
+### misc
+
+- [HISTOIRE DE LA TELEVISION](https://www.histv.net/)
+
+
+
+
+## text concrete
+
+- Hansjörg Mayer, *Typoems*, Stuttgart: Studiengalerie, Hahnhochhaus, 1965
+- Johannes Auer, *konkret digital - Über Konkrete Poseie und Netzliteratur* [src](http://www.netzliteratur.net/konkret_digital.pdf)
+    - `eng`: *konkret digital - About Concrete Poetry and Net Literature* [src](http://www.netzliteratur.net/konkret_digital_engl.pdf)
+    - in: *Concrete Poetry: An International Perspective*. Edited by Claus Clüver and Marina Corrêa. Das Interview führte Dr. Martina Pfeiler, Institut für Anglistik und Amerikanistik, TU Dortmund
+- *Reinhard Döhls digitale Poesie*, Ausstellung vom 16.09. bis 29.11.2014, Stadtbibliothek Stuttgart
+    - [flyer](http://www1.stuttgart.de/stadtbibliothek/Galerie_b/cont/atDoehl.pdf)
+    - [rede](http://www1.stuttgart.de/stadtbibliothek/Galerie_b/cont/Einfuehrung_at_doehl.pdf)
+
+
+
+
+## text digital
+
+
+### add
+
+- *Buchhändlertage 1985 in Düsseldorf: Gedrückte Stimmung nach dem mageren Jahr 1984*, in: *Buchreport* 16 (1985), Nr. 18, pp. 10-11.
+
+- Boris Langendorf, *Interview mit Prof. Klaus Haefner: 1987 ist das letzte Jahr ohne Konkurrenz durch das ›elektronische Buch‹*, in *Buchreport* 18 (Jan. 2, 1987), no. 1, p. 7.
+
+### read
+
+- Bruce Garrison, Computerization of the Newspaper in the 1980s. Paper presented at the Annual Meeting of the 'Association for Education in Journalism and Mass
+Communication (66th, Corvallis, OR, August 6-9, 1983). [pdf](https://files.eric.ed.gov/fulltext/ED234392.pdf)
+
+
+
+### open
+
+- Bruce Garrison, *Computerization of the Newspaper in the 1980s*, in: Ecquid Novi: African Journalism Studies (1983) vol. 4, no. 1, pp. 27-46. [doi](https://doi.org/10.1080/02560054.1983.9652915)
+    - *Selected bibliography: computerization and the newsroom*, in: ibid., pp. 47-59. [doi](https://doi.org/10.1080/02560054.1983.9652916)
+    - "this volume of Ecquid Novi deals with the future of the newspaper industry as it will be affected by electronic developments"
+
+- J. Robert Moskin, *The Future of Books in the Electronic Era*, in: *Visible Language* 17/4 (1983), pp. 299-407.
+
+- Friedrich Kittler, *Literatur und Literaturwissenschaft als Word Processing*, in *Germanistik — Forschungsstand und Perspektiven. Vorträge des Deutschen Germanistentages 1984*, 2. Teil, ed. Georg Stötzel, Berlin-New York, 1985, pp 410-419.
+
+- Haefner, K.: Electronic Publishing as a Necessary Step Towards an Informed Society. In: Mastroddi, F.: Electronic Publishing: The New Way to Communicate.Brussels 1987
+
+- Joachim Paech, *Der Schatten der Schrift auf dem Bild, Vom filmischen zum elektronischen ›Schreiben mit Licht‹ oder L’Image menacée par l'écriture et sauvée par l’image même*, in: *Der Entzug der Bilder*, hg. v. Michael Wetzel und Herta Wolf, München 1994, pp. 213-233.
+
+- Naomi S. Baron, Words Onscreen: *The Fate of Reading in a Digital World* (Oxford: Oxford University Press, 2015).
+
+
+
+
+## text plagiat
+
+### add
+
+- Karl May, *Mein Leben und Streben. Band I.* Freiburg im Breisgau: Felsenfeld o.J. [1910].
+- Bertolt Brecht, [*Geistiges Besitztum* (1929)], in: Werke. Große kommentierte Berliner und Frankfurter Ausgabe, Band 21: Schriften 1. Schriften 1914-1933, Berlin/Weimar/Frankfurt/M.: Aufbau-Verlag 2000, p. 322.
+- Bertolt Brecht, [*Was den Fall des Herrn Kerr betrifft* (1929)], in: Werke. Große kommentierte Berliner und Frankfurter Ausgabe, Band 21: Schriften 1. Schriften 1914-1933, Berlin/Weimar/Frankfurt/M.: Aufbau-Verlag 2000, pp. 323-24.
+- Bertolt Brecht, [*Zur Plagiatsbeschuldigung* (1930)], in: Werke. Große kommentierte Berliner und Frankfurter Ausgabe, Band 21: Schriften 1. Schriften 1914-1933, Berlin/Weimar/Frankfurt/M.: Aufbau-Verlag 2000, p. 399.
+- Walter Benjamin, *Myslowitz – Braunschweig – Marseille. Die Geschichte eines Haschisch-Rausches*, in: UHU 7 (1930), Nr. 2, pp. 90-101.
+- Debord, *La Société du spectacle* (1967)
+
+
+### read
+
+- Paul Englisch, *Plagiat! Plagiat! Eine Rundschau*, Berlin 1930, [src](https://visuallibrary.net/116481)
+- Paul Englisch, *Meister des Plagiats oder Die Kunst der Abschriftstellerei*, Berlin: Hannibal 1933. [src](https://visuallibrary.net/122128)
+- Stewart Home (ed), *Plagiarism. Art as Commodity and Strategies for its Negation*, Aporia Press 1987
+- Karassek, Der Ehrabschreiber, in: DER SPIEGEL (1990)
+
+### open
+
+- Neil Bowers.  *Words for the Taking : The Hunt for a Plagiarist*. New York : Norton, 1997
+- Erwin Stranik: Das Plagiat in der deutschen Literatur, in: Prisma, 1930, pp. 205-208
+- Rex Stout.  Das Plagiat (Orig. Titel: "Plot it yourself"), Goldmann Verlag, 1959/1986
+- P. Theisohn, Plagiat. Eine unoriginelle Literaturgeschichte. Stuttgart: Kröner 2009.
+- P. Theisohn, Literarisches Eigentum. Zur Ethik geistiger Arbeit im digitalen Zeitalter. Essay, Stuttgart: Kröner 2012.
+
+
+### brecht
+
+- Alfred Kerr, *Brechts Copyright*, in: Berliner Tageblatt 03.05.1929
+- *Bert Brecht sagt*, in: Filmkurier, Berlin, 04.05.1929
+- Bertolt Brecht, *Eine Erklärung Brechts*, in: Berliner Börsen Courier, 06.05.1929
+- Karl Kraus, *Kerrs Enthüllungen*, in: Die Fackel (Aug., 1929), Nr. 811-819, pp. 129-132.
+- *Finden Sie, daß Bert Brecht sich richtig verhalten hat? Deutsche Schriftsteller über die Brechtsche Plagiatsaffäre*, in: Der Montag Morgen, Berlin, 13. Mai 1929. (Benn, Döblin, Mehring...)
+- *Erneute Plagiatsanschuldigung, Leipziger Dramatiker Gilbrecht wirft Brecht vor, sich für Mahagonny bei seinem Stück Die Großstadt mit einem Einwohner bedient zu haben.*
+- *Neue Plagiatsaffäre um Brecht. Die Anschuldigung eines Leipziger Dramatikers*, in Der Montag Morgen, 2. Juni 1930
+- *Die Affäre Brecht*, in Der Montag Morgen, 10. Juni 1930
+- *Ein letztes Mal: Brecht – Gilbrecht*, in Der Montag Morgen 16. Juni 1930
+
+### done
+
+- Ducasse, *Poésie* (1870)
+- *Bert Brecht sagt* (1929)
+
+
+
+
+## text processor
+
+### read
+
+- Matthew G. Kirschenbaum, *Track Changes. A Literary History of Word Processing*, London/ Cambridge/MA: The Belknap Press of Harvard University Press 2016.
+- Matthew G. Kirschenbaum, *This Faithful Machine*, in: Paris Review Blog (May 11, 2016) [src](http://www.theparisreview.org/blog/2016/05/11/this-faithful-machine/)
+
+
+
+
+## text recognition
+
+
+### open
+
+- Mohamed Cheriet. *Character Recognition Systems - A Guide for Students and Practioners*. John Wiley & Sons, 2007.
+- Ö. N. Onak. *Comparison of ocr algorithms using fourier and wavelet based feature extraction*, 2011.
+- Pranob K Charles. *A review on the various techniques used for optical character recognition*, 2012.
+
+
+### notes
+
+#### OCR Geschichte
+
+[src](http://www.allesgelingt.de/blog/wie_lesen_maschinen_bzw_computer.html)
+
+- 1928/29 Gustav Tauschek patentiert eine Lesemaschine, die die OCR-Funktionalitäten nutzt. Paul Handel (General Electric) patentiert eine ähnliche Maschine im April 1931.
+- 1949 L.E. Flory und W.S. Pike entwickelt eine auf Photo-Zellen basierte Maschine, die gedruckten Text mit einer Geschwindigkeit von 60 Wörtern pro Minute sehbehinderten Menschen vorliest.
+- 1950 David H. Shepard entwickelt eine Maschine, die gedruckte Informationen in für Computer lesbare Zeichen umwandelt. Ursprünglich von der Militär genutzt. Shepard gründet IMR (Intelligent Machines Research) und entwickelt für Maschinen lesbare Fonts (Farrington B (auch OCR-7B genannt).
+- 1969 Lawrence (Larry) Roberts beschäftigt sich mit Computergraphik und arbeitet am MIT bei der Entwicklung von frühen Text-Erkennung Tools, die spezielle, vereinfachte Zeichen verwenden (OCR-A).
+- 1969 Postbehörden führen weltweit Geräte ein, die Postleitzahlen auf Briefen automatisch erkennen. Deutsche Post ist auch dabei.
+- 1974 Raymond Kurzweil entwickelt die Kurzweil Reading Machine (KRM) - Kombination aus einem Flachbett-Scanner und Sprach-Synthesizer zum Vorlesen des Textes für Blinde.
+- 2000 Luis van Ahn Entwicklung eines Mensch-Computer basierten OCR Systems (tatsächlich Intelligente OCR) an der Carnegie Mellon University „CAPCHA" und Vermarktung durch Google als „reCapcha"
+
+
+
+
+## text zettelkasten
+
+### add
+
+- Anke te Heesen, *Der Zeitungsausschnitt. Ein Papierobjekt der Moderne*, Frankfurt/M: Fischer 2006.
+    - *Die Materialität von Exzerpt und Zitat*, pp. 25—45.
+
+### read
+
+- John Locke, *Méthode nouvelle de dresser des recueils*, in: Bibliotheque Universelle et Historique de l’année MDCLXXXVI, vol. 2, Amsterdam: Wolfgang, Waesberge, Boom and van Someren 1686. [hdl](https://hdl.handle.net/2027/ucm.5325926473?urlappend=%3Bseq=350)
+- John Locke, *New Method of Making Common-Place-Books*, London: Greenwood 1706. [ia](https://archive.org/details/gu_newmethodmaki00lock)
+
+
+- Vincentius Placcius, *De arte excerpendi. Vom Gelahrten Buchhalten*, Holmiae et Hamburgi : Apud G. Liebezeit, 1689. [ia](http://archive.org/details/bub_gb_IgMVAAAAQAAJ)
+
+
+- Johann Jacob Moser, *Johann Jacob Mosers, Königlich-Dänischen Etats-Raths, einige Vortheile für Canzley-Verwandte und Gelehrte in Absicht auf Acten-Verzeichnisse, Auszüge und Register, desgleichen Sammlungen zu künfftigen Schriften, und würkliche Ausarbeitung derer Schriften*, Stuttgart 1773.
+
+
+- Christlieb Gotthold Hottinger: Ein Bücher-Zettel-Katalog und ein Bio-Ikono-Bibliographisches Sammelwerk, Berlin-Südende 1911.
+
+
+- Helmut Zedelmaier, *Buch, Exzerpt, Zettelschrank, Zettelkasten*, in: Hedwig Pompe; Leander Scholz (eds.), Archivprozesse, Die Kommunikation der Aufbewahrung, Köln: duMont 2002, pp. 38—53.
+- Markus Krajewski, *Zitatzuträger. Aus der Geschichte der Zettel/Daten/Bank*, in: Volker Pantenburg; Nils Plath (eds.), Anführen — Vorführen — Aufführen. Text zum Zitieren, Bielefeld: Aisthesis 2002
+- Michael Stolberg, *John Locke’s “New Method of Making Common-Place-Books”: Tradition, Innovation and Epistemic Effects*, in: Early Science and Medicine 19 (2014) 448-470.
+
+
+### open
+
+- Georg Philipp Harsdörffer, *Delitiae Philosophicae et Mathematicae. Der Philosophischen und Mathematischen Erquickstudunden* Dritter Teil. Neudruck der Ausgabe: Nürnberg 1653. Hg. v. Jörg Jochen Berns, Ffm 1990 – Kapitel der XIII. Frage: ›Wie die Register in die Buecher / ohne grosse Muehe / zu machen‹ (Zitat bei 'blättern III') S. 57
+
+
+- G.W. Leibniz, *Sämtliche Schriften und Briefe*. Hg. von der Akademie der Wissenschaften. Berlin 1923ff., Reihe I, Bd. 2, p. 562; Reihe I, Bd. 3 (passim); Reihe I, Bd. 4, p. 15. (Stellen zum Schrank)
+- Christoph Gottlieb von Murr, *Von Leibnitzens Excerpierschranke*. In: Journal zur Kunstgeschichte und allgemeinen Literatur. Jahrgang VII, Nürnberg 1779, pp. 210-12.
+
+
+- Johann Jacob Moser (1701-1785), *Meine Art, Materialien zu künfftigen Schrifften zu sammlen*
+- J.J. Moser, *Der expedite Referendarius, oder Anleitung wie man gerichtliche Acten Mit Nutzen lesen / geschickt excerpieren / und verständig referiren soll* ... Zweite überarbeitete und korrigierte Ausgabe. Wetzlar 1739.
+- J.J. Moser, *Einleitung zu denen Cantzley–Geschäfften. Abgefasst zum Gebrauch seiner ehemaligen Staats- und Canzlei-Academie: nun aber zum allgemeinen Nutzen bekannt gemacht*. Ffm 1755.
+- J.J. Moser, *Lebens-Geschichte ... von ihm selbst geschrieben*. 4 Vol., 3. Überarbeitete und ergänzte Auflage, Ffm/Leipzig 1777-1783 (bes. im 3. Band)
+- Gottfried Freiherr van Swieten, *Unterricht und Anweisung für diejenigen, so die Titel und Bücher abschreiben sollen*
+
+
+- Jean Paul, *Leben des Quintus Fixlein. Aus funfzehn Zettelkästen gezogen* (1796)
+    - in: Sämtliche Werke, hg. v, Norbert Miller. Abt. 1, Bd. 4, München/ Wien 1988, p. 19)
+
+- Luhmann, N. (1987). *Biographie, Attitüden, Zettelkasten*. In N. Luhmann, *Archimedes und wir. Interviews*, edited by D. Baecker & G. Stanitzek. Berlin: Merve, pp. 125–155.
+- Christoph Meinel, *Enzyklopädie der Welt und Verzettelung des Wissens. Aporien der Empirie bei Joachim Jungius*, in: Enzyklopädie der Frühen Neuzeit, Franz M. Ebyl (ed.), Tübingen 1995, pp. 162—187.
+- Stefan Rieger, *Speichern/Merken. Die künstlichen Intelligenzen des Barock*, München 1997.
+- Helmut Zedelmaier: *Zettelkasten*. In: Nicolas Pethes, Jens Ruchatz (Hrsg.): Gedächtnis und Erinnerung. Ein interdisziplinäres Lexikon. Rowohlt Taschenbuch, Reinbek 2001.
+- Markus Krajewski, *Zettelwirtschaft. Die Geburt der Kartei aus dem Geist der Bibliothek*, Berlin 2002.
+- Noel Malcom, *Thomas Harrison and his ›Ark of Studies‹: An Episode in the History of Organization of Knowledge*, in: The Seventeenth Century 19 (2004), pp. 196-232.
+- Jörgen Schäfer, *Literary Machines Made in Germany. German Proto-Cybertexts from the Baroque Era to the Present*, in: Cybertext yearbook 2006 - Ergodic Histories. Publisher: University of Jyväskylä (2006) Editor(s): Markku Eskelinen & Raine Koskimaa url: 'http://cybertext.hum.jyu.fi/articles/77.pdf', Zugriff: 01/2016.
+- Anke te Heesen; Anette Michels (eds.), *auf zu. Der Schrank in den Wissenschaftne*, Berlin 2007.
+    - Anke te Heesen, *Vom Einräumen der Erkenntnis*
+- Markus Krajewski, *Synapsen. Zur Geschichte, Theorie und Praxis von (elektronischen) Zettelkästen*, in: Stefan Andreas Keller/ René Schneider/ Benno Volk (eds.), Wissensorganisation und -repräsentation mit digitalen Technologien, Berlin: de gruyter 2014 (= Bibliotheks- und Informationspraxis Bd. 55), pp, 39-52.
+
+
+- *Der Synkretismus der Zettelkästen* in: Blumenberg, Quellen, Ströme, Eisberge. Beobachtungen an Metaphern, Nachwort?
+
+
+- Peter Gendolla/ Jörgen Schäfer (eds.), The Aesthetics of Net Literature. Writing, Reading and Playing in Programmable Media, Bielefeld: transcript 2007 (Medienumbrüche - Media Upheavals, Vol 16) 121-160.
+
+- Krajewski, M. (2011). *Paper Machines. About Cards & Catalogs, 1548–1929*. Cambridge, Mass.: The MIT Press.
+
+- Heike Gfrereis, Ellen Strittmatter (Hrsg.): *Zettelkästen. Maschinen der Phantasie*. Ausstellungskatalog. Deutsche Schillergesellschaft, Marbach a.N. 2013.
+
+- Hektor Haarkötter, *›Alles Wesentliche findet sich im Zettelkasten‹ Zur Geschichte einer ausgestorbenen Medientechnik*, 21.04.2013, http://www.heise.de/tp/artikel/38/38906/1.html
+
+- Alberto Cevolini, *Where Does Niklas Luhmann’s Card Index Come From?* in: *Erudition and the Republic of Letters*, 2019, 3(4), doi: [10.1163/24055069-00304002](https://doi.org/10.1163/24055069-00304002)
+
+
+### done
+
+- Niklas Luhmann: *Kommunikation mit Zettelkästen. Ein Erfahrungsbericht*. In: Niklas Luhmann: Universität als Milieu. Kleine Schriften. Hrsg. von André Kieserling. Haux, Bielefeld 1992, ISBN 3-925471-13-8, S. 53–61 (ursprünglich in: Horst Baier u.a. (Hrsg.): Öffentliche Meinung und sozialer Wandel. Für Elisabeth Noelle-Neumann. = Public opinion and social change. Westdeutscher Verlag, Opladen 1981, ISBN 3-531-11533-2, S. 222–228.)
+
+
+### notes
+
+Conrad Gesner, Bibliotheca Universalis (1545-1548)
+
+Mitte des 17. Jh: Joachim Jungius Zettelkonglomerat von ca. 160.000 hochverdichteten Textelementen
+
+Noch 1934 fragt der Technikhistoriker Franz Maria Feldhaus schriftlich im Kaestner-Museum in Hannover an, ob dieser Exzerpier-Schrank noch existiere. Das Museum verneint die Existenz (vgl. Schriftwechsel in Akte 2131, Feldhaus Archiv, Deutsche Technikmuseum Berlin). Siehe auch Carl Graf von Klinckowstroem, Die Kartei, in: Zeitschrift für Bücherfreunde 1 (1934), pp. 14-16 sowie die Notiz zu ›Leibniz' Exzerpierschrank‹ in: Geschichtsblätter für Technik, Industrie und Gewerbe 11/3 (1927), p. 234.
+
+#### Locke
+
+In 1685 English physician and philosopher John Locke published "Méthode nouvelle de dresser des recueils" in Le Clerc's Bibliothèque universelle II (1685). This was translated into English in Le Clerc's Observations (London, 1697).  It was first published separately as A New Method of Making Common-Place-BooksOffsite Link ; written by the late Learned Mr. John Lock, Author of the Essay concerning Humane Understanding. Translated from the French. To which is added Something from Monsieur Le Clerc, relating to the same Subject. A treatise necessary for all Gentlemen, especially Students of Divinity, Physick, and Law. There are also added two Letters, concerning a most useful method for instructing Persons that are Deaf and Dumb, or that Labour under an Impediments of Speech, to speak distinctly; written by the late Learned Dr. John WallisOffsite Link. (London, 1706.)
+
+#### Placius
+
+De arte excerpendi vom gelahrten Buchhalten liber singularis : quo genera & praecepta excerpendi, ab aliis hucusq[ue]; tradita omnia, novis accessionibus aucta, ordinata methodo exhibentur, et suis quaeque materiis applicantur: speciatim scrinii litterati inventum peculiare, ex manuscripto anonymi emendatum etiam exhibetur : una cum historia excerptorum propriorum
+Placcius, Vincent, 1642-1699.
+Holmiae ; & Hamburgi : Apud Gottfried Liebezeit, bibliop. literisq[ue] Spiringianis, anno M DC LXXXIX. [1689]
+
+Tab.IV, plate for p.152, facing p.154 Color digital image available
+
+
+
+
+## world brain
+
+### add
+
+- Walter Benjamin, Passagen-Konvolut S (193X)
+- Florian Rötzer, Telepolis. Urbanität im digitalen Zeitalter (1995)
+- Dieter E. Zimmer, Die Bibliothek der Zukunft (2000)
+- Francis Heylighen, *Auf dem Weg zum ›Global Brain‹. Der Mensch im weltweiten elektronischen Netz* (1997)
+    - [*Towards a Global Brain*](http://pespmc1.vub.ac.be/papers/GBrain-Bonn.html)
+- id, *Das Globale Gehirn als neues Utopia* (2004)
+    - [*The Global Brain as a New Utopia*](http://pespmc1.vub.ac.be/papers/GB-Utopia.pdf)
+
+
+### read
+
+- H.G. Wells, *World Brain* (1938)
+
+
+- Howard Bloom, *Global Brain. The Evolution of Mass Mind from the Big Bang to the 21st Century*, New York: Wiley 2000.
+
+
+- Francis Heylighen, *Conceptions of a Global Brain: An Historical Review*, in: Leonid E. Grinin/ Аndrey V. Korotayev/ Robert L. Carneiro/ Fred Spier (eds.), *Evolution. Cosmic. Biological. Social*, Wolgograd: Utschitel 2011, pp. 274-289, [pdf](http://pcp.vub.ac.be/papers/GB-Conceptions-Rodrigue.pdf).
+    - *The Global Superorganism. An evolutionary-cybernetic model of the emerging network society*, in: *Social Evolution & History* 6 (2007), Nr. 1, pp. 57-118, [pdf](http://www.sociostudies.org/journal/files/seh/2007_1/the_global_superorganism.pdf).
+
+
+- Hans Dieter Heilige, *Weltbibliothek, Universalenzyklopädie, Worldbrain: zur Säkulardebatte über die Organisation des Weltwissens*, in: Technikgeschichte 67 (2000), Nr. 4, pp. 303-329.
+- Frank Hartmann, *Weltkommunikation und World Brain. Zur Archäologie der Informationsgesellschaft*, in: Herbert Hrachovec/ Alois Pichler (eds.), Philosophy of the Information Society, Heusenstamm: ontos 2008 (=  Proceedings of the 30. International Ludwig Wittgenstein Symposium, Bd. 2), pp. 125-140.
+
+
+- The Late Norbert Wiener; J. P. Schade (ed.), *Cybernetics of the Nervous System*, Amsterdam; London; New York 1965 (= Progress in Brain Research 17)
+
+
+- Gleick, The Information (2011)
+    - `deu` Die Information. Geschichte, Theorie, Flut
+
+### open
+
+- Ernest Renan, *L’avenir de la science. Pensées de 1848*, Paris: Calmann Lévy 1890.
+
+
+- Joseph Dejacques, *L'Humanisphère*, Brüssel: Bibliothèque des ›Temps Nouveaux‹ 1899.
+
+
+- Henry La Fontaine, *Une mémoire du monde*, in: *Revue* (Okt. 15, 1903).
+    - *Une mémoire mondiale*, in: *La Revue*, 1903: 201-208.
+
+
+- Édouard Le Roy, *L'exigence idéaliste et le fait de l'evolution*, Paris: Boivin et Cie, 1927.
+	- *Les origines humaines et l'evolution de l'intelligence*, Paris: Boivin & Cie 1928.
+
+
+- Pierre Teilhard de Chardin, *Le Phénomène Humain*, Paris: Seuil 1955.
+    - *Der Mensch im Kosmos*, Beck, München 1959.
+    - *The Phenomenon of Man*, New York: Harper 1959.
+- Pierre Teilhard de Chardin, *La Vision du Passé*, Paris: Seuil 1957. [Kap.: Hominization]
+    - *Die Schau in die Vergangenheit*, Olten/Freiburg: Walter 1965. [Kap.: Hominization]
+    - *The Vision of the Past*, New York: Harper & Row 1966. [Kap.: Hominization]
+- Pierre Teilhard de Chardin, *L’Avenir de l’Homme*, Paris: Seuil 1959.
+    - *Die Zukunft des Menschen*, Olten/Freiburg: Walter 1963.
+    - *The Future of Man*, New York: Harper & Row 1964.
+
+
+- Arthur C. Clarke, *Profiles of the Future. An Inquiry into the Limits of the Possible*, New York: Harper & Row 1962.
+
+
+- Alan Toffler, *The Future as a Way of Life*, in: Horizon magazine 7 (1965), Nr. 3, pp. 108-115.
+- Alan Toffler, *Future Shock*, New York: Random House 1970.
+    - `GER` *Der Zukunftsschock*, Bern/ München/ Wien: Scherz 1970.
+
+
+- Joël de Rosnay, *The Macroscope*, New York 1979.
+    - *Le cerveau planétaire*, Editions Olivier Orban 1986
+    - *L’homme symbiotique*, regards sur le troisième millénaire, Paris, 1995, Seuil
+    - *Homo symbioticus*. München, Gerling Akademie Verlag 1997.
+
+
+- Peter Russell, *The Awakening Earth. Our Next Evolutionary Leap*, London u.a.: Routledge & Kegan Paul 1982 [UK].
+    - *The Global Brain. Speculations on the Evolutionary Leap to Planetary Consciousness*. Los Angeles: J.P. Tarcher 1983 [US].
+    - *The Awakening Earth. The Global Brain*, London: Arkana 1984.
+    - *Die erwachende Erde. Unser nächster Evolutionssprung*, München: Heyne 1984.
+    - *The Global Brain Awakens. Our Next Evolutionary Leap*, Palo Alto/CA: Global Brain 1995. (2nd edition)
+
+
+- Gregory Stock, *Metaman. The Merging of Humans and Machines into a Global Superorganism*, Simon & Schuster: New York, N.Y. 1993
+    - *Metaman. Humans, machines, and the birth of a global super-organism*, Bantam Press: London [u.a.] 1993.
+
+
+- Eric S. Raymond, The Cathedral and the Bazaar. Musings on Linux and Open Source by an Accidental Revolutionary, Beijing/ Cambridge/ Farnham/ Köln/ Paris/ Sebastopol/ Tapei/ Tokyo: O'Reilly 1999 [Artikel: Homesteading the Noosphere].
+    - The Cathedral and the Bazaar. Musings on Linux and Open Source by an Accidental Revolutionary, Revised Edition, Beijing/ Cambridge/ Farnham/ Köln/ Paris/ Sebastopol/ Tapei/ Tokyo: O'Reilly 2001 [Artikel: Homesteading the Noosphere].
+    - `GER` Die Kathedrale und der Basar, Reinhard Gantar (tr.), [src](http://www.selflinux.org/selflinux/html/die_kathedrale_und_der_basar.html), Zugriff: 03/2016.
+
+
+- Ray Kurzweil, *The Singularity is Near: When Humans Transcend Biology*, New York, NY: Penguin books-Viking Publisher 2005.
+
+
+- Peter Marnitz, *Die Lehre W. I. Wernadskis vom Werden einer Noosphäre und die Herausforderungen der Gegenwart*, in: Deutsche Zeitschrift für Philosophie 38 (1990), Nr. 2, pp. 120-129.
+- K. Fuchs-Kittowski, P. Krüger, *The Noosphere Vision of Pierre Teilhard de Chardin and Vladimir I. Vernadsky in the Perspective of Information and of World-Wide Communication*, in: World Futures, 50 (1997), 757-784.
+
+
+- Michael Marien, *The Future of Human Benefit Knowledge. Notes on a World Brain for the 21st Century*, in: Futures 39 (2007), Nr. 8, pp. 955-962.
+
+
+`~/thm/enzyklopädie/`
+- Ulrich Johannes Schneider/ Helmut Zedelmaier, *Wissensapparate. Die Enzyklopädistik der Frühen Neuzeit*, in: Macht des Wissens.  Die Entstehung der modernen Wissensgesellschaft,  hg. v. R. van Dülmen  u. S. Rauschenbach, Köln u.a. 2004, 349-363.
+- Kristóf Nyíri:, *Vernetztes Wissen. Philosophie im Zeitalter des Internets*,  Wien: Passagen Verlag, 2004.
+    - Kap.: *Enzyklopädisches Wissen im 21. Jahrhundert*, pp. 157-173
+    - *Enzyklopädisches Wissen im 21. Jahrhundert*, Vortrag gehalten am 15. Dezember 2003 in Budapest,
+- Peter Haber, *Weltbibliothek oder Diderots Erben? Traditionslinien von Wikipedia*, in Rainer Koschke et al. (eds.), Informatik 2007. Informatik trifft Logistik, Bd. 2: Beiträge der 37. Jahrestagung der Gesellschaft für Informatik e.V., Bonn: Köllen 2007, pp. 497-502.
+
+
+### div
+
+- [Martin Campbell-Kelly, *From the World Brain to the World Wide Web*, Annual Gresham College BSHM Lecture (Nov 9, 2006)](http://www.gresham.ac.uk/lectures-and-events/from-world-brain-to-the-world-wide-web)
+
+
+### done
+
+- Nathaniel Hawthorne, *The House of the Seven Gables* (1851)
+- Karl Knies, *Der Telegraph als Verkehrsmittel* (1857)
+- Wilhelm Ostwald, *Das Gehirn der Welt* (1911)
+- Stefan Zweig, *Das erste Wort über den Ozean* (ed. 1943)
+
+
+
+
+## world congress
+
+### read
+
+- *Unpublished Manuscript to Be Accessible to Scholars*, The Science News-Letter, Vol. 32, No. 854 (Aug. 21, 1937), p. 124
+- *The World Congress of Universal Documentation*, in: Science (Oct 1, 1937), VOL. 86, No. 2231, pp. 303-304.
+- *Documentation Congress Step toward Making "World Brain"*, in: The Science News-Letter, Vol. 32, No. 861 (Oct. 9, 1937), pp. 228-229
+- A. C. Breycha-Vauthier, *Die Tagung des internationalen Bibliotheksausschusses in Paris 1937* in: Nachrichten / Vereinigung Schweizerischer Bibliothekare = Nouvelles / Association des Bibliothécaires Suisses 14 (Jan 15, 1938) No. 1. [doi](http://dx.doi.org/10.5169/seals-770554)
+- Marcel Godet, *Le Congrès mondial de la Documentation universelle* [Rapport présenté à l'Assemblée générale de l'Association des bibliothécaires suisses, Genève 1937], in: Nachrichten / Vereinigung Schweizerischer Bibliothekare = Nouvelles / Association des Bibliothécaires Suisses 14 (Mar 10, 1938) No. 2. [doi](http://dx.doi.org/10.5169/seals-770558)
+- M. Llewellyn Raney, *The Decision of Paris*, in: The Journal of Documentary Reproduction 1 (Spring 1938) H. 2, 151–161.
+
+
+- Frank / Juchhoff, *Weltkongress der Dokumentation vom 16.-21. Aug. 1937 in Paris* (Bericht o.V. [Frank / Juchhoff] o.D. [nach 21.8.37]) [src](http://homepages.uni-tuebingen.de/gerd.simon/BerichtKongrParis.pdf)
+- Juchhoff, *Bericht über den Weltkongress der Dokumentation Paris, 16. -21. August 1937* (Bericht o.D. [nach 21.8.37]) [src](http://homepages.uni-tuebingen.de/gerd.simon/Juchhoff.pdf)
+- Meisner, *Bericht über den Weltkongreß für Dokumentation in Paris, 16.-21.August 1937* (Bericht o.D. [vor 31.8.37]), [src](http://homepages.uni-tuebingen.de/gerd.simon/MeisnerKongrParis.pdf)
+
+
+- W. Boyd Rayward, *The International Exposition and the World Documentation Congress, Paris 1937*, in: The Library Quarterly: Information, Community, Policy, Vol. 53, No. 3 (Jul., 1983), pp. 254-268
+- W. Boyd Rayward (ed.), *European Modernism and the Information Society*, Adershot, Hampshire; Burlington, Vermont: Ashgate 2008.
+
+### open
+
+- Hugo A. Krüss, *Die Beherrschung des Wissens*. In: Congrés Mondial de la documentation universelle. Compte rendu des travaux. Paris: Secrétariat [1937], p. 31–33.
+- Atherton Seidell, *A New Camera for Microfilm Photography in Libraries*, in: Congres Mondial de la Documentation Universelle, Paris, August 16-21, 1937. Texte des communications. Paris: Secretariat, 1937.
+- Paul Otlet, *Introduction aux travaux du congres*, in: Congres Mondial de la Documentation Universelle, Paris, August 16-21, 1937. Texte des communications. Paris: Secretariat, 1937.
+- Herman H. Fussler, *New Microphotographic Laboratory Is Established at Chicago*, in: ALA Bulletin 31 (May 1937): 295-97.
+- Julien Cain, *Le Musée de la littérature au Trocadero*, L'Illustration 108 (October 30, 1937): unpaged.
+- Maximilian Pflücke, *Dokumentation. Zugleich ein Bericht über den Weltkongreß der Dokumentation vom 16. bis 21. August in Paris*, in Angewandte Chemie 50? (Dec 30, 1937), Nr. 52, pp. 955—9XX.
+- Yvonne Oddon, *The Library Exhibit of the Paris International Exhibition*, in: Library Association Record, 4th ser., 4 (1937), pp. 627-29.
+- Herman H. Fussler, *American Microphotography at the Paris Exposition*, in: ALA Bulletin 32 (February 1938): 104-6.
+
+
+### div
+
+- *Congres Mondial de la Documentation Universelle, Paris, August 16-21, 1937. Compte rendu des travaux*, Paris: Secretariat, 1937.
+- *Congres Mondial de la Documentation Universelle, Paris, August 16-21, 1937. Texte des communications*, Paris: Secretariat, 1937.
+- *Congres Mondial de la Documentation Universelle, Paris, August 16-21, 1937. Rapports préliminaires*, Paris: Secretariat, 1937.
+
+- [Einladung](http://homepages.uni-tuebingen.de/gerd.simon/EinladgKongrParis.pdf)
+
+
+
+
+## world fair
+
+### read
+
+- *Die Fernsehschau der Deutschen Reichspost auf der Internationalen Ausstellung Paris 1937*
+- Reichskommissar für die Internationale Ausstellung Paris 1937 (Hg.), *Internationale Ausstellung Paris 1937 für Kunst und Technik. Deutsche Abteilung*, Berlin 1937.
+
+
+- Heinrich Hoffmann, *Deutschland in Paris. Ein Bildbuch*, München 1937.
+
+
+- Guido Habers, *Streifzug durch die Pariser Weltausstellung 1937*, in: Der Baumeister. 35, 1937, H. 9, S. 269-278.
+- Peter Meyer, *Weltausstellung Paris 1937*, in: Das Werk. 24, November 1937, H. 11, S. 321-351.
+- E.F.B., *Die Expo bei Nacht*, in: Das Werk, 1937, Nr. 11, S. 349-351
+- Hans Bernoulli, *Paris 1937*, in: Das Werk. Dezember 1937, H. 12, S. 336-373.
+- Sigfried Giedion, *Sind Ausstellungen noch lebensfähig?* In: Schweizer Bauzeitung. 109, 1937, H. 7, S. 73-77.
+
+
+### div
+
+- [Die Weltausstellung 1937 in Paris, 25. Mai — 25. November 1937](http://site.expo2000.de/expo2000/geschichte/detail.php?wa_id=13&lang=2&s_typ=1)
+
+
+### open
+
+- Gustav R. Hocke, *Das geistige Paris 1937*, Leipzig 1937.
+    - albertina
+
+
+- *Livre d´or officiel de l´Exposition internationale des arts et techniques dans la vie moderne*. Paris 1937.
+- *Exposition internationale des arts et des techniques dans la vie moderne Paris 1937. Catalogue officiel*, Vol. 1: *Liste des Exposants*, Vol. 2: *Catalogue par pavillons*, Paris 1937.
+- *Exposition internationale. Arts et techniques* [Kurzführer], Paris 1937
+- Léon Blum (Vw.), *Exposition internationale des arts et des techniques. Album, Programm*. Paris 1937.
+
+
+- Jean Favier, *L´Architecture. Exposition internationale*, Paris 1937. 3 Bände.
+- Raymond Isay, *Panorama des expositions universelles*, Paris 1937.
+- Pierre Verger, *Exposition 37. 60 photographies de Pierre Verger*, Paris 1937.
+- Edmond Labbé (ed.), *Exposition internationale des arts et des techniques dans la vie moderne, Paris 1937. Rapport général*, 11 Bände, Paris 1940.
+
+
+- *Exposition Paris 1937*. In: L´Illustration, Sonderalbum 1937.
+- *Expositions internationales, Paris 1937, New York 1939, Paris 1938*. In: Arts et métiers graphiques, Nr. 62, Paris 1938.
+- Amedée Ozenfant, *Notes d´un touriste à l´expo*. In: Cahiers d´art, 10, 1937, S. 242-247.
+- Joseph Ney, *Réflexions sur l´architecture à propos de l´exposition 1937*. In: Cahiers d´art, 10, 1937, S. 248-304.
+
+
+- Heinrich Hoffmann, *Die Weltausstellung. 100 Raumbild-Aufnahmen*, Diessen 1937.
+
+
+- Josefina Alix Trueba, Pabellon Español, *Paris 1937*. AK Centro de arte reina Sofia 25.6. - 15.9. 9. Madrid 1987.
+- Jürgen Harten / Hans-Werner Schmidt / Marie Luise Syring (Hg.), *"Die Axt hat geblüht". Europäische Konflikte der dreißiger Jahre in Erinnerung an die frühe Avantgarde*, AK Städtische Kunsthalle Düsseldorf. Düsseldorf 1987. [uni-zw-bib kunst](https://katalog.ub.uni-leipzig.de/Record/0000937059)
+    - Signatur: `88 A 1034`
+- Bertrand Lemoine, *Cinquantenaire de l´exposition internationale des arts et des techniques dans la vie moderne*, AK Institut Français d´Architecture et Paris Musées, Musée d´Art Moderne de la Ville de Paris. Paris 1987.
+
+
+- Pascal Ory, *Les Expositions universelles de Paris*, Paris 1992.
+
+
+- James D. Herbert, *Paris 1937. Worlds on Exhibition*, Ithaca: Cornell Univ. Press, 1998.
+    - Signatur: `98 C 3085` ?
+- Shanny Peer, *France on Display. Peasants, Provincials, and Folklore in the 1937 Paris World's Fair*, Albany : State Univ. of New York Press, 1998.
+    - Signatur: `98 C 3435`

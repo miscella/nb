@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+echo ""
+echo "    ,_ . _ _ _ ||  "
+echo "    ||||_\(_(/_||(|"
+echo ""
+echo "    ,_  |- _ |     | "
+echo "    ||()|_(/_|)()()|<"
+echo ""
+echo "    start new build..."
+echo ""
+echo "    clean up previous build..."
+echo ""
+BOOK_DIR=$(pwd)/docs
+SOURCE_DIR=$(pwd)/src
+rm -rf ${BOOK_DIR}
+mkdir ${BOOK_DIR}
+echo "    building..."
+echo ""
+cd ${SOURCE_DIR}
+Rscript -e "bookdown::render_book('index.Rmd', 'bookdown::gitbook')"
+echo ""
+echo "    new build down!"
+echo ""

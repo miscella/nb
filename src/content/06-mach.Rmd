@@ -1,0 +1,72 @@
+# machina
+
+## cts
+
+### urn
+
+```
+----------------------------------------
+urn:cts:miscella
+----------------------------------------
+autXX.titYY.lan
+
+aut == author (first three letters)
+XX  == birth date (last two numbers of the year)
+tit == title (first three letters, except stopwords)
+YY  == publication date (last two numbers of the year)
+lan == language of publication (iso 639.2)
+--------------------
+example:
+
+Author:  	Walter Benjamin, born 1892
+Title:   	Einbahnstraße, publ. 1928
+Workpart: 	ben92.ein28.ger
+
+translation example:
+
+Author: 	Walter Benjamin
+Title:		One-Way Street, tr. 1978
+Workpart:	ben92.ein28.eng78
+----------------------------------------
+monXX.titYY.lan
+
+mon == first three letters of "monograph"
+XX  == publication date (first two numbers of year)
+tit == title (first three letters, except stopwords)
+YY  == publication date (last two numbers of the year)
+lan == language of publication (iso 639.2)
+
+Author:		Susan Buck-Morss
+Monograph:	The Dialectics of Seeing, pub. 1989
+Workpart:	mon19.dia89.eng
+----------------------------------------
+iteXX.titYY.lan
+
+ite == first three letters of "item"
+XX  == publication date (first two numbers of year)
+tit == title (first three letters, except stopwords)
+YY  == publication date (last two numbers of the year)
+lan == language of publication (iso 639.2)
+----------------------------------------
+artXX.titYY.lan
+
+art == first three letters of "article"
+XX  == publication date (first two numbers of year)
+tit == title (first three letters, except stopwords)
+YY  == publication date (last two numbers of the year)
+lan == language of publication (iso 639.2)
+----------------------------------------
+
+Title
+
+
+
+letters:
+
+Sender:		Walter Benjamin
+Recipient:	Theodor W. Adorno
+Send Date:	Dec 9, 1938
+Edition:	Briefe, ed. 1966
+Workpart:	ben92.bri66.ado19381209.ger
+
+```
