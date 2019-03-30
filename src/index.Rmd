@@ -17,5 +17,6 @@ csl: "assets/miscella-title-date.csl"
 
 # domo
 
-- [transcripts](https://miscella.github.io/txt)
-- [references](https://miscella.github.io/refs)
+- [corpus](https://miscella.github.io/txt)
+- [origin](https://miscella.github.io/refs)
+- [persona](https://miscella.github.io/pers)
