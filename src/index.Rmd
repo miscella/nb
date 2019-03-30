@@ -1,5 +1,6 @@
 ---
 title: "nb :: Miscella"
+subtitle: "notate"
 author: "lullus"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
