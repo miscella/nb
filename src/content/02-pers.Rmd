@@ -1,5 +1,132 @@
 # persona
 
+## pynchon, thomas
+
+"New York Times" ("Is It O.K. to Be a Luddite?")
+
+## piscator, erwin
+
+```
+Erwin Piscator: Zeittheater. Das politische Theater und weitere Schriften. 1915–1966. Ausgewählt und bearbeitet von Manfred Brauneck und Peter Stertz. Rowohlt, Reinbek bei Hamburg 1986
+
+Maria Ley-Piscator, The Piscator Experiment. The Political Theatre, Carbondale/ILL 1970. (50f. - Gründung des Dramatic Workshop)
+
+Thomas George Evans: Piscator in the American Theatre. New York, 1939-1951. Ann Arbor: University of Wisconsin Press 1968.
+
+Thea Kirfel-Lenk: Erwin Piscator im Exil in den USA 1939-1951. Berlin: Henschel 1984.
+
+Claus-Dieter Krohn: Erwin Piscators Theaterarbeit in New York 1939-1951. In: Exil. Literatur und die Künste nach 1933. Hrsg. von Alexander Stephan. Bonn: Bouvier 1990, S. 154-170.
+
+Gerhard F. Probst: Erwin Piscator and the American Theatre. New York, San Francisco, Berne etc.: Peter Lang 1991.
+
+Ilka Saal: Broadway and The Depoliticization of Epic Theatre: The Case of Erwin Piscator. In: J. Chris Westgate (ed.): Brecht. Broadway and United States Theatre. Newcastle: Cambridge Scholars 2007, pp. 45–71.
+
+John Willett: Erwin Piscator: New York and the Dramatic Workshop 1939–1951. Performing Arts Journal, Vol. 2, No.3 (1978), pp. 3–16.
+```
+
+## pichler, michalis
+
+```
+Michalis Pichler, The Work of Art in the Age of Digital Reproduction, in: Annette Gilbert / Clemens Krümmel (eds.), Thirteen Years: The Materialization of Ideas from 2002 to 2015 [Michalis Pichler], New York: Printed Matter, Inc./ Leipzig: Spector Books 2015.
+```
+
+## panofsky
+
+- *Original und Faksimilereproduktion*, in *Der Kreis. Zeitschrift für künstlerische Kultur* 7 (1930)
+
+## ostwald, wilhelm
+
+http://www.tuhh.de/b/hapke/ostwald.htm
+
+## nelson, ted
+
+```
+ted nelson replacing the printed word
+
+Replacing the Printed [Written??] Word: A Complete Literary System, Lavington, Simon H., : Information Processing: Proceedings of the 1980 IFIP World Computer Congress , 8, 1013-1023.
+
+Nelson TH (1980) Replacing the printed word: a complete literary system. In: Information pro- cessing 80: proceedings of IFIP Congress 80: Tokyo, Japan October 6–9, 1980, Melbourne,. Australia October 14–17, 1980, 1013–23.
+
+Simon H. Lavington (Ed.): Information Processing 80, Proceedings of IFIP Congress 80, Tokyo, Japan - October 6-9, 1980 and Melbourne, Australia - October 14-17, 1980. North-Holland/IFIP, 1980, ISBN 0-444-86034-7
+```
+
+
+```
+Proceedings of the American Documentation Institute
+1965 Ted Nelson Hypertext
+
+IN PRINT: Life, Love, College, Etc., 1959.
+IN PRINT: Computer Lib/Dream Machines, 1974.  Microsoft edition, 1987.
+  Original 1974 edition now reprinted from negatives.
+The Home Computer Revolution, 1977.  Translated also into Japanese and Swedish.
+Literary Machines (classic edition), 1981.  Literary Machines Technical Edition, 1987 et seq.
+Selected Papers, ca. 1987.
+The Future of Information.  (Published in Japan.)
+IN PRINT: Geeks Bearing Gifts: How the Computer World Got This Way, 2008.
+IN PRINT: POSSIPLEX (autobiography), 2010.
+IN PRINT: The Scene Machine, 2014.
+```
+
+#### links
+
+https://archive.org/details/SelectedPapers1977
+http://libgen.is/book/index.php?md5=384ECDE91915D17FD906DFBE5DE002F2
+
+## mosher, mike
+
+```
+Mike Mosher has painted and organized over a dozen public murals in San Francisco 1980-1990. Currently faculty of the San Francisco State University Conceptual Design and Information Arts Program, he has taught at the SFSU Inter-Arts Center and SFSU Multimedia Studies Program, University of San Francisco Professional Studies Program, and Cañada College in Redwood City CA. His 1994 essay "Towards Community Art Machines" in the online publication BAD SUBJECTS will appear in the anthology Bad Subjects (NYU Press, scheduled November 1997). Mike has also designed multimedia for Apple Computer, IBM Almaden Research Center, Cisco Systems and other Silicon Valley companies.
+```
+
+[src](http://bad.eserver.org/issues/1995/18/)
+
+
+## moretti, franco
+
+```
+Moretti, Franco (2000), »Conjectures on World Literature«, in: New Left Review, 1, S. 54-68.
+Moretti, Franco (2009), Kurven, Karten, Stammbäume: Abstrakte Modelle für die Literaturgeschichte, Frankfurt a.M.: Suhrkamp.
+```
+
+## calvin, mooers
+
+
+```
+mooers, wikipedia
+
+He coined the term "information retrieval" using it first in a conference paper presented in March 1950.[1] See also a short paper published later that year from Mooers.
+
+Mooers, C. (March 1950). "The theory of digital handling of non-numerical information and its implications to machine economics". Proceedings of the meeting of the Association for Computing Machinery at Rutgers University.
+
+Mooers, C. (1950). "Information retrieval viewed as temporal signaling" (PDF). Proceedings of the International Congress of Mathematicians. Vol. 1, S.572-573.
+
+Mooers received the American Society for Information Science's Award of Merit in 1978. The citation reads in part:
+
+He was a participant in early developmental work on digital computers, a researcher, author, and implementer of applications in information retrieval; and a prophet in the 1950s describing the future importance of what is now called computer networks and distributive processing, and daring to predict that machines could simulate thought processes in retrieving computerized information. In 1947, he proposed the Zator, an electronic, film-scanning retrieval machine, and made the first proposal to use the Boolean operations or, and, and not to prescribe selections in retrieval machines. He developed his own Zatocoding System in 1948 using superimposed subject codes on edge-notched cards. He coined the term "Information Retrieval" in 1950, and went on from there to obtain several patents in information retrieval and signaling, produce a text-handling language (TRAC), author some 200 publications, and form one of the first companies whose only concern was information. His thinking has affected all who are in the field of Information and his early ideas are now incorporated into today's reality.
+```
+
+
+```
+Mooers, Calvin N. (1946), »This is an inquiry into the future of mankind« in: Calvin N. Mooers Papers (CBI 81), Box 6, Folder 21, Charles Babbage Institute, University of Minnesota, Minneapolis.
+Mooers, Calvin N. (1950a), »Information Retrieval Viewed as Temporal Signalling«, in: Proceedings of the International Congress of Mathematicians, 1, S. 572-573.
+Mooers, Calvin N. (1950b), »The Theory of Digital Handling of Non-Numerical Information and its Implications to Machine Economics« in: Calvin N. Mooers Papers (CBI 81), Box 21, Folder 11, Charles Babbage Institute, University of
+Minnesota, Minneapolis.
+Mooers, Calvin N. (1960), »The Next Twenty Years in Information Retrieval«, in: American Documentation, 11, 3, S. 229-236.
+Mooers, Calvin N. (2001), »The Computer Project at the Naval Ordnance Laboratory«, in: IEEE Annals of the History of Computing, 23, 2, S. 51-67.
+```
+
+## meryon, charles
+
+xxx
+
+## mendelsohn, erich
+
+- *Amerika. Bilder eines Architekten* (1926)
+
+## mosso, leonardo
+
+- Programmierte Architektur (1969)
+
 ## malraux, andré
 
 - Walter Grasskamp, *André Malraux und das imaginäre Museum. Die Weltkunst im Salon*. München: C. H. Beck 2014.
