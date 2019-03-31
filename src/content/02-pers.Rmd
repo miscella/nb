@@ -1,5 +1,166 @@
 # persona
 
+## valery, paul
+
+https://www.idref.fr/027174484
+
+#### valery-conquete-ref.txt
+
+- De la musique avant toute chose, Paris: Edition du Tambourinaire 1929
+https://catalogue.bnf.fr/ark:/12148/cb333370656
+https://catalogue.bnf.fr/ark:/12148/cb31521227m
+https://catalogue.bnf.fr/ark:/12148/cb43351216m
+https://catalogue.bnf.fr/ark:/12148/cb347846410
+https://catalogue.bnf.fr/ark:/12148/cb35882075g
+
+- Nouvelles Littéraires (28. März 1931) https://gallica.bnf.fr/ark:/12148/bpt6k6452015m
+
+- Roland Kayser, Die Eroberung der Allgegenwärtigkeit, in: Neue Deutsche Rundschau 42.1 (1931), pp. 713f.
+
+- Pièces sur l'art, Paris: Gallimard 1934
+- Über Kunst : Essays / Paul Valéry. Dt. von Carlo Schmid. Berlin; Frankfurt a.M.: Suhrkamp  1959
+
+
+#### valery-mes-theatres-ref.txt
+
+
+13529620X :  Mes théâtres (extraits) [Texte imprimé] / Paul Valéry / [S. l.] : W. Fischer , [1932]
+135296161 :  Mes théâtres [Texte imprimé] / Paul Valéry / Paris : A. Michel , 1945
+013334999 :  Cahiers Paul Valéry / Paris : Gallimard , 1975-
+    --> Vol. 2: Mes théâtres / Paris: Gallimard , 1977
+
+- La NEF, n° 6, mai 1945 [160 p.] # 2.jahrgang
+Paul Valéry, Mes théâtres
+www.revues-litteraires.com/articles.php?pg=1373
+https://catalogue.bnf.fr/ark:/12148/cb34529822w
+https://zdb-katalog.de/title.xhtml?idn=011193026
+
+
+
+Paul Valéry, « Mes théâtres », dans Les Dernières nouvelles, Alger, 19 novembre 1942, Œuvres, Paris, La Pléiade, tome I, 1960.
+
+
+Les dernières nouvelles à Alger le soir
+https://lccn.loc.gov/sn95058048
+
+
+## vernadskij, vladimir
+
+```
+Wladimir Iwanowitsch Wernadski
+
+Vladimir Ivanovich Vernadsky, Khimicheskoje strojenije biosfery zemli i ee okruzhenija [Der chemische Aufbau der Biosphäre der Erde und ihre Umgebung], Moscow: Nauka 1965.
+
+Vladimir Ivanovich Vernadsky, Nauchnaja mysl’ kak planetnoje javlenije [Der wissenschaftliche Gedanke als planetare Erscheinung], Moskau: Nauka 1991.
+
+Vladimir Ivanovich Vernadsky, Scientific thought as a planetary phenomenon, Moscow Nongovernmental Ecological V. I. Vernadsky Foundation 1997.
+
+Vladimir Vernadskij, »The biosphere and the noosphere«, in: American Scientist 33 (1945), Nr.1, pp. 1-12. (http://www.jstor.org/stable/27826043)
+
+Vladimir I. Vernadskij: Der Mensch in der Biosphäre. Zur Naturgeschichte der Vernunft, Wolfgang Hofkirchner (ed.), Frankfurt/M/ Berlin/ Bern/ New York/ Paris/ Wien: Lang 1997.
+
+
+Neskolko slow o noosfere, in: Uspechi biologii 18 (1944) 2, 113-120 (in: In : Biosfera. Moskwa 1967.)
+
+
+Nauchnaja mysl’ kak planetnoje javlenije
+Научная мысль как планетное явление
+Der wissenschaftliche Gedanke als planetare Erscheinung
+
+Khimicheskoje strojenije biosfery zemli i ee okruzhenija
+Химическое строение биосферы Земли и ее окружения
+Der chemische Aufbau der Biosphäre der Erde und ihre Umgebung
+
+
+Der russische Geologe Wladimir Iwanowitsch Wernadski nutzte seinen Terminus erst wieder ab 1937, am ausführlichsten in der Arbeit Der wissenschaftliche Gedanke als planetare Erscheinung (Научная мысль как планетное явление). Dieser Artikel sollte Teil seines großen Lebenswerkes Der chemische Aufbau der Biosphäre der Erde und ihre Umgebung (Химическое строение биосферы Земли и ее окружения) werden.
+
+„In den Jahren 1922 und 1923 nahm ich in meinen Vorlesungen an der Sorbonne in Paris als Grundlage der Biosphäre biogeochemische Erscheinungen an ... Von meiner biogeochemischen Grundlage der Biosphäre ausgehend, führte der französische Mathematiker und Philosoph, der Bergsonianer E. Le Roy in seinen Vorlesungen am College de France in Paris 1927 den Begriff ‚Noosphäre‘ als das moderne Stadium, das die Biosphäre geologisch durchlebt, ein. Er betonte dabei, zu dieser Vorstellung sei er zusammen mit seinem Freund, dem bedeutenden Geologen und Paläontologen Teilhard de Chardin gelangt“ (Vernadskij, Der Mensch in der Biosphäre, p. 11)
+```
+
+## virilio, paul
+
+```
+Paul Virilio "The Overexposed City" "La ville surexposee," from L'espace critique ( Paris: Christian Bourgeois, 1984); translated in Zone 1-2 (New York: Urzone, 1986)
+
+ZONE 1 / 2
+(ZONE) (MAU, BRUCE). Crary, Jonathan, Michel Feher, Hal Foster & Sanford Kwinter, Editors
+Published by Urzone Inc. & Johns Hopkins University Press, 1986
+ISBN 10: 0942299221 / ISBN 13: 9780942299229
+
+1. Zone 1/2: The [Contemporary] City
+
+Michel Feher; Sanford Kwinter; Jonathan Crary
+Published by Zone Books, U.S.A. (1987)
+ISBN 10: 0942299221 ISBN 13: 9780942299229
+
+Zone gibt es in der Kunstbibliothek (Berlin)
+
+L'espace critique in der FU
+
+Change international auch in der FU, sonst TU
+```
+
+## turing, alan
+
+- Turing  A.: Kann  eine  Maschine  denken? .-  In: Kursbuch 8, Hans M. Enzensberger (Hrsg.), 1967, S. 106-138.
+
+## tesla, nikola
+
+#### tesla-bib.txt
+
+```
+Nikola Tesla, Seine Werke, Bd.4: Energieübertragung und Radiotechnik, Peiting: Michaels-Verl. 1997.
+
+Ulrich Heerd (Hrsg.): Nikola Tesla. Sein Werk (nur eigene Aufzeichnungen) 6 Bde. Edition Tesla. Michaels-Verlag, Peiting 2002
+
+
+W. Bernard Carlson: Tesla. Der Erfinder des elektrischen Zeitalters. 2. Auflage. FinanzBuch, München 2017, ISBN 978-3-95972-007-6. (Amerikanische Originalausgabe: Tesla. Inventor of the Electrical Age. Princeton University Press, Princeton 2013)
+
+
+Slavko Bokšan, Nikola Tesla und sein Werk und die Entwicklung der Elektrotechnik, der Hochfrequenz- und Hochspannungstechnik und der Radiotechnik, Leipzig/ Wien/ New York: Deutscher Verlag für Jugend und Volk 1932.
+```
+
+#### tesla-div.txt
+
+```
+the problem of increasing human energie (sic)
+
+Century Magazine (Jun. 1900)
+
+Abb. Electrical Review (Nov. 1898)
+```
+
+
+#### tesla-links.txt
+
+http://hello-earth.com/nikolatesla/nikolatesla.html
+http://www.tfcbooks.com/tesla/contents.htm
+
+
+## sutherland, ivan
+
+- Ivan Sutherland, »A head-mounted three dimensional display«, in: Proceedings of the Joint Computer Conference, 1968, 33, pp. 757-64.
+
+- Ivan Sutherland, »The ultimate display«, in Proceedings of the International Federation of Information Processing Congress 1965, pp. 506-508.
+
+## stickel, gerhard
+
+- [@sti37.aut64.ger]
+- [@sti37.aut66.ger]
+
+
+```
+- Gerhard Stickel, Automatische Textzerlegung und Registerherstellung. Darmstadt: Deutsches Rechenzentrum, 1964 (= Programm-Information 11). `sti37.aut64.ger`
+
+- Gerhard Stickel, Monte-Carlo-Texte, in: Frieder Nake [et al.], Herstellung von zeichnerischen Darstellungen, Tonfolgen und Texten mit elektronischen Rechenanlangen, Darmstadt: Deutsches Rechenzentrum 1966 (= Programm-Information 21), pp. 43-51.
+
+- Gerhard Stickel / Manfred Gräfe, Automatische Textzerlegung und Herstellung von Zettelregistern für das Goethe-Wörterbuch, in: Sprache im technischen Zeitalter 19 (1966), pp. 247-257. `sti37.aut66.ger`
+
+- Gerhard Stickel, Monte-Carlo-Texte. Automatische Manipulation von sprachlichen Einheiten (1967), in: Exakte Ästhetik. Methoden und Ergebnisse empirischer und experimenteller Ästhetik. Bd. 5: Kunst aus dem Computer, Stuttgart: Nadolski, 1967, pp. 53-57.
+
+- Gerhard Stickel, ›Computer-Dichtung‹. Zur Erzeugung von Texten mit Hilfe von datenverarbeitenden Anlagen, in: Der Deutschunterricht 18 (1966), H. 2, pp. 120-125.
+```
+
 ## pynchon, thomas
 
 "New York Times" ("Is It O.K. to Be a Luddite?")
