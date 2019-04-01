@@ -4,23 +4,23 @@
 
 ### dnb
 
-#### bestellt
+#### ausgeliehen
+
+- Valery, Über Kunst (1959)
+- Valery, Dialoge und Theater (ed. 1990)
+
 
 - Nora, *Zwischen Geschichte und Gedächtnis* (1990)
 - Nora, *Zwischen Geschichte und Gedächtnis* (1998)
-- [@flu20.ged89.ger]
+
+
 - Goldsmith, *Unkreatives Schreiben* (trans. 2017)
-- *Germanistik - Forschungsstand und Perspektiven* / Teil 2. *Ältere deutsche Literatur, neuere deutsche Literatur* (1985)
-    - Kittler, *Literatur und Literaturwissenschaft als Word Processing*, pp. 410-419.
 
 
 - Die Lochkarten-Buchhaltungs-Maschinen meines Systems / Gustav Tauschek, [Wien, XIV., Meinhartsdorfergasse 1] : [G. Tauschek], 1930. [dnb](http://d-nb.info/576641979)
-
 - Gustav Tauschek und seine Maschinen / Martin Helfert ; Petra Mazuran ; Christoph Wintersteiger. Mit einem Geleitw. von Heinz Zemanek, Linz : Trauner, 2006. [dnb](http://d-nb.info/980811902)
 
-#### ausgeliehen
 
-- Leibniz, *De l'horizon de la doctrine humaine* (ed. 1991)
 - Hessel, *Spazieren in Berlin* (1929)
 
 #### bestellen
@@ -41,6 +41,11 @@ Lesesaalbestand
 
 
 ### albertina
+
+#### bestellt
+
+- *Neue Rundschau* 42.1 (1931)
+    -  Roland Kayser, Die Eroberung der Allgegenwärtigkeit, pp. 713f.
 
 #### bestellen
 
@@ -82,6 +87,10 @@ Lesesaalbestand
     - Brin, *A Library to Last Forever* (Oct. 8, 2009), pp. A31 (= NY Ed.).
 - *The New Yorker*
     - Toobin, *Google's Moon Shot. The Quest for the Universal Library* (Feb. 5, 2007), pp. 30–35.
+
+### sbb
+
+- Die Nationalbibliothek in der Westentasche (1938) [[src](http://stabikat.de/DB=1/XMLPRS=N/PPN?PPN=165994797)]
 
 ### sbb udl
 
@@ -167,3 +176,7 @@ Lesesaalbestand
 - Grundlagenstudien aus Kybernetik und Geisteswissenschaft (1960)
     - darin wohl: Lutz, Über ein Programm zur Erzeugung stochastisch-logischer Texte
         - Grundlagenstudien 1 (1960), Stuttgart
+- *Germanistik - Forschungsstand und Perspektiven* / Teil 2. *Ältere deutsche Literatur, neuere deutsche Literatur* (1985)
+    - Kittler, *Literatur und Literaturwissenschaft als Word Processing*, pp. 410-419.
+- Leibniz, *De l'horizon de la doctrine humaine* (ed. 1991)
+- [@flu20.ged89.ger]

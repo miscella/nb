@@ -1,5 +1,15 @@
 # persona
 
+## goldberg, emmanuel
+
+Goldberg, E. (1932b). Das Registrierproblem in der Photographie. In International Congress of Photography. 8th, Dresden, 1931. Bericht über den VIII. Internationalen Kongress fuer Wissenschaftliche und Angewandte Photographie, Dresden, 1931. Herausg. von J. Eggert und A. von Biehler. (317-320). Leipzig: Barth.
+
+Goldberg, Emanuel: Das Registrierproblem in der Photographie. In: Eggert, J./Biehler, A. v. (Hrsg.): Bericht über den VIII. Internationalen Kongress für Wissenschaftliche und Angewandte Photographie : Dresden 1931. Barth/Leipzig 1932. S. 317-320.
+
+Michael Buckland: Vom Mikrofilm zur Wissensmaschine: Emanuel Goldberg zwischen Medientechnik und Politik. Avinus-Verlag, Berlin 2010, ISBN 978-3-86938-015-5, (Forschung visuelle Kultur; Bd. 1); dt. Übersetzung von: Emanuel Goldberg and his Knowledge Machine. Information, Invention, and political Forces. Libraries Unlimited, Westport CT u. a. 2006,
+
+us patent 1915993
+
 ## valery, paul
 
 https://www.idref.fr/027174484
@@ -736,9 +746,17 @@ Tim Berners-Lee, James Hendler and Ora Lassila, "The Semantic Web", Scientific A
 
 - Pierre Nora, «Entre mémoire et histoire», in Les Lieux de mémoire, tome 1, La République, Gallimard, Paris, 1984, p. XIX.
 
-- Pierre Nora, Zwischen Geschichte und Gedächtnis: Die Gedächtnisorte, in: ders., Zwischen Gedächtnis und Geschichte, Berlin: Wagenbach 1990, p. 19.
+- Pierre Nora, «Entre mémoire et histoire» [1984], in Les Lieux de mémoire, tome 1, La République, Gallimard, Paris, 1997, pp. 23-43.
 
-- *Zwischen Geschichte und Gedächtnis* Nora, Pierre. - Frankfurt am Main : Fischer-Taschenbuch-Verl., 1998, Ungekürzte Ausg.
+- *Zwischen Geschichte und Gedächtnis: Die Gedächtnisorte*, in: *Zwischen Gedächtnis und Geschichte*. Aus dem Fanzösischen von Wolfgang Kaiser, Berlin: Wagenbach 1990, pp. 11-33. [dnb](http://d-nb.info/910445842)
+
+- *Zwischen Geschichte und Gedächtnis: Die Gedächtnisorte*, in: *Zwischen Geschichte und Gedächtnis*. Aus dem Fanzösischen von Wolfgang Kaiser. Ungekürzte Ausg., Frankfurt am Main: Fischer 1998, pp. 11-42. [dnb](http://d-nb.info/95428092X)
+
+
+#### desc
+
+- [memory](03-desc.Rmd#memory-metaphor)
+
 
 ## jean paul
 

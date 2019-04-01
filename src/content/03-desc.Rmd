@@ -717,6 +717,9 @@ number=40
 
 ### links
 
+- [Ars Electronica Ausstellung: Social Media und Hypertext um 1900](https://datenschmutz.net/ars-electronica-ausstellung-social-media-und-hypertext-um-1900/)
+
+
 - British Library, Discovering Literature: Romantics & Victorians. [Inventing the Future](https://www.bl.uk/romantics-and-victorians/articles/inventing-the-future)
 - Straight Dope Message Board: [The Internet in Old Sci Fi](https://boards.straightdope.com/sdmb/showthread.php?t=748868)
 
@@ -1040,8 +1043,17 @@ number=40
 
 
 
+## memory
+
+- media
+- metaphor
+- photography
+- digital media
 
 
+#### lit
+
+- Sarah Kofman, *Camera Obscura of Ideology*, übers. v. Will Straw, Ithaca/NY: Cornell University Press 1999.
 
 ## new york
 
