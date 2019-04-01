@@ -755,7 +755,7 @@ Tim Berners-Lee, James Hendler and Ora Lassila, "The Semantic Web", Scientific A
 
 #### desc
 
-- [memory](03-desc.Rmd#memory-metaphor)
+- [memory](03-desc.Rmd#memory)
 
 
 ## jean paul
