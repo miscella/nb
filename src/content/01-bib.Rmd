@@ -4,6 +4,11 @@
 
 ### dnb
 
+#### bestellt
+
+- Prager Tablatt [src](http://d-nb.info/010573135)
+    - Abendausgabe [src](http://d-nb.info/015791777)
+
 #### ausgeliehen
 
 - Goldsmith, *Unkreatives Schreiben* (trans. 2017)
@@ -129,6 +134,7 @@ J.F. Kennedy-Institut
 ### sbb zeitung
 
 - Die Nationalbibliothek in der Westentasche (1938) [[src](http://stabikat.de/DB=1/XMLPRS=N/PPN?PPN=165994797)]
+    - nicht in der Ausgabe!
 
 ### sbb udl
 
