@@ -2,8 +2,6 @@
 
 ## audio
 
-
-
 - [Data Stories 030 — The Information Flaneur w/ Marian Dörk (Dec. 10, 2013)](http://datastori.es/data-stories-30-the-information-flaneur-w-marian-dork/)
 - [Rare Book School Lectures: Matthew G. Kirschenbaum, "INVALID.KEYSTROKE: John Updike and the Bibliography of Word Processing"](https://soundcloud.com/rarebookschool/kirschenbaum-matthew-g-invalidkeystroke-john-updike-and-the-bibliography-of-word-processing)
 - *54321... Radical Philosophy Conference*, HKW, Berlin (Jan 16—17 2015)
@@ -66,50 +64,26 @@
 
 ### done
 
-
-
-- Gustave Caillebotte, L'Homme au balcon, Boulevard Haussmann (1880)
-- We'll All Be Happy Than (1911)
-- Das 100pferdige Büro (1926)
-- Drahtloses Privattelefon und Fernseher (1930)
-- Der Objektive (1932)
-- Your Newspaper "On the Air": Can it be done? (1934)
-- Reading Machine (1935)
-- Fernseh-Sprechstelle (1936)
-- *Living Room of Tomorrow* (1939)
-      - Popular Mechanics
-- Memex (1945)
-- Scientist of the Future (1945)
-- Electronic Home Library (1959)
-- Mark Tansey, The Triumph of the New York School (1984)
-- Jeffrey Shaw, The Legible City (1989)
-- AES Group, Islamic Project: New Liberty (1996)
-- Empfangshalle, The Benjamin Project (2009-2010)
-- Kim Dong-kyu, Art x Smart: Balcony (2013)
-
-
-[SRC](https://drahtwort.github.io/site/media/image.html)
-
-<a href="https://i.pinimg.com/originals/33/cc/db/33ccdb9a14572d0b0937f91576e14dd8.jpg" target="_blank">Gustave Caillebotte, L'Homme au balcon, Boulevard Haussmann (1880)</a>
-<a href="https://upload.wikimedia.org/wikipedia/commons/7/79/Rousselots_Apparat_zur_Aufzeichnung_der_Sprache.jpg" target="_blank">Rousselots Apparat zur Aufzeichnung der Sprache (1890)</a>
-<a href="https://babel.hathitrust.org/cgi/imgsrv/image?id=umn.31951000583879g;seq=951;width=1360" target="_blank">We'll All Be Happy Than (1911)</a>
-<a href="https://laughingsquid.com/wp-content/uploads/the-isolator-640x539.jpg" target="_blank">Gernsback, The Isolator (1925)</a>
-<a href="http://digital.slub-dresden.de/fileadmin/data/358216435-19250700/358216435-19250700_tif/jpegs/00000061.tif.large.jpg" target="_blank">Das 100pferdige Büro (1926)</a>
-<a href="https://c1.staticflickr.com/3/2685/4434966765_0a9e1d39f7_o.jpg" target="_blank">Drahtloses Privattelefon und Fernseher (1930)</a>
-<a href="http://digital.slub-dresden.de/fileadmin/data/358216435-19310700/358216435-19310700_tif/jpegs/00000048.tif.large.jpg" target="_blank">Der Objektive (1932)</a>
-<a href="http://images.furycomics.com/viewer/82/8209a89c7f02b50211ef956b2c416cdd/18.jpg" target="_blank">Your Newspaper "On the Air": Can it be done? (1934)</a>
-<a href="http://paleofuture.com/storage/1935%20April%20Science%20and%20Mechanics%20sm.jpg" target="_blank">Reading Machine (1935)</a>
-<a href="https://3.bp.blogspot.com/-HFaNXVUQ43o/Vthnc-f9kYI/AAAAAAAABeA/eZ9QZbIfiDM/s1600/fs-3.jpg" target="_blank">Fernseh-Sprechstelle (1936)</a>
-<a href="http://blog.modernmechanix.com/mags/PopularMechanics/8-1939/radio_living_room.jpg" target="_blank">Radio Living Room of Tomorrow (1939)</a>
-<a href="https://books.google.de/books?id=uUkEAAAAMBAJ&lpg=PP1&pg=PA123" target="_blank">Memex (1945)</a>
-<a href="https://books.google.de/books?id=uUkEAAAAMBAJ&lpg=PP1&pg=PA112" target="_blank">Scientist of the Future (1945)</a>
-<a href="http://paleofuture.com/storage/590201%20closer%20than%20we%20think%20paleofuture.jpg" target="_blank">Electronic Home Library (1959)</a>
-<a href="https://books.google.de/books?id=JlIEAAAAMBAJ&lpg=PP1&hl=de&pg=PA68#v=onepage&q&f=false">Teleyeglasses (1963)</a>
-<a href="http://www.penhook.org/triumphny.htm" target="_blank">Mark Tansey, The Triumph of the New York School (1984)</a>
-<a href="http://www.jeffreyshawcompendium.com/portfolio/legible-city/" target="_blank">Jeffrey Shaw, The Legible City (1989)</a>
-<a href="https://aesf.art/projects/islamic_project/#images/0" target="_blank">AES Group, Islamic Project: New Liberty (1996)</a>
-<a href="http://www.empfangshalle.de/kunst/en/projekte/the-benjamin-project/" target="_blank">Empfangshalle, The Benjamin Project (2009-2010)</a>
-<a href="https://images.huffingtonpost.com/2013-11-08-tumblr_mvsa51oskq1t0tb9do1_1280.jpg" target="_blank">Kim Dong-kyu, Art x Smart: Balcony (2013)</a>
+- [Gustave Caillebotte, L'Homme au balcon, Boulevard Haussmann (1880)](https://i.pinimg.com/originals/33/cc/db/33ccdb9a14572d0b0937f91576e14dd8.jpg)
+- [Rousselots Apparat zur Aufzeichnung der Sprache (1890)](https://upload.wikimedia.org/wikipedia/commons/7/79/Rousselots_Apparat_zur_Aufzeichnung_der_Sprache.jpg)
+- [We'll All Be Happy Than (1911)](https://babel.hathitrust.org/cgi/imgsrv/image?id=umn.31951000583879g;seq=951;width=1360)
+- [Gernsback, The Isolator (1925)](https://laughingsquid.com/wp-content/uploads/the-isolator-640x539.jpg)
+- [Das 100pferdige Büro (1926)](http://digital.slub-dresden.de/fileadmin/data/358216435-19250700/358216435-19250700_tif/jpegs/00000061.tif.large.jpg)
+- [Drahtloses Privattelefon und Fernseher (1930)](https://c1.staticflickr.com/3/2685/4434966765_0a9e1d39f7_o.jpg)
+- [Der Objektive (1932)](http://digital.slub-dresden.de/fileadmin/data/358216435-19310700/358216435-19310700_tif/jpegs/00000048.tif.large.jpg)
+- [Your Newspaper "On the Air": Can it be done? (1934)](http://images.furycomics.com/viewer/82/8209a89c7f02b50211ef956b2c416cdd/18.jpg)
+- [Reading Machine (1935)](http://paleofuture.com/storage/1935%20April%20Science%20and%20Mechanics%20sm.jpg)
+- [Fernseh-Sprechstelle (1936)](https://3.bp.blogspot.com/-HFaNXVUQ43o/Vthnc-f9kYI/AAAAAAAABeA/eZ9QZbIfiDM/s1600/fs-3.jpg)
+- [Radio Living Room of Tomorrow (1939)](http://blog.modernmechanix.com/mags/PopularMechanics/8-1939/radio_living_room.jpg)
+- [Memex (1945)](https://books.google.de/books?id=uUkEAAAAMBAJ&lpg=PP1&pg=PA123)
+- [Scientist of the Future (1945)](https://books.google.de/books?id=uUkEAAAAMBAJ&lpg=PP1&pg=PA112)
+- [Electronic Home Library (1959)](http://paleofuture.com/storage/590201%20closer%20than%20we%20think%20paleofuture.jpg)
+- [Teleyeglasses (1963)](https://books.google.de/books?id=JlIEAAAAMBAJ&lpg=PP1&hl=de&pg=PA68#v=onepage&q&f=false)
+- [Mark Tansey, The Triumph of the New York School (1984)](http://www.penhook.org/triumphny.htm)
+- [Jeffrey Shaw, The Legible City (1989)](http://www.jeffreyshawcompendium.com/portfolio/legible-city/)
+- [AES Group, Islamic Project: New Liberty (1996)](https://aesf.art/projects/islamic_project/#images/0)
+- [Empfangshalle, The Benjamin Project (2009-2010)](http://www.empfangshalle.de/kunst/en/projekte/the-benjamin-project/)
+- [Kim Dong-kyu, Art x Smart: Balcony (2013)](https://images.huffingtonpost.com/2013-11-08-tumblr_mvsa51oskq1t0tb9do1_1280.jpg)
 
 
 ## video
@@ -150,66 +124,34 @@
 - [*The Triumph of the Nerds* (1996)](http://www.pbs.org/nerds/)
     - ... loosely on the book by Robert Cringely "The Rise of Accidental Empires" includes interview and comments from Bill Gates, Steve Wozniak, Steve Jobs, and many others.
 
-
-- Alain Resnais, Toute la mémoire du monde (1956)
-- Ivan Sutherland, Sketchpad (1964)
-- Jasia Reichardt, Cybernetic Serendipity (1968)
-- Douglas Engelbart, The Mother of All Demos (1968)
-- Computer Networks: The Heralds Of Resource Sharing (1972)
-- Interview with Arthur C. Clarke (1976)
-- Xerox Star: User Interface. An Overview (1982) [1/2]
-- Andy Warhol paints Debbie Harry at Amiga Presentation (1985)
-- Commodore Amiga Präsentation mit Frank Elstner (1986)
-- Walter Benjamin, Mondrian ‘63–‘96 (1986)
-- The Open Door: Macintosh, Midi, and Music (1988)
-- Newspaper Design: Yesterday, Today and Tomorrow (1989)
-- Douglas Adams, Hyperland (1990)
-- The Machine that Changed the World (1992)
-- Im Visier des FBI. Deutsche Autoren in den USA (1995)
-- The Tablet Newspaper: A vision for the Future (1995)
-- Memex Animation (1995)
-- Triumph of the Nerds (1996)
-- Net Café (1996-2002)
-- Lutz Dammbeck, Das Netz (2004)
-- Mateusz Pozar, Write like Walter Benjamin (2009-2010)
-- The Warhol Amiga recovery project (2014)
-- Kenneth Goldsmith, Reading for Leading (2014)
-- Nikolay Punin, Malevich in the West (2014)
-- Walter Benjamin, The Unmaking of Art (2014)
-- Gertrude Stein, The Making of Americans (2015)
-- Alfred Barr, Abstract Cabinet and the Modern Narrative (2015)
-- John Perry Barlow, A Declaration of the Independence of Cyberspace (2015)
-
-[SRC](https://drahtwort.github.io/site/media/video.html)
-
-<a href="https://www.youtube.com/watch?v=i0RVSZ_yDjs" target="_blank">Alain Resnais, Toute la mémoire du monde (1956)</a>
-<a href="https://www.youtube.com/watch?v=6orsmFndx_o" target="_blank">Ivan Sutherland, Sketchpad (1964)</a>
-<a href="https://www.youtube.com/watch?v=n8TJx8n9UsA" target="_blank">Jasia Reichardt, Cybernetic Serendipity (1968)</a>
-<a href="https://www.youtube.com/watch?v=yJDv-zdhzMY" target="_blank">Douglas Engelbart, The Mother of All Demos (1968)</a>
-<a href="https://archive.org/details/ComputerNetworks_TheHeraldsOfResourceSharing" target="_blank">Computer Networks: The Heralds Of Resource Sharing (1972)</a>
-<a href="https://www.youtube.com/watch?v=D1vQ_cB0f4w" target="_blank">Interview with Arthur C. Clarke (1976)</a>
-Xerox Star: User Interface. An Overview (1982) [<a href="https://www.youtube.com/watch?v=Cn4vC80Pv6Q" target="_blank">1</a>/<a href="https://www.youtube.com/watch?v=ODZBL80JPqw" target="_blank">2</a>]
-<a href="https://www.youtube.com/watch?v=wLvTG5hwa1A" target="_blank">Andy Warhol paints Debbie Harry at Amiga Presentation (1985)</a>
-<a href="https://www.youtube.com/watch?v=z_m-9PLanp0" target="_blank">Commodore Amiga Präsentation mit Frank Elstner (1986)</a>
-<a href="http://vimeo.com/61669696" target="_blank">Walter Benjamin, Mondrian ‘63–‘96 (1986)</a>
-<a href="https://www.youtube.com/watch?v=As5ohkOHVlI" target="_blank">The Open Door: Macintosh, Midi, and Music (1988)</a>
-<a href="https://youtu.be/7oH-ftACEQs" target="_blank">Newspaper Design: Yesterday, Today and Tomorrow (1989)</a>
-<a href="https://vimeo.com/72501076" target="_blank">Douglas Adams, Hyperland (1990)</a>
-<a href="https://en.wikipedia.org/wiki/The_Machine_That_Changed_the_World_(miniseries)">The Machine that Changed the World (1992)</a>
-<a href="https://katalogbeta.slub-dresden.de/id/0011347176/" target="_blank">Im Visier des FBI. Deutsche Autoren in den USA (1995)</a>
-<a href="https://open-video.org/details.php?videoid=8315" target="_blank">The Tablet Newspaper: A vision for the Future (1995)</a>
-<a href="https://www.youtube.com/watch?v=c539cK58ees" target="_blank">Memex Animation (1995)</a>
-<a href="http://www.pbs.org/nerds/" target="_blank">Triumph of the Nerds (1996)</a>
-<a href="https://archive.org/details/netcafe" target="_blank">Net Café (1996-2002)</a>
-<a href="https://www.youtube.com/watch?v=CIfc5KpomGQ" target="_blank">Lutz Dammbeck, Das Netz (2004)</a>
-<a href="https://vimeo.com/8492024" target="_blank">Mateusz Pozar, Write like Walter Benjamin (2009-2010)</a>
-<a href="https://vimeo.com/92583299" target="_blank">The Warhol Amiga recovery project (2014)</a>
-<a href="http://edition.cnn.com/video/data/2.0/video/business/2014/06/03/spc-reading-for-leading-kenneth-goldsmith.cnn.html" target="_blank">Kenneth Goldsmith, Reading for Leading (2014)</a>
-<a href="https://www.youtube.com/watch?v=OGeMlMBCa38" target="_blank">Nikolay Punin, Malevich in the West (2014)</a>
-<a href="https://www.youtube.com/watch?v=M92NzoLvS1g" target="_blank">Walter Benjamin, The Unmaking of Art (2014)</a>
-<a href="https://www.youtube.com/watch?v=K6PYZezIRX0" target="_blank">Gertrude Stein, The Making of Americans (2015)</a>
-<a href="https://www.youtube.com/watch?v=GCpoftp8nSk" target="_blank">Alfred Barr, Abstract Cabinet and the Modern Narrative (2015)</a>
-<a href="https://vimeo.com/111576518" target="_blank">John Perry Barlow, A Declaration of the Independence of Cyberspace (2015)</a>
+- [Alain Resnais, Toute la mémoire du monde (1956)](https://www.youtube.com/watch?v=i0RVSZ_yDjs)
+- [Ivan Sutherland, Sketchpad (1964)](https://www.youtube.com/watch?v=6orsmFndx_o)
+- [Jasia Reichardt, Cybernetic Serendipity (1968)](https://www.youtube.com/watch?v=n8TJx8n9UsA)
+- [Douglas Engelbart, The Mother of All Demos (1968)](https://www.youtube.com/watch?v=yJDv-zdhzMY)
+- [Computer Networks: The Heralds Of Resource Sharing (1972)](https://archive.org/details/ComputerNetworks_TheHeraldsOfResourceSharing)
+- [Interview with Arthur C. Clarke (1976)](https://www.youtube.com/watch?v=D1vQ_cB0f4w)
+- Xerox Star: User Interface. An Overview (1982) [[1](https://www.youtube.com/watch?v=Cn4vC80Pv6Q)/[2](https://www.youtube.com/watch?v=ODZBL80JPqw)]
+- [Andy Warhol paints Debbie Harry at Amiga Presentation (1985)](https://www.youtube.com/watch?v=wLvTG5hwa1A)
+- [Commodore Amiga Präsentation mit Frank Elstner (1986)](https://www.youtube.com/watch?v=z_m-9PLanp0)
+- [Walter Benjamin, Mondrian ‘63–‘96 (1986)](http://vimeo.com/61669696)
+- [The Open Door: Macintosh, Midi, and Music (1988)](https://www.youtube.com/watch?v=As5ohkOHVlI)
+- [Newspaper Design: Yesterday, Today and Tomorrow (1989)](https://youtu.be/7oH-ftACEQs)
+- [Douglas Adams, Hyperland (1990)](https://vimeo.com/72501076)
+- [The Machine that Changed the World (1992)](https://en.wikipedia.org/wiki/The_Machine_That_Changed_the_World_(miniseries))
+- [Im Visier des FBI. Deutsche Autoren in den USA (1995)](https://katalogbeta.slub-dresden.de/id/0011347176/)
+- [The Tablet Newspaper: A vision for the Future (1995)](https://open-video.org/details.php?videoid=8315)
+- [Memex Animation (1995)](https://www.youtube.com/watch?v=c539cK58ees)
+- [Triumph of the Nerds (1996)](http://www.pbs.org/nerds/)
+- [Net Café (1996-2002)](https://archive.org/details/netcafe)
+- [Lutz Dammbeck, Das Netz (2004)](https://www.youtube.com/watch?v=CIfc5KpomGQ)
+- [Mateusz Pozar, Write like Walter Benjamin (2009-2010)](https://vimeo.com/8492024)
+- [The Warhol Amiga recovery project (2014)](https://vimeo.com/92583299)
+- [Kenneth Goldsmith, Reading for Leading (2014)](http://edition.cnn.com/video/data/2.0/video/business/2014/06/03/spc-reading-for-leading-kenneth-goldsmith.cnn.html)
+- [Nikolay Punin, Malevich in the West (2014)](https://www.youtube.com/watch?v=OGeMlMBCa38)
+- [Walter Benjamin, The Unmaking of Art (2014)](https://www.youtube.com/watch?v=M92NzoLvS1g)
+- [Gertrude Stein, The Making of Americans (2015)](https://www.youtube.com/watch?v=K6PYZezIRX0)
+- [Alfred Barr, Abstract Cabinet and the Modern Narrative (2015)](https://www.youtube.com/watch?v=GCpoftp8nSk)
+- [John Perry Barlow, A Declaration of the Independence of Cyberspace (2015)](https://vimeo.com/111576518)
 
 ## text
 
@@ -220,9 +162,9 @@ Xerox Star: User Interface. An Overview (1982) [<a href="https://www.youtube.com
 
 ### serial
 
-<a href="https://books.google.de/books?id=N0EEAAAAMBAJ&redir_esc=y#all_issues_anchor" target="_blank">LIFE (1936—1972)</a>
-<a href="https://archive.org/details/creativecomputing" target="_blank">Creative Computing (1974—1985)</a>
-<a href="https://archive.org/details/amiga-world" target="_blank">Amiga World (1985—1995)</a>
+- [LIFE (1936—1972)](https://books.google.de/books?id=N0EEAAAAMBAJ&redir_esc=y#all_issues_anchor)
+- [Creative Computing (1974—1985)](https://archive.org/details/creativecomputing)
+- [Amiga World (1985—1995)](https://archive.org/details/amiga-world)
 
 ## www
 
@@ -266,20 +208,11 @@ Xerox Star: User Interface. An Overview (1982) [<a href="https://www.youtube.com
 
 ### done
 
-- Principia Cybernetica Web (1993—2002)
-- Technovelgy (~2002)
-- Data Dandy (~2004)
-- Flâneur’s Arcade (2007)
-- Archive Team (2009)
-- Deleted City (2011)
-- Künste im Exil (2013)
-- The Library of Babel (2015)
-
-<a href="http://cleamc11.vub.ac.be/DEFAULT.html" target="_blank">Principia Cybernetica Web (1993—2002)</a>
-<a href="http://www.technovelgy.com/" target="_blank">Technovelgy (~2002)</a>
-<a href="http://www.datadandy.net/version/" target="_blank">Data Dandy (~2004)</a>
-<a href="https://flaneursarcade.wordpress.com/" target="_blank">Flâneur’s Arcade (2007)</a>
-<a href="https://www.archiveteam.org/" target="_blank">Archive Team (2009)</a>
-<a href="http://deletedcity.net/version1.html" target="_blank">Deleted City (2011)</a>
-<a href="http://kuenste-im-exil.de/" target="_blank">Künste im Exil (2013)</a>
-<a href="https://libraryofbabel.info/" target="_blank">The Library of Babel (2015)</a>
+- [Principia Cybernetica Web (1993—2002)](http://cleamc11.vub.ac.be/DEFAULT.html)
+- [Technovelgy (~2002)](http://www.technovelgy.com/)
+- [Data Dandy (~2004)](http://www.datadandy.net/version/)
+- [Flâneur’s Arcade (2007)](https://flaneursarcade.wordpress.com/)
+- [Archive Team (2009)](https://www.archiveteam.org/)
+- [Deleted City (2011)](http://deletedcity.net/version1.html)
+- [Künste im Exil (2013)](http://kuenste-im-exil.de/)
+- [The Library of Babel (2015)](https://libraryofbabel.info/)
