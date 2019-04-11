@@ -50,6 +50,9 @@
 
 - [*Proceedings WebNet '96*, San Francisco, CA, USA, November 1996](http://algo.informatik.uni-freiburg.de/bibliothek/proceedings/webnet96)
 
+- Helge Timmerberg, Computer Dirk (1984)
+
+
 
 ### open
 
@@ -80,6 +83,7 @@
 - Fred Turner, *From Counterculture to Cyberculture. Stewart Brand, the Whole Earth Network and the Rise of Digital Utopianism*, University of Chicago Press 2006.
 - J. C. Jekat, *Gottesvorstellungen auf dem Weg ins Computerzeitalter : eine Analyse über die Entwicklung von Gottesbildern in Buchdruck- und Computergesellschaft*, in: Praktische Theologie (Gütersloh) 46 (2011) 225-235;
 - Manfred Spitzer, *Digitale Demenz. Wie wir uns und unsere Kinder um den Verstand bringen*, Droemer 2012.
+
 
 
 
@@ -224,7 +228,9 @@
 
 - Rul Gunzenhäuser, *Programmierung des Schönen* [Rezension], in: *Grundlagenstudien. Aus Kybernetik und Geisteswissenschaft* 2 (Jul. 1961), No. 2, pp. 51-55.
 
+## computer mud
 
+- Maia Engeli, MUD: Text als Baumaterial (1996)
 
 ## computer nineties
 
@@ -1392,8 +1398,7 @@ Progress in the United States (New York: Putnam, 1852), v.
       - Carl Löper (ed.), *Stammbuch der neuen Verkehrsmittel*, Dresden 1881, p. 399.
 - *European Sub-Marine Telegraph*, in: Scientific American 10 (19.05.1855), Nr. 36, p. 285.
     - »They have made the ocean a highway of thought...«
-
-
+- *Der Telegraph als Verkehrsmittel* (1857)
 
 
 ## television

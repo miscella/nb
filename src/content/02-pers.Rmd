@@ -1,5 +1,77 @@
 # persona
 
+## arnheim, rudolf
+
+- Rundfunk als Hörkunst/Radio as Sound (1933/36)
+
+## mendelsohn, erich
+
+- *Amerika: Bilderbuch eines Architekten* (193X)
+
+
+## bataille, georges
+
+- Bataille, 'Begriff der Verausgabung' (1933)
+--> Forderung »nach neuen Medien kollektiver Affizierung« u.a. in 'Ästhetik und Gesellschaft' (stw)
+
+## weizenbaum, joseph
+
+- Eliza (1966)
+- Haefner, Weizenbaum im Gespräch, SPIEGEL (1987)
+
+## goldsmith, kenneth
+
+- Wasting Time on the Internet (2016)
+    - Prothesengott
+
+
+## debord, guy
+
+
+
+## kittler, friedrich
+
+- Die Stadt ist ein Medium (1988)
+
+## zweig, stefan
+
+- Sternstunden der Menschheit
+- The Tide of Fortune: Twelve Historical Miniatures (1940)
+
+## kay, alan
+
+- A Personal Computer for Children of All Ages (1972)
+
+Dynabook
+
+## rinks, josefine
+
+- Josefine Rinks, Serverland (2018)
+
+## andersen, hendrik christian
+
+- *Creation of a World Centre of Communication* (1913)
+
+## bense, max
+
+– Max Bense, Programmierung des Schönen (1960)
+
+## balasz, bela
+
+- Zur Kunstphilosophie des Films (1938)
+
+
+## warhol, andy
+
+```
+Amiga Presentation
+
+
+Guy Wright, Glenn Suokko, "Andy Warhol: An Artist and His Amiga. A conversation about art and the Amiga with Artist Andy Warhol"
+in: AmigaWorld (Jan./Feb. 1986)
+Issue 3 (Vol 2 No 1, January 1986 ?
+```
+
 ## hochstetter, gustav
 
 - [@hoc73.sch13.ger]
@@ -739,6 +811,7 @@ deutsch als:
 
 ## coetzee, j. m.
 
+- Coetzee, Brief an Paul Auster
 
 - Colin Marshall, When J.M. Coetzee Secretly Programmed Computers to Write Poetry in the 1960s, url: http://www.openculture.com/2017/07/when-j-m-coetzee-secretly-programmed-computers-to-write-poetry-in-the-1960s.html
 
@@ -807,6 +880,10 @@ ders., The Engine of Reason, the Seat of the Soul. A Philosophical Journey into 
 
 - Martin Helfert, Christoph M. Wintersteiger: Gustav Tauschek's Punchcard Accounting Machines, Proceedings of the Workshop on Methodic and Didactic Challenges of the History of Informatics (MEDICHI 2007), OCG 220, Austrian Computer Society, 2007.
 
+## franke, herbert w.
+
+Art as Data Processing
+
 
 ## calvino, italo
 
@@ -835,6 +912,11 @@ http://search.alexanderstreet.com/view/work/1827079
 
 - Helgard Mahrdt, ''Unausrottbar ist das Poetische solange es noch das Wundern gibt', Hannah Arendt über Walter Benjamin, in Dichterisch denken. Hannah Arendt und die Künste, ed. Wolfgang Heuer, Irmela von der Lühe, Göttingen 2007.
 
+## benjamin, walter
+
+- Walter Benjamins kleine Bestie, in: Der Freitag
+- Jewish Museum NY, Arcades Ausstellung (2017)
+
 ## blumenberg, hans
 
 Hans Blumenberg, Eine imaginäre Universalbibliothek, in: Akzente 28 (1981), H. 1, pp. 27-40.
@@ -845,20 +927,23 @@ Hans Blumenberg, Die Lesbarkeit der Welt, Frankfurt/M: Suhrkamp 1981 (Kap. X: We
 
 Tim Berners-Lee, et al, "World-Wide Web: Information Universe”, Electronic : Research, Applications and Policy, April 1992.
 
-Tim Berners-Lee, et al, “The World Wide Web,”Communications of the ACM, August, 1994.
-
-Tim Berners-Lee, “WWW: Past, Present, and Future”, IEEE, Computer Magazine, Vol. 29, No. 10, Oct. 1996.
-
-Tim Berners-Lee, “World-Wide Computer”, Communications of the ACM, Vol. 40, No. 2, Feb. 1997.
-
 Berners-Lee, T.J, Cailliau, R., and Groff, J-F, "The World-Wide Web", Computer Networks and ISDN Systems 25 (1992) 454-459. North-Holland
 
 Tim Berners-Lee and Cailliau, R., CERN, "The World-Wide Web", in proceedings of the conference "Computing in High Energy Physics", Annecy, France, 1992. Yellow report, CERN, Geneva, Switzerland.
 
+Tim Berners-Lee, et al, “The World Wide Web,”Communications of the ACM, August, 1994.
+
+Tim Berners-Lee, “WWW: Past, Present, and Future”, IEEE, Computer Magazine, Vol. 29, No. 10, Oct. 1996.
 
 Tim Berners-Lee, “Europe And the Info Age,” Time Magazine, Winter 1996
+
+
+Tim Berners-Lee, “World-Wide Computer”, Communications of the ACM, Vol. 40, No. 2, Feb. 1997.
+
 Tim Berners-Lee, “Spinning the Web: A place for everything, and everything on the Web?”, Data Communications, Vol. 26, No. 14, Oct. 1997.
+
 Tim Berners-Lee and James Hendler "Publishing on the Semantic Web", Nature, April 26 2001 p. 1023-1025.
+
 Tim Berners-Lee, James Hendler and Ora Lassila, "The Semantic Web", Scientific American, May 2001, p. 29-37.
 
 ## bell, gordon
@@ -962,6 +1047,8 @@ zu Förster: https://data.cerl.org/thesaurus/cnp01876233
 
 ## otlet, paul
 
+- Mundaneum
+
 ### misc
 
 - Paul Otlet, *Traité de Documentation. Le livre sur le livre. Théorie et pratique*, Brüssel 1934.
@@ -1021,13 +1108,15 @@ Vannevar Bush, Mechanization and the Record, Fortune, 1939 (??)
 
 - *»Videotex services will become mature businesses...«*, in: *The Changing Newspaper. Year 2000* / *Newspapers in the Year 2000*, New York: Associated Press, Fall 1981 (= Associated Press Managing Editors Special Report) [wc](http://www.worldcat.org/oclc/10589458) [wc_alt_1](http://www.worldcat.org/oclc/27399461) [wc_alt_2](http://www.worldcat.org/oclc/29716719) [wc_alt_3](http://www.worldcat.org/oclc/20767076)
 - *Plugging into the News*, in: *Newspapers Design 2000 and Beyond*, Reson, VA: American Press Institute 1988, pp. 36--41. [wc](http://www.worldcat.org/oclc/21124343) --> nur in Dänemark und Spanien verfügbar
+- *Mediamorphosis, or the Transformation of Newspapers into a New Medium*, in: *Media Studies Journal* (Fall 1991) --> SBB
 - bf., *Die Zeitung der Zukunft kommt ohne Papier aus*, in: FAZ (Mittwoch, Jul. 20, 1994), Nr. 166, p. 18.
 - *Declaration of Roger Fidler in Support of Samsung’s Opposition to Apple’s Motion for Preliminary Injunction* (2011)
 
 
-### open
+### video
 
-- *Mediamorphosis, or the Transformation of Newspapers into a New Medium*, in: *Media Studies Journal* (Fall 1991) --> SBB
+- The Tablet Newspaper: A Vision for the Future (1994)
+
 
 
 ### div
@@ -1035,7 +1124,7 @@ Vannevar Bush, Mechanization and the Record, Fortune, 1939 (??)
 - Garrison, *Selected bibliography: computerization and the newsroom* (1983) [src](https://doi.org/10.1080/02560054.1983.9652916)
 - William D. Rineheart, *Will there be newspapers in the year 2000?*, Vidura, 23(2) Apr. 1986, p, 72-5.
 
-
+- Dokument vom Gerichtsprozess Apple vs. Samsung(?) wg. Tablet (2011)
 
 ## lutz, theo
 

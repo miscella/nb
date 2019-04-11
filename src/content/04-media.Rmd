@@ -202,6 +202,10 @@
     - [rhizome](http://rhizome.org/art/artbase/artwork/deleted-cities/)
 - [bot or not](http://botpoet.com/)
 
+
+- [The Ghost in the MP3](http://ryanmaguiremusic.com/theghostinthemp3.html)
+    - Tom's Diner <=> moDernisT
+
 ### misc
 
 - [rhizome, *Digital Social Memory*](https://rhizome.org/editorial/tags/digital-social-memory/)
