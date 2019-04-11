@@ -1,5 +1,31 @@
 # persona
 
+## ritter, johann wilhelm
+
+```
+Die Physik als Kunst : ein Versuch, die Tendenz der Physik aus ihrer Geschichte zu deuten ; zur Stiftungsfeyer der königlich-baierischen Akademie der Wissenschaften am 28sten März 1806
+Autor / Hrsg.: Ritter, Johann Wilhelm ; Ritter, Johann Wilhelm
+Verlagsort: München | Erscheinungsjahr: 1806 | Verlag: Lindauer
+Signatur: 1404947 4 Bavar. 2132 h-1/5#Cah.3 1404947 4 Bavar. 2132 h-1/5#Cah.3
+Reihe: Die Physik als Kunst : ein Versuch, die Tendenz der Physik aus ihrer Geschichte zu deuten ; zur Stiftungsfeyer der königlich-baierischen Akademie der Wissenschaften am 28sten März 1806
+Permalink: http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10336183-1
+
+Fragmente aus dem Nachlasse eines jungen Physikers : ein Taschenbuch für Freunde der Natur
+Autor / Hrsg.: Ritter, Johann Wilhelm ; Ritter, Johann Wilhelm
+Verlagsort: Heidelberg | Erscheinungsjahr: (1810) | Verlag: Mohr und Zimmer
+Signatur: Phys.g. 379-1
+Reihe: Fragmente aus dem Nachlasse eines jungen Physikers : ein Taschenbuch für Freunde der Natur
+Permalink: http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10131878-4
+
+
+Fragmente aus dem Nachlasse eines jungen Physikers : ein Taschenbuch für Freunde der Natur
+Autor / Hrsg.: Ritter, Johann Wilhelm ; Ritter, Johann Wilhelm
+Verlagsort: Heidelberg | Erscheinungsjahr: (1810) | Verlag: Mohr und Zimmer
+Signatur: Phys.g. 379-2
+Reihe: Fragmente aus dem Nachlasse eines jungen Physikers : ein Taschenbuch für Freunde der Natur
+Permalink: http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10131879-4
+```
+
 ## freud, sigmund
 
 - [@fre56.not25.ger]

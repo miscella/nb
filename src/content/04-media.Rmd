@@ -91,6 +91,8 @@
 
 ### add
 
+- H.G. Wells, [Things to Come](https://youtu.be/atwfWEKz00U) (1936)
+
 
 - Paris Weltausstellung 1937 (youtube)
     - [M198](https://youtu.be/72A-MKN_OXc)
@@ -165,6 +167,13 @@
 - [LIFE (1936—1972)](https://books.google.de/books?id=N0EEAAAAMBAJ&redir_esc=y#all_issues_anchor)
 - [Creative Computing (1974—1985)](https://archive.org/details/creativecomputing)
 - [Amiga World (1985—1995)](https://archive.org/details/amiga-world)
+
+#### Prager Tagblatt
+
+- [loc](https://www.loc.gov/item/sn97058428/)
+- [zdb](https://zdb-katalog.de/title.xhtml?idn=010573135)
+- [zeyfs](http://zefys.staatsbibliothek-berlin.de/web/resource/details/92648/Prager%2BTagblatt%2B%25281877-1938%2529/)
+- [austria forum](https://austria-forum.org/af/AustriaWiki/Prager_Tagblatt)
 
 ## www
 
