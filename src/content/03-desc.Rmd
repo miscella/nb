@@ -728,6 +728,7 @@ number=40
 - Mark Twain, *From the London Times 1904* (1898)
 - Brehmer (ed.), *Die Welt in hundert Jahren* (1910)
     - Hudson Maxim, *Das 1000jährigen Reich der Maschinen*
+- [@hoc73.sch13.ger]
 - Walter Benjamin, *Einbahnstraße* (1928)
 - Erich Kästner, *Der 35. Mai oder Konrad reitet in die Südsee* (1933)
 - Paul Otlet, *Traité de documentation. Le livre sur le livre* (1934)
@@ -940,6 +941,7 @@ number=40
 - Hermann H. Fussler, *American Microphotography at the Paris Exposition*. ALA Bulletin 32 (February 1938): 104-6.
 - *Watson Davis, Microfilm - new tool for intelligence : address before the Special Libraries Association*, Pittsburgh, June 8, 1938.
 - *The Present Status of Equipment and Supplies*, in: Journal of Documentary Reproduction 1 (1938) H. 3, 4–56.
+- Carruthers, R. H. (1938). *The place of microfilm in public library reference work*. Journal of Documentary Reproduction, 1: 263-268.
 - George A. Schwegmann, *The Photoduplications Service of the Library of Congress*, in: Journal of Documentary Reproduction 2, (1939) H. 3, 176–179.
 - Eugene B. Power, *University Microfilms*, in: Journal of Documentary Reproduction 2 (1939) H. 1, 21–28.
 - Eugene B. Power, *Microfilm in Europe*, in: Journal of Documentary Reproduction 2 (1939) H. 4, 258.

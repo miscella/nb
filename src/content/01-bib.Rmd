@@ -4,21 +4,18 @@
 
 ### dnb
 
-#### bestellt
+#### ausgeliehen
 
 - Prager Tablatt [src](http://d-nb.info/010573135)
     - Abendausgabe [src](http://d-nb.info/015791777)
-
-#### ausgeliehen
-
-- Die Lochkarten-Buchhaltungs-Maschinen meines Systems / Gustav Tauschek, [Wien, XIV., Meinhartsdorfergasse 1] : [G. Tauschek], 1930. [dnb](http://d-nb.info/576641979)
-- Gustav Tauschek und seine Maschinen / Martin Helfert ; Petra Mazuran ; Christoph Wintersteiger. Mit einem Geleitw. von Heinz Zemanek, Linz : Trauner, 2006. [dnb](http://d-nb.info/980811902)
 
 #### bestellen
 
 - Frank (ed.), Von der systematischen Bibliographie zur Dokumentation (1978) [dnb](http://d-nb.info/790224143) [toc](http://d-nb.info/790224143/04)
 - Urbans, Klaus; et al., *Elektrografie. Analoge und digitale Bilder*, Köln: DuMont 1994.
 - Saskia Reiter, *Computerpoesie. Studien zur Modifikation poetischer Texte durch den Computer*, Bielefeld: transcript 2003.
+- Die Lochkarten-Buchhaltungs-Maschinen meines Systems / Gustav Tauschek, [Wien, XIV., Meinhartsdorfergasse 1] : [G. Tauschek], 1930. [dnb](http://d-nb.info/576641979)
+- Gustav Tauschek und seine Maschinen / Martin Helfert ; Petra Mazuran ; Christoph Wintersteiger. Mit einem Geleitw. von Heinz Zemanek, Linz : Trauner, 2006. [dnb](http://d-nb.info/980811902)
 
 #### lesesaal
 
@@ -32,11 +29,6 @@ Lesesaalbestand
 
 
 ### albertina
-
-#### bestellt
-
-- *Neue Rundschau* 42.1 (1931)
-    -  Roland Kayser, Die Eroberung der Allgegenwärtigkeit, pp. 713f.
 
 #### bestellen
 
@@ -122,6 +114,11 @@ Lesesaalbestand
 
 
 ## done
+
+### albertina
+
+- *Neue Rundschau* 42.1 (1931)
+    -  Roland Kayser, Die Eroberung der Allgegenwärtigkeit, pp. 713f.
 
 ### dnb
 

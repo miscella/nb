@@ -1,5 +1,21 @@
 # persona
 
+## hochstetter, gustav
+
+- [@hoc73.sch13.ger]
+
+## fairthorne, robert
+
+Fairthorne, R. A. (1958). Automatic retrieval of recorded information. Computer Journal, 1: 36-41.
+
+## vonnegut, kurt
+
+
+- Player Piano (1952)
+    - `DEU` Das höllische System
+
+Player Piano is the first novel of American writer Kurt Vonnegut, published in 1952. It depicts a dystopia of automation, describing the negative impact it can have on quality of life. The story takes place in a near-future society that is almost totally mechanized, eliminating the need for human laborers.
+
 ## ritter, johann wilhelm
 
 ```
@@ -36,9 +52,47 @@ Goldberg, E. (1932b). Das Registrierproblem in der Photographie. In Internationa
 
 Goldberg, Emanuel: Das Registrierproblem in der Photographie. In: Eggert, J./Biehler, A. v. (Hrsg.): Bericht über den VIII. Internationalen Kongress für Wissenschaftliche und Angewandte Photographie : Dresden 1931. Barth/Leipzig 1932. S. 317-320.
 
-Michael Buckland: Vom Mikrofilm zur Wissensmaschine: Emanuel Goldberg zwischen Medientechnik und Politik. Avinus-Verlag, Berlin 2010, ISBN 978-3-86938-015-5, (Forschung visuelle Kultur; Bd. 1); dt. Übersetzung von: Emanuel Goldberg and his Knowledge Machine. Information, Invention, and political Forces. Libraries Unlimited, Westport CT u. a. 2006,
+Zeiss Ikon AG. & Goldberg, E. (1938). Vorrichtung zum Aussuchen statistischer und Buchhalterischer Angaben. [German] Patentschrift 670 190. Dec. 22, 1938.
+
+Goldberg, N. (1969). The other Goldberg: A visit with Zeiss Ikon's practical prodigy. Popular Photography, 65, no. 5 (November 1969): 88-89, 154.
+
+Neumann, S. (1957). Prof. Emanuel Goldberg. Bulletin of the Research Council of Israel. Section C: Technology, 5C, no. 4: iii-v.
 
 us patent 1915993
+
+
+Michael Buckland: Vom Mikrofilm zur Wissensmaschine: Emanuel Goldberg zwischen Medientechnik und Politik. Avinus-Verlag, Berlin 2010, ISBN 978-3-86938-015-5, (Forschung visuelle Kultur; Bd. 1); dt. Übersetzung von: Emanuel Goldberg and his Knowledge Machine. Information, Invention, and political Forces. Libraries Unlimited, Westport CT u. a. 2006,
+
+
+Buckland, Emanuel Goldberg and His Knowledge Machine : Information, Invention, and Political Forces
+    - Microdots (105--118)
+    - Television (148--)
+    - The Statistical Machine (147--163)
+    - The Microfilm Rapid Selector (217--228)
+    - Bibliography of Emanuel Goldberg’s Writings (325--340)
+
+
+On February 14, 1925, Klemperer morosely recorded his attendance at a university dinner the previous evening.
+
+
+Opposite me, speaking Galician German, a Professor Goldberg, director of the ICA works (photographic company). At first we were embarrassed by his strict positivism—one will calculate psyche as an electrical current—but then he spoke most interestingly about progress in microphotography and the assured future of libraries. Already one can place 10,000 print pages in easily legible microscopic writing on the diameter of a dinner plate. One will carry a whole library in a briefcase. There will be microscopes in the reading rooms and one will find a particular page by turning a crank.
+
+“Opposite me” Klemperer (1996, 11–12: “Mir gegenüber, galizisches Deutsch sprechend, ein Professor Goldberg, Director der Ica-Werke (photograph.-Unternehmen). Er war erst peinlich durch sein eng positivistisches Wesen—man werde Psyche berechnen lernen wie elektrischen Strom—erzählte dann höchst interessant von Forstchritten der verkleinerungsphotographie u. von der sicheren Zukunft der Bibliotheken. Man bringe heute schon 10 000 Druckseiten in gut lesbarer mikropscopischer Schrift auf dem Durchmesser eines frühstückstellers unter. Man wird eine Bibliothek in der brieftasche tragen. In den Lesesälen werden Mikroscope stehen, man wird durch Kurbeln die betreffenden Seiten einstellen.” Other references to Goldberg on p. 347 (“Geradezu galizisch”), 423–24, and 443–44. Klemperer’s later diaries (1995; English translation 1998) for 1933–45 mention Zeiss Ikon but not Goldberg.
+
+
+
+
+
+Elsewhere, Otlet picked up on Ostwald’s notion that a dynamic, hypertextual encyclopedia would be, in effect, an artificial extension of the brain, and he speculated:
+
+. . . that all knowledge, all information could be so condensed that it could even be contained in a limited number of works placed on a desk, and so within hand’s reach, and indexed in such a way as to make consultation very easy. In this way the World described in the entirety of the books would really be within everyone’s grasp. The Universal Book created from all the books would become very approximately an annex to the brain, a support for memory, an external mechanism and instrument of the mind, but so close to it, and so suited to its use that it would be truly be a sort of added organ, an attachment outside the skin. . . . The organ would have the function of rendering our Being in all places and all times.
+
+
+. . . that all knowledge Otlet (1934b, 428); in English, Otlet (1990, 1): “Une hypothèse moins absolue, mais très radicale encore, supposerait que toutes les connaissances, toutes les informations pourraient être rendues assez compactes pour être contenues en un certain nombres d’ouvrages disposés sur la table de Travail même, donc à distance de la main, et indexés de manière à rendre la consultation aisée au maximum. Dans ce cas le Monde décrit dans l’ensemble des Livres serait réellement à portée de chacun. Le Livre Universel formé de tous les Livres, serait devenu très approximativement une annexe du Cerveau, substratum lui-même de la mémoire, méchanisme et instrument extérieur à l’esprit, mais si près de lui et si apte à son usage que ce serait vraiment une sorte d’organe annexe, appendice exodermique. . . . Cet organe aurait fonction de rendre notre être ‘ubique et éternel’.”
+
+
+
+
 
 ## valery, paul
 
@@ -449,9 +503,14 @@ El Lissitzky, “Our Book,” in El Lissitzky: Life, Letters, Text, ed. Sophie L
 
 ### books
 
-- Summa Technologiae
+- *Summa Technologiae*
 
 The book has 8 chapters, each dealing with far-fetched implications of a certain concept: ... The first edition also contained: 9 Art and Technology (Polish: Sztuka i technologia.) After Leszek Kołakowski severely criticised the chapter, it was removed in later editions, both Polish and foreign. In 1988 Lem remarked that during the time past the subject had gained it its actuality. [src](https://en.wikipedia.org/wiki/Summa_Technologiae)
+
+- Stanisław Lem, *Summa Technologiae*, Kraków: Wydawnictwo Literackie 1964.
+    - Aus dem Polnischen von Friedrich Griese.
+        - Frankfurt am Main: Insel 1978
+        - Berlin: Volk und Welt 1980
 
 ## leary, timothy
 
@@ -1011,3 +1070,42 @@ Vienna, Austria-Hungary
 
 Died	5 May 1921 (aged 56)
 Vienna
+
+archive.org
+https://archive.org/search.php?query=creator%3A%22Fried%2C+Alfred+Hermann%2C+1864-1921%22
+
+HathiTrust
+https://catalog.hathitrust.org/Search/Home?lookfor=%22Fried,%20Alfred%20Hermann%22&type=author&inst=
+
+
+
+Annuaire de la vie internationale... / par Alfred H. Fried
+https://gallica.bnf.fr/ark:/12148/cb326966804/
+https://gallica.bnf.fr/ark:/12148/cb326966804/date.item
+https://catalog.hathitrust.org/Record/000524653
+https://catalog.hathitrust.org/Record/011712389
+
+1905
+https://gallica.bnf.fr/ark:/12148/bpt6k57277351
+
+1906
+https://gallica.bnf.fr/ark:/12148/bpt6k5688624m
+
+1907
+https://gallica.bnf.fr/ark:/12148/bpt6k5652035n
+
+
+Union des associations internationales
+https://data.bnf.fr/fr/11990201/union_des_associations_internationales/
+
+
+
+Lexikon deutscher citate. Hrsg. von Alfred Hermann Fried. Leipzig, P. Reclam jun. [1889]
+https://catalog.hathitrust.org/Record/001901239/Home
+
+Lexicon fremdsprachlicher citate / hrsg. von Alfred Hermann Fried. Leipzig : Philipp Reclam, [1888]
+https://catalog.hathitrust.org/Record/100906336/Home
+
+Die Landläufigsten Citate und berühmsten Aussprüche in deutscher, lateinischer, französischer, englischer und italienischer Sprache by Fried, Alfred Hermann, 1864-1921
+Publication date 1900
+https://archive.org/details/dielandlufigst00frieuoft/
