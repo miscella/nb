@@ -4,6 +4,11 @@
 
 ### dnb
 
+#### bestellt
+
+- *Leben sammeln, nicht fragen wozu und warum* / 2. *Tagebücher 1925 - 1932* 1996, 1. Aufl.
+    - [src](http://d-nb.info/948805072)
+
 #### ausgeliehen
 
 - Prager Tablatt [src](http://d-nb.info/010573135)
@@ -34,15 +39,6 @@ Lesesaalbestand
 
 - IID / FID Communicationes
 - Theo Lutz, *Grundlagen der Datenverarbeitung : der Computer und seine Möglichkeiten; Lerntext*, Berlin: IBM Deutschland GmbH 1981.
-
-#### ausgeliehen
-
-- Stanisław Lem, *Summa technologiae*, Berlin: Verl. Volk u. Welt 1980.
-    - Aus dem Polnischen von Friedrich Griese, (c) Frankfurt am Main: Insel Verl. 1976
-- Heinlein, Robert A., *Stranger in a strange land*, 9. impr., New York: Putnam 1961.
-- Vonnegut, Kurt. *Das Höllische System*, München: Goldmann, 1988. [albi](https://katalog.ub.uni-leipzig.de/Record/0002511600)
-    - 1. ungekürzte dt. Ausg., 1. Aufl. // [albi-eng](https://katalog.ub.uni-leipzig.de/Record/0002347356)
-
 
 ### zwg-bib kunst
 
@@ -119,6 +115,12 @@ Lesesaalbestand
 
 - *Neue Rundschau* 42.1 (1931)
     -  Roland Kayser, Die Eroberung der Allgegenwärtigkeit, pp. 713f.
+- Stanisław Lem, *Summa technologiae*, Berlin: Verl. Volk u. Welt 1980.
+    - Aus dem Polnischen von Friedrich Griese, (c) Frankfurt am Main: Insel Verl. 1976
+- Heinlein, Robert A., *Stranger in a strange land*, 9. impr., New York: Putnam 1961.
+- Vonnegut, Kurt. *Das Höllische System*, München: Goldmann, 1988. [albi](https://katalog.ub.uni-leipzig.de/Record/0002511600)
+    - 1. ungekürzte dt. Ausg., 1. Aufl. // [albi-eng](https://katalog.ub.uni-leipzig.de/Record/0002347356)
+
 
 ### dnb
 
