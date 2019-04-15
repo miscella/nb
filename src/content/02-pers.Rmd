@@ -1,5 +1,13 @@
 # persona
 
+## husserl, edmund
+
+Philosophie der Arithmetik (1891)
+
+Dieter Münch, The early work of Edmund Husserl and artificial intelligence, The Journal of the British Society for Phenomenology (1990) 21, 108-120.
+
+ders., Minds, brains and cognitive science, in Armin Burkhardt (ed.), Speech acts, meaning and intentions, Berlin: de Gruyter 1990, 367-390.
+
 ## arnheim, rudolf
 
 - Rundfunk als Hörkunst/Radio as Sound (1933/36)
