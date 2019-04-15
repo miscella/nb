@@ -114,9 +114,31 @@ Reihe: Fragmente aus dem Nachlasse eines jungen Physikers : ein Taschenbuch für
 Permalink: http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10131879-4
 ```
 
+## twain, mark
+
+[src](https://history-computer.com/Internet/Dreamers/Twain.html)
+
+The telectrophonoscope of Mark Twain
+
+The great American author Samuel Langhorne Clemens (1835–1910), better known by his pen name Mark Twain, wrote The Adventures of Tom Sawyer and its sequel, Adventures of Huckleberry Finn, the latter often called "the Great American Novel".
+
+Jan SzczepanikIn 1898 Twain met Jan Szczepanik (1872–1926) (see the nearby image), a young and very capable Austrian-Polish inventor, with several hundred patents and over 50 discoveries to his name, many of which are still applied today. Some of Szczepanik's concepts helped the future evolution of TV broadcasting, such as the telectroscope (an apparatus for distant reproduction of images and sound using electricity) or the wireless telegraph, which greatly affected the development of telecommunications. Szczepanik invented also a submarine, a colorimeter, an electric rifle, a color image weaving method, a moving wing aircraft, a duplex rotor helicopter, a dirigible, etc.
+
+The term "telectroscope" was devised by the French writer and publisher Louis Figuier (1819–1894) in 1878 to popularize an invention wrongly interpreted as real and incorrectly ascribed to Alexander Graham Bell. Figuier's "telectroscope" was a fictional device, the first prototype television, capable to transmit pictures and sound anywhere.
+
+Later the word "telectroscope" was widely accepted by several 19th century inventors like George Carey, Constantin Senlecq, Adriano de Paiva, and Jan Szczepanik, who (together with the Viennese banker Ludwig Kleinberg) applied for a British patent for his device (Method and Apparatus for Reproducing Pictures and the like at a Distance by Means of Electricity) in 1897 (British Patent N°5031). Szczepanik's telectroscope was covered in the New York Times in April, 1898, where it was described as a scheme for the transmission of colored rays.
+
+In 1898 Twain described Szczepanik in two of his articles: "The Austrian Edison keeping school again" and "From The Times of 1904".
+
+In the "From The Times of 1904" (it is a fictional criminal short story) Twain dreamed up for a telelectroscope (he called it telectrophonoscope), which used the existing phone system to create a world wide network of information-sharing. In the Twain's short story, as early as in 1904, telectrophonoscopes are spread all over the globe, and every man can get one and exchange visual and sound information with all other owners of telectrophonoscopes.
+
 ## freud, sigmund
 
 - [@fre56.not25.ger]
+
+Translation, reprinted from Int. l. Psycho-Anal., 21 (1940), 469, by James Strachey
+
+- [The 'Mystic Writing Pad': What Would Freud Make of Today's Tablets?](https://www.theatlantic.com/technology/archive/2013/01/the-mystic-writing-pad-what-would-freud-make-of-todays-tablets/272512/)
 
 ## goldberg, emmanuel
 
